@@ -17,7 +17,7 @@ jobs:
       run: git clone https://github.com/lesspass/lesspass.git
 
     - name: Login Ali
-      run: docker login  --username=out@qxzg.xyz --password=$ALI_DOCKER_REGISTRY_LOGIN registry.cn-beijing.aliyuncs.com 
+      run: docker login  --username=out@qxzg.xyz --password="$ALI_DOCKER_REGISTRY_LOGIN" registry.cn-beijing.aliyuncs.com 
 
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
