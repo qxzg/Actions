@@ -10,7 +10,10 @@ sed -i 's/listen       80;/listen       45629;/g' packages/lesspass-site/nginx.c
 sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-site/index.html
 sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-site/gulpfile.js
 
-sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-pure/src/api/default.js 
-sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-pure/src/services/url-parser.test.js 
-sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-pure/cypress/integration/connectedMode.spec.js 
-#sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g'  packages/lesspass-pure/src/store/getters.test.js
+sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' mobile/src/password/site/filter.test.js 
+sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-pure/src/api/password.test.js 
+sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' containers/backend/lesspass/settings.py 
+# sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-pure/src/api/default.js 
+# sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-pure/src/services/url-parser.test.js 
+# sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-pure/cypress/integration/connectedMode.spec.js 
+# sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g'  packages/lesspass-pure/src/store/getters.test.js
