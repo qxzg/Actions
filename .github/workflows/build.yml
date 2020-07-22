@@ -6,6 +6,7 @@ on:
 
 env:
   UPLOAD_DIFF: false
+  UPLOAD_WED_DIRECTORY: true
   CONTAINER_URL: ${{ secrets.ALI_CONTAINER_URL }}
 
 jobs:
@@ -57,3 +58,13 @@ jobs:
         docker tag $CONTAINER_URL/lesspass-backend $CONTAINER_URL/lesspass-backend:actions
         docker push $CONTAINER_URL/lesspass-frontend:actions
         docker push $CONTAINER_URL/lesspass-backend:actions
+
+    - name: Upload Wed Directory
+      uses: actions/upload-artifact@v2
+      if: env.UPLOAD_WED_DIRECTORY == 'true' && !cancelled()
+      run: |
+        docker run -i -t -d $CONTAINER_URL/lesspass-frontend:action
+        docker cp $(docker ps -q):/usr/share/nginx/html ./
+      with:
+        name: webdir
+        path: ./html/
