@@ -7,6 +7,7 @@ on:
 env:
   UPLOAD_DIFF: false
   UPLOAD_WED_DIRECTORY: true
+  PUSH_CONTAINERS: true
   CONTAINER_URL: ${{ secrets.ALI_CONTAINER_URL }}
 
 jobs:
@@ -49,6 +50,7 @@ jobs:
         ./docker-compose build
 
     - name: Push containers
+      if: env.PUSH_CONTAINERS == 'true' && !cancelled()
       env:
         ALI_LOGIN: ${{ secrets.ALI_DOCKER_REGISTRY_LOGIN }}
       run: |
@@ -59,12 +61,16 @@ jobs:
         docker push $CONTAINER_URL/lesspass-frontend:actions
         docker push $CONTAINER_URL/lesspass-backend:actions
 
-    - name: Upload Wed Directory
-      uses: actions/upload-artifact@v2
+    - name: Copy Wed Directory
+      id: copywebdir
       if: env.UPLOAD_WED_DIRECTORY == 'true' && !cancelled()
       run: |
         docker run -i -t -d $CONTAINER_URL/lesspass-frontend:action
         docker cp $(docker ps -q):/usr/share/nginx/html ./
+
+    - name: Upload Wed Directory
+      if: steps.copywebdir.outputs.status == 'success' && env.UPLOAD_WED_DIRECTORY == 'true' && !cancelled()
+      uses: actions/upload-artifact@v2
       with:
         name: webdir
         path: ./html/
