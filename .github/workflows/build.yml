@@ -70,7 +70,7 @@ jobs:
         docker rm -f $(docker ps -q)
 
     - name: Upload Wed Directory
-      if: steps.copywebdir.outputs.status == 'success' && env.UPLOAD_WED_DIRECTORY == 'true' && !cancelled()
+      if: env.UPLOAD_WED_DIRECTORY == 'true' && !cancelled()
       uses: actions/upload-artifact@v2
       with:
         name: webdir
