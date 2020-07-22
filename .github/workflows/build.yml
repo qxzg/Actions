@@ -4,6 +4,9 @@ on:
   push:
     branches: [ master ]
 
+env:
+  UPLOAD_DIFF: flase
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,11 +19,6 @@ jobs:
     - name: Cloen lesspass source code
       run: git clone https://github.com/lesspass/lesspass.git
 
-    - name: Login To Ali
-      env:
-        ALI_PASS: ${{ secrets.ALI_DOCKER_REGISTRY_LOGIN }}
-      run: docker login $ALI_PASS
-
     - name: Load custom configuration
       run: |
         chmod +x diy.sh
@@ -32,6 +30,23 @@ jobs:
         
     - name: Upload diff file
       uses: actions/upload-artifact@v2
+      if: env.UPLOAD_DIFF == 'true' && !cancelled()
       with:
-        name: diff${{ env.FILE_DATE }}
+        name: diff
         path: diff.txt
+
+    - name: Build containers
+      env:
+        CONTAINER_URL: ${{ secrets.ALI_CONTAINER_URL }}
+      run: |
+        cd lesspass/containers/
+        docker build --tag "$CONTAINER_URL"/backend
+        docker build --tag "$CONTAINER_URL"/frontend
+
+    - name: Push containers
+      env:
+        ALI_LOGIN: ${{ secrets.ALI_DOCKER_REGISTRY_LOGIN }}
+      run: |
+        docker login $ALI_LOGIN
+        docker push "$CONTAINER_URL"/backend
+        docker push "$CONTAINER_URL"/frontend
