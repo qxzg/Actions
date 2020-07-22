@@ -8,6 +8,9 @@ echo "RUN sed -i 's/https:\/\/lesspass.com/https:\/\/qxzg.xyz/g' /usr/share/ngin
 sed -i 's/EXPOSE 80/EXPOSE 45629/g' packages/lesspass-site/Dockerfile
 sed -i 's/listen       80;/listen       45629;/g' packages/lesspass-site/nginx.conf
 
+sed -i 's/\"backend\", \".lesspass.com\", //g' containers/backend/lesspass/settings.py
+sed -i 's/lesspass.local/127.0.0.1/g' containers/backend/lesspass/settings.py
+
 sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-site/index.html
 sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-site/gulpfile.js
 sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' containers/backend/lesspass/settings.py 
