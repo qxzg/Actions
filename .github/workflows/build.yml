@@ -40,13 +40,12 @@ jobs:
         CONTAINER_URL: ${{ secrets.ALI_CONTAINER_URL }}
       run: |
         cd lesspass/containers/
-        docker build --tag "$CONTAINER_URL"/backend ./backend
         docker build --tag "$CONTAINER_URL"/frontend ./frontend
 
     - name: Push containers
       env:
         ALI_LOGIN: ${{ secrets.ALI_DOCKER_REGISTRY_LOGIN }}
       run: |
+        docker images
         docker login $ALI_LOGIN
-        docker push "$CONTAINER_URL"/backend
-        docker push "$CONTAINER_URL"/frontend
+        docker push $CONTAINER_URL/frontend
