@@ -53,5 +53,7 @@ jobs:
       run: |
         docker images
         docker login $ALI_LOGIN
-        docker push $CONTAINER_URL/lesspass-frontend
-        docker push $CONTAINER_URL/lesspass-backend
+        docker tag $CONTAINER_URL/lesspass-frontend $CONTAINER_URL/lesspass-frontend:actions
+        docker tag $CONTAINER_URL/lesspass-backend $CONTAINER_URL/lesspass-backend:actions
+        docker push $CONTAINER_URL/lesspass-frontend:actions
+        docker push $CONTAINER_URL/lesspass-backend:actions
