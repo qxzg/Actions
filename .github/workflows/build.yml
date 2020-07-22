@@ -25,6 +25,7 @@ jobs:
       run: |
         chmod +x diy.sh
         mv diy.sh lesspass/
+        cd lesspass/
         ./diy.sh
         git diff >> $GITHUB_WORKSPACE/diff.txt
         
