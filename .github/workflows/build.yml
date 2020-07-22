@@ -42,7 +42,10 @@ jobs:
     - name: Build containers
       run: |
         cd lesspass/containers/
-        docker-compose build
+        wget https://github.com/docker/compose/releases/download/latest/docker-compose-Linux-x86_64 -O docker-compose
+        chmod +x docker-compose
+        ./docker-compose -v
+        ./docker-compose build
 
     - name: Push containers
       env:
