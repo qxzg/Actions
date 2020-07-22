@@ -28,6 +28,10 @@ jobs:
       env:
         CONTAINER_DOMAIN: ${{ secrets.ALI_CONTAINER_DOMAIN }}
         CONTAINER_PATH: ${{ secrets.ALI_CONTAINER_PATH }}
+        DEFAULT_FROM_EMAIL: ${{ secrets.DEFAULT_FROM_EMAIL }}
+        EMAIL_HOST: ${{ secrets.EMAIL_HOST }}
+        EMAIL_HOST_USER: ${{ secrets.EMAIL_HOST_USER }}
+        EMAIL_HOST_PASSWORD: ${{ secrets.EMAIL_HOST_PASSWORD }}
       run: |
         chmod +x diy.sh
         mv diy.sh lesspass/
