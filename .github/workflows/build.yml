@@ -16,6 +16,9 @@ jobs:
     - name: Cloen lesspass source code
       run: git clone https://github.com/lesspass/lesspass.git
 
+    - name:Login Ali
+      run: docker login $ALI_DOCKER_REGISTRY_LOGIN
+
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
       run: |
@@ -24,4 +27,4 @@ jobs:
         docker-compose -v
         yarn -v
         pwd
-        ll
+        ls -l
