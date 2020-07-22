@@ -13,7 +13,7 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
 
-    - name: Cloen source code
+    - name: Cloen lesspass source code
       run: git clone https://github.com/lesspass/lesspass.git
 
     # Runs a set of commands using the runners shell
@@ -23,3 +23,5 @@ jobs:
         echo test, and deploy your project.
         docker-compose -v
         yarn -v
+        pwd
+        ll
