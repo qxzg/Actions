@@ -6,6 +6,7 @@ on:
 
 env:
   UPLOAD_DIFF: flase
+  CONTAINER_URL: ${{ secrets.ALI_CONTAINER_URL }}
 
 jobs:
   build:
@@ -36,8 +37,6 @@ jobs:
         path: diff.txt
 
     - name: Build containers
-      env:
-        CONTAINER_URL: ${{ secrets.ALI_CONTAINER_URL }}
       run: |
         cd lesspass/containers/
         docker build --tag "$CONTAINER_URL"/frontend ./frontend
