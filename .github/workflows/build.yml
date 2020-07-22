@@ -8,8 +8,8 @@ on:
 
 env:
   UPLOAD_DIFF: false
-  UPLOAD_WED_DIRECTORY: true
-  PUSH_CONTAINERS: false
+  UPLOAD_WED_DIRECTORY: false
+  PUSH_CONTAINERS: true
   CONTAINER_URL: ${{ secrets.ALI_CONTAINER_URL }}
 
 jobs:
