@@ -27,10 +27,11 @@ jobs:
         mv diy.sh lesspass/
         cd lesspass/
         ./diy.sh
-        git diff >> $GITHUB_WORKSPACE/diff.txt
+        git diff >> "$GITHUB_WORKSPACE/diff.txt"
+        cat "$GITHUB_WORKSPACE/diff.txt"
         
     - name: Upload diff file
       uses: actions/upload-artifact@v2
       with:
         name: diff${{ env.FILE_DATE }}
-        path: $GITHUB_WORKSPACE/diff.txt
+        path: "$GITHUB_WORKSPACE/diff.txt"
