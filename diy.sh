@@ -5,8 +5,12 @@ sed -i 's/quay.io/'${CONTAINER_DOMAIN}'/g' containers/docker-compose.yml
 sed -i 's/\/lesspass\//'${CONTAINER_PATH}'/g' containers/docker-compose.yml
 
 sed -i 's/EXPOSE 80/EXPOSE 45629/g' packages/lesspass-site/Dockerfile
-sed -i 's/listen       80;/listen       45629;/g' packages/lesspass-site/nginx.conf 
+sed -i 's/listen       80;/listen       45629;/g' packages/lesspass-site/nginx.conf
 
 sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-site/index.html
 sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-site/gulpfile.js
-sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g'  packages/lesspass-pure/src/store/getters.test.js
+
+sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-pure/src/api/default.js 
+sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-pure/src/services/url-parser.test.js 
+sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g' packages/lesspass-pure/cypress/integration/connectedMode.spec.js 
+#sed -i 's/https:\/\/lesspass.com/https:\/\/pass.qxzg.xyz/g'  packages/lesspass-pure/src/store/getters.test.js
