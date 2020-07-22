@@ -5,7 +5,7 @@ on:
     branches: [ master ]
 
 env:
-  UPLOAD_DIFF: true
+  UPLOAD_DIFF: false
   CONTAINER_URL: ${{ secrets.ALI_CONTAINER_URL }}
 
 jobs:
