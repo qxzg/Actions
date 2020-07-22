@@ -65,7 +65,6 @@ jobs:
         docker push $CONTAINER_URL/lesspass-backend:actions
 
     - name: Copy Wed Directory
-      id: copywebdir
       if: env.UPLOAD_WED_DIRECTORY == 'true' && !cancelled()
       run: |
         docker run -i -t -d $CONTAINER_URL/lesspass-frontend
@@ -78,3 +77,12 @@ jobs:
       with:
         name: webdir
         path: ./html/
+
+    - name: Test containers
+      run: |
+        docker run -itd -p 45628:45628 $CONTAINER_URL/lesspass-backend
+        docker run -itd -p 45629:45629 $CONTAINER_URL/lesspass-frontend
+        sleep 20
+        curl --connect-timeout 5 --retry 2 http://127.0.0.1:45628
+        curl --connect-timeout 5 --retry 2 http://127.0.0.1:45629
+        docker rm -f $(docker ps -q)
