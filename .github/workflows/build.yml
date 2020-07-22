@@ -5,7 +5,7 @@ on:
     branches: [ master ]
 
 env:
-  UPLOAD_DIFF: flase
+  UPLOAD_DIFF: true
   CONTAINER_URL: ${{ secrets.ALI_CONTAINER_URL }}
 
 jobs:
@@ -21,6 +21,9 @@ jobs:
       run: git clone https://github.com/lesspass/lesspass.git
 
     - name: Load custom configuration
+      env:
+        CONTAINER_DOMAIN: ${{ secrets.ALI_CONTAINER_DOMAIN }}
+        CONTAINER_PATH: ${{ secrets.ALI_CONTAINER_PATH }}
       run: |
         chmod +x diy.sh
         mv diy.sh lesspass/
@@ -39,8 +42,7 @@ jobs:
     - name: Build containers
       run: |
         cd lesspass/containers/
-        docker build --tag "$CONTAINER_URL"/lesspass-frontend ./frontend
-        docker build --tag "$CONTAINER_URL"/lesspass-backend ./backend
+        docker-compose build
 
     - name: Push containers
       env:
