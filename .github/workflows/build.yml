@@ -3,6 +3,8 @@ name: Build Lesspass Server
 on:
   push:
     branches: [ master ]
+  watch:
+    types: started
 
 env:
   UPLOAD_DIFF: false
