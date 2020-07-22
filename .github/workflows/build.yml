@@ -16,15 +16,20 @@ jobs:
     - name: Cloen lesspass source code
       run: git clone https://github.com/lesspass/lesspass.git
 
-    - name: Login Ali
-      run: docker login $ALI_PASS
+    - name: Login To Ali
       env:
         ALI_PASS: ${{ secrets.ALI_DOCKER_REGISTRY_LOGIN }}
+      run: docker login $ALI_PASS
 
-    # Runs a set of commands using the runners shell
-    - name: Run a multi-line script
+    - name: Load custom configuration
       run: |
-        docker-compose -v
-        yarn -v
-        pwd
-        ls -l
+        chmod +x diy.sh
+        mv diy.sh lesspass/
+        ./diy.sh
+        git diff >> $GITHUB_WORKSPACE/diff.txt
+        
+    - name: Upload diff file
+      uses: actions/upload-artifact@v2
+      with:
+        name: diff${{ env.FILE_DATE }}
+        path: $GITHUB_WORKSPACE/diff.txt
