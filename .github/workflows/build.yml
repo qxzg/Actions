@@ -65,7 +65,7 @@ jobs:
       id: copywebdir
       if: env.UPLOAD_WED_DIRECTORY == 'true' && !cancelled()
       run: |
-        docker run -i -t -d $CONTAINER_URL/lesspass-frontend:action
+        docker run -i -t -d $CONTAINER_URL/lesspass-frontend
         docker cp $(docker ps -q):/usr/share/nginx/html ./
 
     - name: Upload Wed Directory
