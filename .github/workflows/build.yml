@@ -2,7 +2,7 @@ name: Build Lesspass Server
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   watch:
     types: started
 
@@ -18,75 +18,75 @@ jobs:
     if: github.event.repository.owner.id == github.event.sender.id
 
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
 
-    - name: Cloen lesspass source code
-      run: git clone https://github.com/lesspass/lesspass.git
+      - name: Cloen lesspass source code
+        run: git clone https://github.com/lesspass/lesspass.git
 
-    - name: Load custom configuration
-      env:
-        CONTAINER_DOMAIN: ${{ secrets.ALI_CONTAINER_DOMAIN }}
-        CONTAINER_PATH: ${{ secrets.ALI_CONTAINER_PATH }}
-        DEFAULT_FROM_EMAIL: ${{ secrets.DEFAULT_FROM_EMAIL }}
-        EMAIL_HOST: ${{ secrets.EMAIL_HOST }}
-        EMAIL_HOST_USER: ${{ secrets.EMAIL_HOST_USER }}
-        EMAIL_HOST_PASSWORD: ${{ secrets.EMAIL_HOST_PASSWORD }}
-      run: |
-        chmod +x diy.sh
-        mv diy.sh lesspass/
-        cd lesspass/
-        ./diy.sh
-        git diff >> "$GITHUB_WORKSPACE/diff.txt"
-        cat "$GITHUB_WORKSPACE/diff.txt"
-        
-    - name: Upload diff file
-      uses: actions/upload-artifact@v2
-      if: env.UPLOAD_DIFF == 'true' && !cancelled()
-      with:
-        name: diff
-        path: diff.txt
+      - name: Load custom configuration
+        env:
+          CONTAINER_DOMAIN: ${{ secrets.ALI_CONTAINER_DOMAIN }}
+          CONTAINER_PATH: ${{ secrets.ALI_CONTAINER_PATH }}
+          DEFAULT_FROM_EMAIL: ${{ secrets.DEFAULT_FROM_EMAIL }}
+          EMAIL_HOST: ${{ secrets.EMAIL_HOST }}
+          EMAIL_HOST_USER: ${{ secrets.EMAIL_HOST_USER }}
+          EMAIL_HOST_PASSWORD: ${{ secrets.EMAIL_HOST_PASSWORD }}
+        run: |
+          chmod +x diy.sh
+          mv diy.sh lesspass/
+          cd lesspass/
+          ./diy.sh
+          git diff >> "$GITHUB_WORKSPACE/diff.txt"
+          cat "$GITHUB_WORKSPACE/diff.txt"
 
-    - name: Build containers
-      run: |
-        cd lesspass/containers/
-        docker -v
-        wget -q https://github.com/docker/compose/releases/download/1.26.2/docker-compose-Linux-x86_64 -O docker-compose
-        chmod +x docker-compose
-        ./docker-compose -v
-        ./docker-compose build
+      - name: Upload diff file
+        uses: actions/upload-artifact@v2
+        if: env.UPLOAD_DIFF == 'true' && !cancelled()
+        with:
+          name: diff
+          path: diff.txt
 
-    - name: Push containers
-      if: env.PUSH_CONTAINERS == 'true' && !cancelled()
-      env:
-        ALI_LOGIN: ${{ secrets.ALI_DOCKER_REGISTRY_LOGIN }}
-      run: |
-        docker images
-        docker login $ALI_LOGIN
-        docker tag $CONTAINER_URL/lesspass-frontend $CONTAINER_URL/lesspass-frontend:actions
-        docker tag $CONTAINER_URL/lesspass-backend $CONTAINER_URL/lesspass-backend:actions
-        docker push $CONTAINER_URL/lesspass-frontend:actions
-        docker push $CONTAINER_URL/lesspass-backend:actions
+      - name: Build containers
+        run: |
+          cd lesspass/containers/
+          docker -v
+          wget -q https://github.com/docker/compose/releases/download/1.26.2/docker-compose-Linux-x86_64 -O docker-compose
+          chmod +x docker-compose
+          ./docker-compose -v
+          ./docker-compose build
 
-    - name: Copy Wed Directory
-      if: env.UPLOAD_WED_DIRECTORY == 'true' && !cancelled()
-      run: |
-        docker run -i -t -d $CONTAINER_URL/lesspass-frontend
-        docker cp $(docker ps -q):/usr/share/nginx/html ./
-        docker rm -f $(docker ps -q)
+      - name: Push containers
+        if: env.PUSH_CONTAINERS == 'true' && !cancelled()
+        env:
+          ALI_LOGIN: ${{ secrets.ALI_DOCKER_REGISTRY_LOGIN }}
+        run: |
+          docker images
+          docker login $ALI_LOGIN
+          docker tag $CONTAINER_URL/lesspass-frontend $CONTAINER_URL/lesspass-frontend:actions
+          docker tag $CONTAINER_URL/lesspass-backend $CONTAINER_URL/lesspass-backend:actions
+          docker push $CONTAINER_URL/lesspass-frontend:actions
+          docker push $CONTAINER_URL/lesspass-backend:actions
 
-    - name: Upload Wed Directory
-      if: env.UPLOAD_WED_DIRECTORY == 'true' && !cancelled()
-      uses: actions/upload-artifact@v2
-      with:
-        name: webdir
-        path: ./html/
+      - name: Copy Wed Directory
+        if: env.UPLOAD_WED_DIRECTORY == 'true' && !cancelled()
+        run: |
+          docker run -i -t -d $CONTAINER_URL/lesspass-frontend
+          docker cp $(docker ps -q):/usr/share/nginx/html ./
+          docker rm -f $(docker ps -q)
 
-    - name: Test containers
-      run: |
-        docker run -itd -p 45628:45628 $CONTAINER_URL/lesspass-backend
-        docker run -itd -p 45629:45629 $CONTAINER_URL/lesspass-frontend
-        sleep 20
-        curl --connect-timeout 5 --retry 2 http://127.0.0.1:45628
-        curl --connect-timeout 5 --retry 2 http://127.0.0.1:45629
-        docker rm -f $(docker ps -q)
+      - name: Upload Wed Directory
+        if: env.UPLOAD_WED_DIRECTORY == 'true' && !cancelled()
+        uses: actions/upload-artifact@v2
+        with:
+          name: webdir
+          path: ./html/
+
+      - name: Test containers
+        run: |
+          docker run -itd -p 45628:45628 $CONTAINER_URL/lesspass-backend
+          docker run -itd -p 45629:45629 $CONTAINER_URL/lesspass-frontend
+          sleep 20
+          curl --connect-timeout 5 --retry 2 http://127.0.0.1:45628
+          curl --connect-timeout 5 --retry 2 http://127.0.0.1:45629
+          docker rm -f $(docker ps -q)
