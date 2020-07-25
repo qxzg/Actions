@@ -12,7 +12,7 @@ env:
   UPLOAD_DIFF: false
   UPLOAD_WED_DIRECTORY: false
   PUSH_CONTAINERS: true
-  CONTAINER_URL: ${{ secrets.ALI_CONTAINER_URL }}
+  CONTAINER_URL: ${{ secrets.ALI_CONTAINER_URL_1 }}
 
 jobs:
   build:
@@ -28,12 +28,12 @@ jobs:
 
       - name: Load custom configuration
         env:
-          CONTAINER_DOMAIN: ${{ secrets.ALI_CONTAINER_DOMAIN }}
-          CONTAINER_PATH: ${{ secrets.ALI_CONTAINER_PATH }}
-          DEFAULT_FROM_EMAIL: ${{ secrets.DEFAULT_FROM_EMAIL }}
-          EMAIL_HOST: ${{ secrets.EMAIL_HOST }}
-          EMAIL_HOST_USER: ${{ secrets.EMAIL_HOST_USER }}
-          EMAIL_HOST_PASSWORD: ${{ secrets.EMAIL_HOST_PASSWORD }}
+          CONTAINER_DOMAIN: ${{ secrets.ALI_CONTAINER_DOMAIN_1 }}
+          CONTAINER_PATH: ${{ secrets.ALI_CONTAINER_PATH_1 }}
+          DEFAULT_FROM_EMAIL: ${{ secrets.DEFAULT_FROM_EMAIL_1 }}
+          EMAIL_HOST: ${{ secrets.EMAIL_HOST_1 }}
+          EMAIL_HOST_USER: ${{ secrets.EMAIL_HOST_USER_1 }}
+          EMAIL_HOST_PASSWORD: ${{ secrets.EMAIL_HOST_PASSWORD_1 }}
         run: |
           chmod +x build-lesspass-server.sh
           mv build-lesspass-server.sh lesspass/
@@ -61,7 +61,7 @@ jobs:
       - name: Push containers
         if: env.PUSH_CONTAINERS == 'true' && !cancelled()
         env:
-          ALI_LOGIN: ${{ secrets.ALI_DOCKER_REGISTRY_LOGIN }}
+          ALI_LOGIN: ${{ secrets.ALI_DOCKER_REGISTRY_LOGIN_2 }}
         run: |
           docker images
           docker login $ALI_LOGIN
