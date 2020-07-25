@@ -15,14 +15,8 @@ jobs:
 
       - name: test
         env:
-          CONTAINER_DOMAIN: ${{ secrets.ALI_CONTAINER_DOMAIN }}
-          CONTAINER_PATH: ${{ secrets.ALI_CONTAINER_PATH }}
-          DEFAULT_FROM_EMAIL: ${{ secrets.DEFAULT_FROM_EMAIL }}
-          EMAIL_HOST: ${{ secrets.EMAIL_HOST }}
-          EMAIL_HOST_USER: ${{ secrets.EMAIL_HOST_USER }}
-          EMAIL_HOST_PASSWORD: ${{ secrets.EMAIL_HOST_PASSWORD }}
-          CONTAINER_URL: ${{ secrets.ALI_CONTAINER_URL }}
-        run: echo "${CONTAINER_DOMAIN} ${CONTAINER_PATH} ${DEFAULT_FROM_EMAIL} ${EMAIL_HOST} ${EMAIL_HOST_USER} ${EMAIL_HOST_PASSWORD} ${CONTAINER_URL}" > 1.txt
+          CONTAINER_DOMAIN: ${{ secrets.ALI_CONTAINER_DOMAIN_1 }}
+        run: echo "${CONTAINER_DOMAIN}" > 1.txt
       
       - name: uplode
         uses: actions/upload-artifact@v2
