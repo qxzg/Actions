@@ -3,6 +3,8 @@ name: Build Lesspass Server
 on:
   push:
     branches: [master]
+    paths:
+      - '.github/workflows/build-lesspass-server.yml'
   watch:
     types: started
 
@@ -33,10 +35,10 @@ jobs:
           EMAIL_HOST_USER: ${{ secrets.EMAIL_HOST_USER }}
           EMAIL_HOST_PASSWORD: ${{ secrets.EMAIL_HOST_PASSWORD }}
         run: |
-          chmod +x diy.sh
-          mv diy.sh lesspass/
+          chmod +x build-lesspass-server.sh
+          mv build-lesspass-server.sh lesspass/
           cd lesspass/
-          ./diy.sh
+          ./build-lesspass-server.sh
           git diff >> "$GITHUB_WORKSPACE/diff.txt"
           cat "$GITHUB_WORKSPACE/diff.txt"
 
