@@ -30,6 +30,7 @@ jobs:
           sed -i '1,32d' host_dnsmasq.conf
           sed -i 's/0.0.0.0//g' host_dnsmasq.conf
           sed -i '/aax.*\.amazon-adsystem\.com/d' host_dnsmasq.conf
+          sed -i '/api-log.immomo.com/d' host_dnsmasq.conf
 
       - name: Uplode to Aliyun oss
         env:
