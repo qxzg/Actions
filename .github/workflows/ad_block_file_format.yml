@@ -10,10 +10,13 @@ on:
   schedule:
     - cron: 5 12 * * *
 
+env:
+  ENALBE_THIS_WORK: false
+
 jobs:
   job:
     runs-on: ubuntu-20.04
-    if: github.event.repository.owner.id == github.event.sender.id
+    if: github.event.repository.owner.id == github.event.sender.id && env.ENALBE_THIS_WORK == 'true'
 
     steps:
       - uses: actions/checkout@v2
