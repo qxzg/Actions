@@ -16,7 +16,7 @@ env:
 jobs:
   job:
     runs-on: ubuntu-20.04
-    if: github.event.repository.owner.id == github.event.sender.id && env.ENALBE_THIS_WORK == 'true'
+    if: github.event.repository.owner.id == github.event.sender.id && ENALBE_THIS_WORK == 'true'
 
     steps:
       - uses: actions/checkout@v2
