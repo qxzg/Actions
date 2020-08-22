@@ -11,6 +11,8 @@ sed -i 's/listen       80;/listen       45629;/g' packages/lesspass-site/nginx.c
 
 sed -i 's/\"backend\", \".lesspass.com\", //g' containers/backend/lesspass/settings.py
 sed -i 's/lesspass.local/127.0.0.1/g' containers/backend/lesspass/settings.py
+sed -i 's/days=7/days=14/g' containers/backend/lesspass/settings.py
+sed -i 's/minutes=15/minutes=60/g' containers/backend/lesspass/settings.py
 
 sed -i 's/\"EMAIL_USE_SSL\", default=False/\"EMAIL_USE_SSL\", default=True/g' containers/backend/lesspass/settings.py
 sed -i 's/\"EMAIL_SUBJECT_PREFIX\", \"\[LessPass\] \"/\"EMAIL_SUBJECT_PREFIX\", \"\[qxzg`s LessPass\] \"/g' containers/backend/lesspass/settings.py
