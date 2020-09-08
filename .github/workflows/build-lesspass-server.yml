@@ -53,7 +53,7 @@ jobs:
         run: |
           cd lesspass/containers/
           docker -v
-          wget -q https://github.com/docker/compose/releases/download/1.26.2/docker-compose-Linux-x86_64 -O docker-compose
+          wget -q https://github.com/docker/compose/releases/download/1.27.0/docker-compose-Linux-x86_64 -O docker-compose
           chmod +x docker-compose
           ./docker-compose -v
           ./docker-compose build
