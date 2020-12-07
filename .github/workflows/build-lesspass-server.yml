@@ -6,13 +6,17 @@ on:
     paths:
       - '.github/workflows/build-lesspass-server.yml'
   workflow_dispatch:
+    inputs:
+      push_containers:
+        description: 'push containers to aliyun'
+        required: true
+        default: 'true'
 #  watch:
 #    types: started
 
 env:
   UPLOAD_DIFF: false
   UPLOAD_WED_DIRECTORY: false
-  PUSH_CONTAINERS: true
   CONTAINER_URL: ${{ secrets.ALI_CONTAINER_URL_2 }}
 
 jobs:
@@ -60,7 +64,7 @@ jobs:
           ./docker-compose build
 
       - name: Push containers
-        if: env.PUSH_CONTAINERS == 'true' && !cancelled()
+        if: github.event.inputs.push_containers == 'true' && !cancelled()
         env:
           ALI_LOGIN: ${{ secrets.ALI_DOCKER_REGISTRY_LOGIN_2 }}
         run: |
