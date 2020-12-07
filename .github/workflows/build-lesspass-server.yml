@@ -5,8 +5,9 @@ on:
     branches: [master]
     paths:
       - '.github/workflows/build-lesspass-server.yml'
-  watch:
-    types: started
+  workflow_dispatch:
+#  watch:
+#    types: started
 
 env:
   UPLOAD_DIFF: false
