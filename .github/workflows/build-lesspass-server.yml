@@ -50,15 +50,15 @@ jobs:
           mv build-lesspass-server.sh lesspass/
           cd lesspass/
           ./build-lesspass-server.sh
-          git diff >> "$GITHUB_WORKSPACE/diff.txt"
-          cat "$GITHUB_WORKSPACE/diff.txt"
+          git diff >> "$GITHUB_WORKSPACE/diff.diff"
+          cat "$GITHUB_WORKSPACE/diff.diff"
 
       - name: Upload diff file
         uses: actions/upload-artifact@v2
         if: github.event.inputs.UPLOAD_DIFF == 'true' && !cancelled()
         with:
           name: diff
-          path: diff.txt
+          path: diff.diff
 
       - name: Build containers
         run: |
