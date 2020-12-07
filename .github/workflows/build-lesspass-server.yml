@@ -5,6 +5,7 @@ on:
     branches: [master]
     paths:
       - '.github/workflows/build-lesspass-server.yml'
+      - 'build-lesspass-server.sh'
   workflow_dispatch:
     inputs:
       PUSH_CONTAINERS:
@@ -17,6 +18,10 @@ on:
         default: 'false'
       UPLOAD_WED_DIRECTORY:
         description: 'uplode web directory'
+        required: true
+        default: 'false'
+      SSH:
+        description: 'SSH connection to Actions'
         required: true
         default: 'false'
 #  watch:
@@ -59,6 +64,12 @@ jobs:
         with:
           name: diff
           path: diff.diff
+
+      - name: Start SSH via tmate
+        uses: P3TERX/ssh2actions@main
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.ALI_TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.ALI_TELEGRAM_CHAT_ID }}
 
       - name: Build containers
         run: |
