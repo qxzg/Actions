@@ -7,16 +7,22 @@ on:
       - '.github/workflows/build-lesspass-server.yml'
   workflow_dispatch:
     inputs:
-      push_containers:
+      PUSH_CONTAINERS:
         description: 'push containers to aliyun'
         required: true
         default: 'true'
+      UPLOAD_DIFF:
+        description: 'uplode diff file'
+        required: true
+        default: 'false'
+      UPLOAD_WED_DIRECTORY:
+        description: 'uplode web directory'
+        required: true
+        default: 'false'
 #  watch:
 #    types: started
 
 env:
-  UPLOAD_DIFF: false
-  UPLOAD_WED_DIRECTORY: false
   CONTAINER_URL: ${{ secrets.ALI_CONTAINER_URL_2 }}
 
 jobs:
@@ -49,7 +55,7 @@ jobs:
 
       - name: Upload diff file
         uses: actions/upload-artifact@v2
-        if: env.UPLOAD_DIFF == 'true' && !cancelled()
+        if: github.event.inputs.UPLOAD_DIFF == 'true' && !cancelled()
         with:
           name: diff
           path: diff.txt
@@ -64,7 +70,7 @@ jobs:
           ./docker-compose build
 
       - name: Push containers
-        if: github.event.inputs.push_containers == 'true' && !cancelled()
+        if: github.event.inputs.PUSH_CONTAINERS == 'true' && !cancelled()
         env:
           ALI_LOGIN: ${{ secrets.ALI_DOCKER_REGISTRY_LOGIN_2 }}
         run: |
@@ -76,14 +82,14 @@ jobs:
           docker push $CONTAINER_URL/lesspass-backend:actions
 
       - name: Copy Wed Directory
-        if: env.UPLOAD_WED_DIRECTORY == 'true' && !cancelled()
+        if: github.event.inputs.UPLOAD_WED_DIRECTORY == 'true' && !cancelled()
         run: |
           docker run -i -t -d $CONTAINER_URL/lesspass-frontend
           docker cp $(docker ps -q):/usr/share/nginx/html ./
           docker rm -f $(docker ps -q)
 
       - name: Upload Wed Directory
-        if: env.UPLOAD_WED_DIRECTORY == 'true' && !cancelled()
+        if: github.event.inputs.UPLOAD_WED_DIRECTORY == 'true' && !cancelled()
         uses: actions/upload-artifact@v2
         with:
           name: webdir
