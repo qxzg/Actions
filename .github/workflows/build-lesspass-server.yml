@@ -67,6 +67,7 @@ jobs:
 
       - name: Start SSH via tmate
         uses: P3TERX/ssh2actions@main
+        if: github.event.inputs.SSH == 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.ALI_TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.ALI_TELEGRAM_CHAT_ID }}
