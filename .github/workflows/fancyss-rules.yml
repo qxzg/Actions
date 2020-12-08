@@ -25,10 +25,10 @@ jobs:
           bash update_rules.sh
 
       - name: Commit to repo
-        env:
-          CONTAINER_DOMAIN: ${{ secrets.ACCESS_TOKEN }}
-          GITHUB_REPO: https://github.com/qxzg/Actions.git
         run: |
           cd $GITHUB_WORKSPACE
-          ls -a
-          
+          git config user.name "qxzg"
+          git config user.email "out@qxzg.xyz"
+          git add fancyss_rules/.
+          git commit -m "Actions Auto Update at $(date +'%Y-%m-%d %H:%M:%S')"
+          git push --force --quiet "https://${{ secrets.ACCESS_TOKEN }}@github.com/qxzg/Actions.git" master:master
