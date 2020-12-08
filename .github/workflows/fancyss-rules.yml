@@ -28,7 +28,7 @@ jobs:
 #          echo "$(date +'%Y-%m-%d %H:%M:%S')" > last_update.txt
 
       - name: Commit to repo
-        if: env.is_changed == 0
+        if: is_changed == 0
         run: |
           cd $GITHUB_WORKSPACE
           git config user.name "qxzg"
