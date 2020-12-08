@@ -8,7 +8,7 @@ on:
       - 'fancyss_rules/auto_update/'
   workflow_dispatch:
   schedule:
-    - cron: '15 13 * * *'
+    - cron: '15 */4 * * *'
 
 jobs:
   build:
@@ -23,12 +23,9 @@ jobs:
           cd fancyss_rules/auto_update
           python3 --version
           source update_rules.sh
-          echo $is_changed
-#          touch last_update.txt
-#          echo "$(date +'%Y-%m-%d %H:%M:%S')" > last_update.txt
 
       - name: Commit to repo
-        if: env.is_changed == 0
+        if: env.is_changed == 1
         run: |
           cd $GITHUB_WORKSPACE
           git config user.name "qxzg"
