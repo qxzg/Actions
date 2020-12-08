@@ -27,6 +27,8 @@ jobs:
       - name: Commit to repo
         env:
           CONTAINER_DOMAIN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_REPO: https://github.com/qxzg/Actions.git
         run: |
           cd $GITHUB_WORKSPACE
-          ls
+          ls -a
+          
