@@ -1,0 +1,32 @@
+name: Build Lesspass Server
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - '.github/workflows/fancyss-rules.yml'
+      - 'fancyss_rules/auto_update/'
+  workflow_dispatch:
+  schedule:
+    - cron: '15 13 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: Run update script
+        run: |
+          cd fancyss_rules/auto_update
+          python3 --version
+          bash update_rules.sh
+
+      - name: Commit to repo
+        env:
+          CONTAINER_DOMAIN: ${{ secrets.ACCESS_TOKEN }}
+        run: |
+          cd $GITHUB_WORKSPACE
+          ls
