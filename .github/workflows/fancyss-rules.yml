@@ -23,14 +23,15 @@ jobs:
           cd fancyss_rules/auto_update
           python3 --version
           bash update_rules.sh
-          touch last_update.txt
-          echo "$(date +'%Y-%m-%d %H:%M:%S')" > last_update.txt
+#          touch last_update.txt
+#          echo "$(date +'%Y-%m-%d %H:%M:%S')" > last_update.txt
 
       - name: Commit to repo
         run: |
           cd $GITHUB_WORKSPACE
           git config user.name "qxzg"
           git config user.email "out@qxzg.xyz"
+          git diff
           git add fancyss_rules/.
           git commit -m "Actions Auto Update at $(date +'%Y-%m-%d %H:%M:%S')"
           git push --force --quiet "https://${{ secrets.ACCESS_TOKEN }}@github.com/qxzg/Actions.git" master:master
