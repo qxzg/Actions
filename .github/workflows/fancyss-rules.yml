@@ -8,7 +8,7 @@ on:
       - 'fancyss_rules/auto_update/'
   workflow_dispatch:
   schedule:
-    - cron: '15 */4 * * *'
+    - cron: '15 */12 * * *'
 
 jobs:
   build:
