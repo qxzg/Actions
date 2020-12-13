@@ -23,6 +23,7 @@ jobs:
           cd fancyss_rules/auto_update
           python3 --version
           source update_rules.sh
+          echo $is_changed
 
       - name: Commit to repo
         if: env.is_changed == 1
