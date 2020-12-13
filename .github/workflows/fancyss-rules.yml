@@ -5,7 +5,7 @@ on:
     branches: [master]
     paths:
       - '.github/workflows/fancyss-rules.yml'
-      - 'fancyss_rules/auto_update/'
+      - 'fancyss_rules/auto_update/*'
   workflow_dispatch:
   schedule:
     - cron: '15 */12 * * *'
