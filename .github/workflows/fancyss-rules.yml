@@ -26,7 +26,7 @@ jobs:
           echo $is_changed
 
       - name: Commit to repo
-        if: env.is_changed == "1"
+        if: env.is_changed == '1'
         run: |
           cd $GITHUB_WORKSPACE
           git config user.name "qxzg"
