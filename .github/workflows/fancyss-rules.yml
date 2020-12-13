@@ -35,3 +35,8 @@ jobs:
           git add fancyss_rules/.
           git commit -m "Actions Auto Update at $(date +'%Y-%m-%d %H:%M:%S')"
           git push --force --quiet "https://${{ secrets.ACCESS_TOKEN }}@github.com/qxzg/Actions.git" master:master
+
+      - name: test
+        run: |
+          echo $env.is_changed
+          echo $is_changed
