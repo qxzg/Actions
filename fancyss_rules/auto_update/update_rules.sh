@@ -112,7 +112,6 @@ else
 	echo update Routing!
 	cp Routing.txt ..
 	sed -i "5c $(date +%Y-%m-%d) # $md5sum9 Routing" ../version1
-	echo "is_changed=1" >> $GITHUB_ENV
 fi
 echo =================
 # ======================================
@@ -139,7 +138,6 @@ else
 	echo update WhiteList!
 	cp -f WhiteList.txt ../WhiteList.txt
 	sed -i "6c $(date +%Y-%m-%d) # $md5sum7 WhiteList" ../version1
-	echo "echo "is_changed=1" >> $GITHUB_ENV" >> $GITHUB_ENV
 fi
 echo =================
 
@@ -170,7 +168,6 @@ else
 	echo update WhiteList_new!
 	cp WhiteList_new.txt ..
 	sed -i "7c $(date +%Y-%m-%d) # $md5sum11 WhiteList_new" ../version1
-	echo "echo "is_changed=1" >> $GITHUB_ENV" >> $GITHUB_ENV
 fi
 echo =================
 
@@ -192,7 +189,7 @@ else
 	echo update apple china list!
 	cp -f apple_download.txt ../apple_china.txt
 	sed -i "8c $(date +%Y-%m-%d) # $md5sum13 apple_china" ../version1
-	echo "echo "is_changed=1" >> $GITHUB_ENV" >> $GITHUB_ENV
+	echo "is_changed=1" >> $GITHUB_ENV
 fi
 if [ "$md5sum15"x = "$md5sum16"x ]; then
 	echo google china list same md5!
@@ -200,7 +197,7 @@ else
 	echo update goole china list!
 	cp -f google_download.txt ../google_china.txt
 	sed -i "9c $(date +%Y-%m-%d) # $md5sum15 google_china" ../version1
-	echo "echo "is_changed=1" >> $GITHUB_ENV" >> $GITHUB_ENV
+	echo "is_changed=1" >> $GITHUB_ENV
 fi
 echo =================
 # ======================================
