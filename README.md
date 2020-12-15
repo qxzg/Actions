@@ -7,3 +7,7 @@
 #### 2. [build-lesspass-server.yml](https://github.com/qxzg/Actions/blob/master/.github/workflows/build-lesspass-server.yml)  
 [![Build Lesspass Server](https://github.com/qxzg/Actions/workflows/Build%20Lesspass%20Server/badge.svg)](https://github.com/qxzg/Actions/actions?query=workflow%3A%22Build+Lesspass+Server%22)  
 > 从 https://github.com/lesspass/lesspass 构建自定义的docker镜像并上传至阿里云私有镜像
+---
+#### 3. [Update Fancyss Rules](https://github.com/qxzg/Actions/blob/master/.github/workflows/fancyss-rules.yml)  
+[![Update Fancyss Rules](https://github.com/qxzg/Actions/workflows/Update%20Fancyss%20Rules/badge.svg)](https://github.com/qxzg/Actions/actions?query=workflow%3A%22Update+Fancyss+Rules%22)
+> 自动更新[fancyss](https://github.com/hq450/fancyss)规则
