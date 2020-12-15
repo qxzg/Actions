@@ -10,4 +10,4 @@
 ---
 #### 3. [Update Fancyss Rules](https://github.com/qxzg/Actions/blob/master/.github/workflows/fancyss-rules.yml)  
 [![Update Fancyss Rules](https://github.com/qxzg/Actions/workflows/Update%20Fancyss%20Rules/badge.svg)](https://github.com/qxzg/Actions/actions?query=workflow%3A%22Update+Fancyss+Rules%22)
-> 自动更新[fancyss](https://github.com/hq450/fancyss)规则
+> 自动更新[fancyss](https://github.com/hq450/fancyss/tree/master/rules)规则
