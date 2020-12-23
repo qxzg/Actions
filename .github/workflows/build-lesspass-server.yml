@@ -65,7 +65,6 @@ jobs:
         with:
           name: diff
           path: diff.diff
-        run : cat "$GITHUB_WORKSPACE/diff.diff"
 
       - name: Start SSH via tmate
         uses: P3TERX/ssh2actions@main
