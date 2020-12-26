@@ -7,6 +7,7 @@ on:
       - '.github/workflows/fancyss-rules.yml'
       - 'fancyss_rules/auto_update/*'
   workflow_dispatch:
+    inputs:
       EMPTY_COMMIT:
         description: 'Create empty commit when nothing changes'
         required: true
