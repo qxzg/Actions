@@ -8,7 +8,7 @@ on:
       - 'fancyss_rules/auto_update/*'
   workflow_dispatch:
       EMPTY_COMMIT:
-        description: 'Create an empty commit if there are no changes'
+        description: 'Create empty commit when nothing changes'
         required: true
         default: 'false'
   schedule:
