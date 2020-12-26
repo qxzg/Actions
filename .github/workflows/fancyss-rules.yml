@@ -28,9 +28,8 @@ jobs:
         if: env.is_changed == '1'
         run: |
           cd $GITHUB_WORKSPACE
-          git config user.name "qxzg"
-          git config user.email "out@qxzg.xyz"
-          git diff
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add fancyss_rules/.
           git commit -m "Actions Auto Update at $(date +'%Y-%m-%d %H:%M:%S')"
-          git push --force --quiet "https://${{ secrets.ACCESS_TOKEN }}@github.com/qxzg/Actions.git" master:master
+          git push
