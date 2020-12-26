@@ -20,7 +20,7 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --local user.email "action@github.com"
+          git config --local user.email "out@qxzg.xyz"
           git config --local user.name "GitHub Action"
           git commit -m "testing push" -a
           git push --quiet "https://${{ secrets.ACCESS_TOKEN }}@github.com/qxzg/Actions.git" master:master
