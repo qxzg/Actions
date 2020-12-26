@@ -13,13 +13,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: test
-        env:
-          CONTAINER_DOMAIN: ${{ secrets.ALI_CONTAINER_DOMAIN_1 }}
-        run: echo "${CONTAINER_DOMAIN}" > 1.txt
-      
-      - name: uplode
-        uses: actions/upload-artifact@v2
-        with:
-            path: '1.txt'
+      - name: Create local changes
+        run: |
+          echo "$(date +'%Y-%m-%d %H:%M:%S')" > test.txt
 
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "testing push"
+          git push master:master
