@@ -689,6 +689,7 @@
 .*\b0758net\.com
 .*\b0759job\.com
 .*\b0759k\.com
+.*\b0759yc\.com
 .*\b0760\.com
 .*\b0760bw\.com
 .*\b0760rc\.com
@@ -8310,7 +8311,6 @@
 .*\b99sky\.com
 .*\b99sun\.com
 .*\b99sushe\.com
-.*\b99tvs\.com
 .*\b99vu\.com
 .*\b99wed\.com
 .*\b99weiqi\.com
@@ -10329,6 +10329,7 @@
 .*\bapmbooth\.com
 .*\bapmvista\.com
 .*\bapnring\.com
+.*\bapogel\.com
 .*\bapollo\.auto
 .*\bapous\.com
 .*\bapowo\.com
@@ -10749,6 +10750,7 @@
 .*\batcpu\.com
 .*\batelier39\.org
 .*\batf\.com
+.*\batfeng\.com
 .*\batguigu\.com
 .*\batguigu\.org
 .*\bathaitao\.com
@@ -13130,7 +13132,6 @@
 .*\bblocksite\.cc
 .*\bblockvalue\.com
 .*\bblog\.anank\.ke
-.*\bblog\.htc\.com
 .*\bblog\.htcvive\.com
 .*\bblog\.tutorabc\.com
 .*\bblog\.vive\.com
@@ -18805,6 +18806,7 @@
 .*\bcrispstata\.com
 .*\bcrjfw\.com
 .*\bcrl\.globalsign\.net
+.*\bcrl\.kaspersky\.com
 .*\bcrlcn\.com
 .*\bcrlf0710\.com
 .*\bcrlg\.com
@@ -26401,6 +26403,7 @@
 .*\bgenzhuang\.org
 .*\bgeo-prism-cn\.htcsense\.com
 .*\bgeo-prism\.htcsense\.com
+.*\bgeo\.kaspersky\.com
 .*\bgeo2k\.com
 .*\bgeogsci\.com
 .*\bgeohey\.com
@@ -26766,7 +26769,6 @@
 .*\bglmama\.com
 .*\bglmapper\.com
 .*\bglmei\.net
-.*\bglobal-download\.acer\.com
 .*\bglobal-harbor\.com
 .*\bglobal-jf\.com
 .*\bglobalaccentchinese\.com
@@ -29708,6 +29710,7 @@
 .*\bhfsbpf\.com
 .*\bhfsid\.com
 .*\bhfssw\.com
+.*\bhfswcz\.com
 .*\bhftfund\.com
 .*\bhftogo\.com
 .*\bhftycj\.com
@@ -40047,6 +40050,7 @@
 .*\blinuxidc\.com
 .*\blinuxidc\.net
 .*\blinuxkiss\.com
+.*\blinuxmi\.com
 .*\blinuxpanda\.tech
 .*\blinuxpk\.com
 .*\blinuxplus\.org
@@ -41288,6 +41292,7 @@
 .*\blx\.cok\.elexapp\.com
 .*\blx138\.com
 .*\blx167\.com
+.*\blx2\.cok\.elexapp\.com
 .*\blx3\.cok\.elexapp\.com
 .*\blx598\.com
 .*\blxall\.net
@@ -42867,6 +42872,8 @@
 .*\bmikuac\.com
 .*\bmikublog\.com
 .*\bmikucdn\.com
+.*\bmikuclub\.fun
+.*\bmikuclub\.org
 .*\bmilan-bride\.com
 .*\bmilanstand\.com
 .*\bmilanvip\.com
@@ -45545,6 +45552,7 @@
 .*\bnuokui\.com
 .*\bnuomi\.com
 .*\bnuomi9\.com
+.*\bnuomicikoi\.com
 .*\bnuonuo\.com
 .*\bnuoweb\.com
 .*\bnuozhan\.com
@@ -54569,7 +54577,6 @@
 .*\bstarstech\.tech
 .*\bstarstopic\.com
 .*\bstarswar\.org
-.*\bstart\.htc\.com
 .*\bstart\.htcsense\.com
 .*\bstartcarlife\.com
 .*\bstarting2000\.com
@@ -57226,6 +57233,7 @@
 .*\btoidea\.com
 .*\btok9\.com
 .*\btoken-ad\.com
+.*\btoken\.im
 .*\btokenglish\.com
 .*\btokenpocket\.pro
 .*\btokensky\.net
@@ -58899,6 +58907,7 @@
 .*\bupchina\.com
 .*\bupchinapro\.com
 .*\bupchinaproduct\.com
+.*\bupd\.kaspersky\.com
 .*\bupdba\.com
 .*\bupdrv\.com
 .*\bupecp\.com
@@ -62774,11 +62783,11 @@
 .*\bwww\.dji\.com
 .*\bwww\.djivideos\.com
 .*\bwww\.ericsson\.com
-.*\bwww\.htc\.com
 .*\bwww\.htcsense\.com
 .*\bwww\.htcvive\.com
 .*\bwww\.ibm\.com
 .*\bwww\.intel\.com
+.*\bwww\.kaspersky\.com
 #.*\bwww\.linkedin\.com/114\.114\.114\.114 # Disabled: https://github\.com/felixonmars/dnsmasq-china-list/issues/335
 .*\bwww\.microsoft\.com
 .*\bwww\.nike\.com
