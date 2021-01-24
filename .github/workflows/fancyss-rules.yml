@@ -8,10 +8,6 @@ on:
       - 'fancyss_rules/auto_update/*'
   workflow_dispatch:
     inputs:
-      EMPTY_COMMIT:
-        description: 'Create empty commit when nothing changes'
-        required: true
-        default: 'false'
   schedule:
     - cron: '45 19 * * *'
 
@@ -39,10 +35,4 @@ jobs:
         run: |
           git add fancyss_rules/.
           git commit -m "Actions Auto Update at $(date +'%Y-%m-%d %H:%M:%S')"
-          git push
-
-      - name: Create empty commit
-        if: env.is_changed != '1' && github.event.inputs.EMPTY_COMMIT == 'true'
-        run: |
-          git commit --allow-empty -m "empty commit from fancyss-rules.yml"
           git push
