@@ -15,5 +15,6 @@
 - 手动将`/koolshare/scripts/ss_rule_update.sh`中第10行的  
 - `url_main="https://raw.githubusercontent.com/hq450/fancyss/master/rules"`改为  
 - `url_main="https://raw.githubusercontent.com/qxzg/Actions/master/fancyss_rules/"`  
-- 并且每次更新fancyss后需重新修改该脚本  
+- 并且每次更新fancyss后需重新修改该脚本
+
 注：由于源更新较慢，大陆白名单已改用[ispip.clang.cn](https://ispip.clang.cn/all_cn.txt)作为规则源，而非原版的https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ipip_country/ipip_country_cn.netset
