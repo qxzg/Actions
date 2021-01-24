@@ -1,6 +1,6 @@
 ## 自用的Actions仓库
 ---
-#### 1. [ad_block_file_format.yml](https://github.com/qxzg/Actions/blob/master/.github/workflows/ad_block_file_format.yml.disabled) (目前已停用)
+#### ~~1. [ad_block_file_format.yml](https://github.com/qxzg/Actions/blob/master/.github/workflows/ad_block_file_format.yml.disabled)~~ (Disabled)
 [![Change Ad Blocking File Format](https://github.com/qxzg/Actions/workflows/Change%20Ad%20Blocking%20File%20Format/badge.svg)](https://github.com/qxzg/Actions/actions?query=workflow%3A%22Change+Ad+Blocking+File+Format%22)  
 > 用于将 https://github.com/neodevpro/neodevhost 中的Dnsmasq列表转换为lede的SSR+支持的格式，并上传至阿里云OSS  
 ---
@@ -10,8 +10,8 @@
 ---
 #### 3. [Update Fancyss Rules](https://github.com/qxzg/Actions/blob/master/.github/workflows/fancyss-rules.yml)  
 [![Update Fancyss Rules](https://github.com/qxzg/Actions/workflows/Update%20Fancyss%20Rules/badge.svg)](https://github.com/qxzg/Actions/actions?query=workflow%3A%22Update+Fancyss+Rules%22)
-> 自动更新[fancyss](https://github.com/hq450/fancyss/tree/master/rules)规则  
-> 适用方法：
+> 每日UTC+8 3:45自动更新[fancyss](https://github.com/hq450/fancyss/tree/master/rules)规则  
+> 食用方法：
 >> 手动将`/koolshare/scripts/ss_rule_update.sh`中第10行的url_main参数改为  
 > `https://raw.githubusercontent.com/qxzg/Actions/master/fancyss_rules/`  
 > 并且每次更新fancyss后需重新修改该脚本
