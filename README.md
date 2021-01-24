@@ -9,9 +9,9 @@
 > 从 https://github.com/lesspass/lesspass 构建自定义的docker镜像并上传至阿里云私有镜像
 ---
 #### 3. [Update Fancyss Rules](https://github.com/qxzg/Actions/blob/master/.github/workflows/fancyss-rules.yml)  
-[![Update Fancyss Rules](https://github.com/qxzg/Actions/workflows/Update%20Fancyss%20Rules/badge.svg)](https://github.com/qxzg/Actions/actions?query=workflow%3A%22Update+Fancyss+Rules%22)
-> 每日UTC+8 3:45自动更新[fancyss](https://github.com/hq450/fancyss/tree/master/rules)规则  
-> 食用方法：
+[![Update Fancyss Rules](https://github.com/qxzg/Actions/workflows/Update%20Fancyss%20Rules/badge.svg)](https://github.com/qxzg/Actions/actions?query=workflow%3A%22Update+Fancyss+Rules%22)    
+每日UTC+8 3:45自动更新[fancyss](https://github.com/hq450/fancyss/tree/master/rules)规则  
+食用方法：
 >> 手动将`/koolshare/scripts/ss_rule_update.sh`中第10行的url_main参数改为  
 > `https://raw.githubusercontent.com/qxzg/Actions/master/fancyss_rules/`  
 > 并且每次更新fancyss后需重新修改该脚本
