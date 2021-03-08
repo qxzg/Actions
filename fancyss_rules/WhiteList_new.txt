@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2021-03-07
+## Last update: 2021-03-08
 
 
 Server=/0-100.com/
@@ -12969,6 +12969,7 @@ Server=/bojueii.com/
 Server=/bojun-import.com/
 Server=/bojuwang.com/
 Server=/bokao2o.com/
+Server=/bokcms.com/
 Server=/boke.com/
 Server=/boke112.com/
 Server=/boke8.net/
@@ -25236,7 +25237,6 @@ Server=/galgame.cc/
 Server=/galgame.net/
 Server=/galgamez.cc/
 Server=/galgamez.com/
-Server=/galgamezd.com/
 Server=/galiaoba.com/
 Server=/gallopgazelle.com/
 Server=/galstars.net/
@@ -42975,7 +42975,6 @@ Server=/mxnfq.com/
 Server=/mxnxs.com/
 Server=/mxpkw.com/
 Server=/mxqe.com/
-Server=/mxqjzg.com/
 Server=/mxria.com/
 Server=/mxruv.com/
 Server=/mxs.com/
@@ -48149,7 +48148,6 @@ Server=/qqkuyou.com/
 Server=/qqkw.net/
 Server=/qqleju.com/
 Server=/qqlin.net/
-Server=/qqlinux.com/
 Server=/qqm98.com/
 Server=/qqma.com/
 Server=/qqmail.com/
@@ -64812,7 +64810,6 @@ Server=/ydu6.com/
 Server=/yduav.com/
 Server=/yduedu.com/
 Server=/ydui.org/
-Server=/yduoo.com/
 Server=/ydvip00ap.com/
 Server=/ydvip00as.com/
 Server=/ydx2.com/
