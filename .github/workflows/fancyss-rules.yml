@@ -25,6 +25,7 @@ jobs:
           bash update_rules.sh
 
       - name: Config git
+        if: env.is_changed == '1'
         run: |
           cd $GITHUB_WORKSPACE
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
