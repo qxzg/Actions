@@ -123,8 +123,8 @@ sed -i 's|b\(cn\)$|\.\1|' WhiteList_tmp.txt
 
 echo '[Local Hosts]' >>WhiteList.txt
 echo '## China mainland domains' >>WhiteList.txt
-echo '## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt' >>WhiteList.txt
-echo '## Report an issue: https://github.com/xinhugo/Free-List/issues' >>WhiteList.txt
+echo '## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf' >>WhiteList.txt
+echo '## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues' >>WhiteList.txt
 echo -e "## Last update: $CurrentDate\n" >>WhiteList.txt
 cat WhiteList_tmp.txt >>WhiteList.txt
 
