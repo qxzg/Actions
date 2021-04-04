@@ -8,6 +8,10 @@ on:
       - 'fancyss_rules/auto_update/*'
   workflow_dispatch:
     inputs:
+      FORCE_PUSH:
+        description: 'Force to push'
+        required: true
+        default: 'false'
   schedule:
     - cron: '45 19 * * *'
 
@@ -16,7 +20,6 @@ jobs:
     runs-on: ubuntu-20.04
 
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
       - name: Run update script
@@ -24,16 +27,12 @@ jobs:
           cd fancyss_rules/auto_update
           bash update_rules.sh
 
-      - name: Config git
-        if: env.is_changed == '1'
+      - name: Commit to repo
+        if: env.is_changed == '1' || github.event.inputs.FORCE_PUSH == 'true'
         run: |
           cd $GITHUB_WORKSPACE
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-
-      - name: Commit to repo
-        if: env.is_changed == '1'
-        run: |
           git add fancyss_rules/.
           git commit -m "Actions Auto Update at $(date +'%Y-%m-%d %H:%M:%S')"
           git push
