@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2021-05-16
+## Last update: 2021-05-17
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -7724,6 +7724,7 @@
 .*\b98\.com
 .*\b9800\.com
 .*\b980cje\.com
+.*\b98158\.com
 .*\b98201111\.com
 .*\b9823df\.com
 .*\b9831\.com
@@ -8534,7 +8535,6 @@
 .*\bagucn\.com
 .*\baguo\.com
 .*\bagxs\.net
-.*\bagxsw\.com
 .*\bah-inter\.com
 .*\bah-px\.com
 .*\bah12333\.com
@@ -17972,6 +17972,7 @@
 .*\bcreke\.net
 .*\bcreo-support\.com
 .*\bcrestgps\.com
+.*\bcrestv\.com
 .*\bcrewcn\.com
 .*\bcrfchina\.com
 .*\bcrfly\.com
@@ -27090,7 +27091,6 @@
 .*\bhaers\.com
 .*\bhaguan\.com
 .*\bhaguotu\.com
-.*\bhaguro\.moe
 .*\bhaguworld\.com
 .*\bhaha168\.com
 .*\bhaha33\.com
@@ -29740,6 +29740,7 @@
 .*\bhuajianmed\.com
 .*\bhuajiao\.com
 .*\bhuajie8\.com
+.*\bhuajifen\.com
 .*\bhuajin100\.com
 .*\bhuajing-inf\.com
 .*\bhuajuan\.net
@@ -46495,6 +46496,7 @@
 .*\bqhlingwang\.com
 .*\bqhlly\.com
 .*\bqhm123\.com
+.*\bqhmanhua\.com
 .*\bqhmhbkj\.com
 .*\bqhmsg\.com
 .*\bqhnews\.com
@@ -47054,6 +47056,7 @@
 .*\bqixiwl\.com
 .*\bqixoo\.com
 .*\bqixunka\.com
+.*\bqiyabi\.vip
 .*\bqiye\.la
 .*\bqiye\.net
 .*\bqiye163\.com
@@ -52885,6 +52888,7 @@
 .*\bsursenelec\.com
 .*\bsursung\.com
 .*\bsurtime\.com
+.*\bsuruicloud\.com
 .*\bsurvey-y\.com
 .*\bsurveyhills\.com
 .*\bsurveyunion\.com
@@ -59622,6 +59626,7 @@
 .*\bwlstock\.com
 .*\bwlsvt\.com
 .*\bwltieyaoban\.com
+.*\bwlxit\.com
 .*\bwlxmall\.com
 .*\bwlxww\.com
 .*\bwlyfw\.com
@@ -65435,6 +65440,7 @@
 .*\byswh\.com
 .*\byswhy\.com
 .*\byswlgame\.com
+.*\byswliot\.com
 .*\byswpq\.com
 .*\byswxcn\.com
 .*\bysx8\.com
