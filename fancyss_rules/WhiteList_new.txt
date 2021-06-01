@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2021-05-31
+## Last update: 2021-06-01
 
 
 Server=/0-100.com/
@@ -368,7 +368,6 @@ Server=/041234b.com/
 Server=/04168.com/
 Server=/0416u.com/
 Server=/0417gou.com/
-Server=/0418fc.com/
 Server=/0421wcbzk.com/
 Server=/0427.com/
 Server=/0430.com/
@@ -9428,6 +9427,7 @@ Server=/angli.me/
 Server=/anglo-chinese.com/
 Server=/angroups.com/
 Server=/angruo.com/
+Server=/angrymiao.com/
 Server=/anguanjia.com/
 Server=/angui.org/
 Server=/angwei.net/
@@ -24507,7 +24507,6 @@ Server=/fxdm.net/
 Server=/fxdp.com/
 Server=/fxian.org/
 Server=/fxiaoke.com/
-Server=/fxingw.com/
 Server=/fxk8.com/
 Server=/fxlbb.com/
 Server=/fxlim.com/
@@ -48332,7 +48331,6 @@ Server=/rlyl.net/
 Server=/rm-static.djicdn.com/
 Server=/rm5u.com/
 Server=/rm96.com/
-Server=/rmcjzz.com/
 Server=/rmcteam.org/
 Server=/rmdhtyc.com/
 Server=/rmhospital.com/
@@ -51722,7 +51720,6 @@ Server=/sohochina.com/
 Server=/sohocute.com/
 Server=/sohonow.com/
 Server=/sohotask.com/
-Server=/sohovark.com/
 Server=/sohu-inc.com/
 Server=/sohu.com/
 Server=/sohu.net/
@@ -64373,7 +64370,6 @@ Server=/yiyiarts.com/
 Server=/yiyiarts.net/
 Server=/yiyihd.com/
 Server=/yiyimh.com/
-Server=/yiyingbk.com/
 Server=/yiyingt.com/
 Server=/yiyisoft.com/
 Server=/yiyituzi.com/
