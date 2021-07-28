@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2021-07-27
+## Last update: 2021-07-28
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -99,7 +99,6 @@
 .*\b0123456789\.biz
 .*\b0123456789\.com
 .*\b012logo\.com
-.*\b01365\.com
 .*\b01368\.com
 .*\b01368u\.com
 .*\b013767\.com
@@ -2405,7 +2404,6 @@
 .*\b22zryx\.com
 .*\b22zw\.com
 .*\b22zy\.net
-.*\b23-01\.com
 .*\b2300sjz\.com
 .*\b230596\.com
 .*\b230book\.com
@@ -6868,10 +6866,8 @@
 .*\b8961zx\.com
 .*\b896691\.com
 .*\b8977222\.vip
-.*\b8977444\.app
 .*\b8977444\.vip
 .*\b8977567\.com
-.*\b8977888\.app
 .*\b8977888\.vip
 .*\b8979\.com
 .*\b898\.travel
@@ -6890,6 +6886,7 @@
 .*\b8bb\.com
 .*\b8bcd9\.com
 .*\b8bears\.com
+.*\b8bei8\.com
 .*\b8bit\.xin
 .*\b8btc-ops\.com
 .*\b8btc\.com
@@ -7485,9 +7482,6 @@
 .*\b96804\.com
 .*\b96811\.com
 .*\b96822\.com
-.*\b9685222\.app
-.*\b9685333\.app
-.*\b9685777\.app
 .*\b96877\.net
 .*\b968pk\.com
 .*\b969009\.com
@@ -8150,7 +8144,6 @@
 .*\badanxing\.com
 .*\badapay\.tech
 .*\badarrive\.com
-.*\badas-china\.org
 .*\badashuo\.com
 .*\badbats\.com
 .*\badbxb\.com
@@ -8711,7 +8704,6 @@
 .*\bairmobyte\.com
 .*\bairnut\.com
 .*\bairoha\.com\.tw
-.*\bairpub\.io
 .*\bairsavvi\.com
 .*\bairspa\.net
 .*\bairtofly\.com
@@ -11762,7 +11754,6 @@
 .*\bbiquge\.info
 .*\bbiquge\.la
 .*\bbiquge\.lu
-.*\bbiquge\.tw
 .*\bbiquge\.vip
 .*\bbiquge0\.cc
 .*\bbiquge11\.com
@@ -16187,6 +16178,7 @@
 .*\bclcindex\.com
 .*\bclclibrary\.com
 .*\bclcmw\.com
+.*\bclcyd\.com
 .*\bcld-mail\.ru
 .*\bclean-cn\.com
 .*\bcleaninfo\.com
@@ -19165,6 +19157,7 @@
 .*\bdeepin\.org
 .*\bdeepinghost\.com
 .*\bdeepinmind\.com
+.*\bdeepinos\.org
 .*\bdeepleaper\.com
 .*\bdeeplearn\.me
 .*\bdeepoon\.com
@@ -23368,7 +23361,6 @@
 .*\bffmulu\.com
 .*\bffpedia\.com
 .*\bffpic\.com
-.*\bffpic\.net
 .*\bffplay\.net
 .*\bffquan\.com
 .*\bffsgame\.com
@@ -23378,7 +23370,6 @@
 .*\bffxiv\.xin
 .*\bffyd8\.com
 .*\bffyinxiang\.com
-.*\bffzy8\.com
 .*\bfg\.cc
 .*\bfgeekcloud\.com
 .*\bfghi34\.com
@@ -24968,6 +24959,7 @@
 .*\bgeizan\.cc
 .*\bgejian\.net
 .*\bgejiawen\.com
+.*\bgejiba\.com
 .*\bgelics\.com
 .*\bgelonghui\.com
 .*\bgelu\.me
@@ -29421,7 +29413,6 @@
 .*\bhuanghaicollege\.com
 .*\bhuanghanlian\.com
 .*\bhuanghecaifu\.com
-.*\bhuangheidc\.com
 .*\bhuanghepiao\.com
 .*\bhuanghouyz\.com
 .*\bhuangjiemin\.com
@@ -47853,7 +47844,6 @@
 .*\britaipaper\.com
 .*\britaomeng\.com
 .*\britarpower\.com
-.*\britayzy\.com
 .*\britering\.com
 .*\brivergame\.net
 .*\briyuba\.com
@@ -56256,7 +56246,6 @@
 .*\bv-danci\.com
 .*\bv-ka\.com
 .*\bv007\.net
-.*\bv11237\.com
 .*\bv114\.com
 .*\bv17go\.com
 .*\bv1bo\.com
