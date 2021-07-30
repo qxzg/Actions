@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2021-07-29
+## Last update: 2021-07-30
 
 
 Server=/0-100.com/
@@ -3129,7 +3129,6 @@ Server=/360kb.com/
 Server=/360kuai.com/
 Server=/360kuaixue.com/
 Server=/360kxr.com/
-Server=/360laoshi.com/
 Server=/360lj.com/
 Server=/360log.com/
 Server=/360longyan.com/
@@ -7189,7 +7188,6 @@ Server=/91tw.net/
 Server=/91tzy.com/
 Server=/91ud.com/
 Server=/91up.com/
-Server=/91uqu.com/
 Server=/91vpn.com/
 Server=/91vps.com/
 Server=/91vst.com/
@@ -22455,6 +22453,7 @@ Server=/exiaoba.com/
 Server=/exinee.com/
 Server=/exing103.com/
 Server=/exing113.com/
+Server=/exing118.com/
 Server=/exing125.com/
 Server=/exiqu.com/
 Server=/exmailqq.com/
@@ -33578,6 +33577,7 @@ Server=/jintianpaper1.com/
 Server=/jintoutiao.com/
 Server=/jinwaimai.com/
 Server=/jinwin.net/
+Server=/jinxianglian.net/
 Server=/jinxidao.com/
 Server=/jinxiu8.com/
 Server=/jinxuliang.com/
@@ -44603,6 +44603,7 @@ Server=/pgzs.com/
 Server=/pgzx.net/
 Server=/ph1126.net/
 Server=/phalapi.net/
+Server=/pharmcube.com/
 Server=/phaser-china.com/
 Server=/phb123.com/
 Server=/phdwu.com/
@@ -45581,6 +45582,7 @@ Server=/pvpin.com/
 Server=/pw1999.com/
 Server=/pw88.com/
 Server=/pwmis.com/
+Server=/pwmqr.com/
 Server=/pwp.ink/
 Server=/pwrd.com/
 Server=/pwsannong.com/
@@ -53239,6 +53241,7 @@ Server=/taoyuantravel.com/
 Server=/taozaisheng.com/
 Server=/taozhutu.com/
 Server=/taozhuwu.com/
+Server=/tapapis.com/
 Server=/tapas.net/
 Server=/tapdata.net/
 Server=/tapdb.com/

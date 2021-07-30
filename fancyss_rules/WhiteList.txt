@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2021-07-29
+## Last update: 2021-07-30
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -3129,7 +3129,6 @@
 .*\b360kuai\.com
 .*\b360kuaixue\.com
 .*\b360kxr\.com
-.*\b360laoshi\.com
 .*\b360lj\.com
 .*\b360log\.com
 .*\b360longyan\.com
@@ -7189,7 +7188,6 @@
 .*\b91tzy\.com
 .*\b91ud\.com
 .*\b91up\.com
-.*\b91uqu\.com
 .*\b91vpn\.com
 .*\b91vps\.com
 .*\b91vst\.com
@@ -22455,6 +22453,7 @@
 .*\bexinee\.com
 .*\bexing103\.com
 .*\bexing113\.com
+.*\bexing118\.com
 .*\bexing125\.com
 .*\bexiqu\.com
 .*\bexmailqq\.com
@@ -33578,6 +33577,7 @@
 .*\bjintoutiao\.com
 .*\bjinwaimai\.com
 .*\bjinwin\.net
+.*\bjinxianglian\.net
 .*\bjinxidao\.com
 .*\bjinxiu8\.com
 .*\bjinxuliang\.com
@@ -44603,6 +44603,7 @@
 .*\bpgzx\.net
 .*\bph1126\.net
 .*\bphalapi\.net
+.*\bpharmcube\.com
 .*\bphaser-china\.com
 .*\bphb123\.com
 .*\bphdwu\.com
@@ -45581,6 +45582,7 @@
 .*\bpw1999\.com
 .*\bpw88\.com
 .*\bpwmis\.com
+.*\bpwmqr\.com
 .*\bpwp\.ink
 .*\bpwrd\.com
 .*\bpwsannong\.com
@@ -53239,6 +53241,7 @@
 .*\btaozaisheng\.com
 .*\btaozhutu\.com
 .*\btaozhuwu\.com
+.*\btapapis\.com
 .*\btapas\.net
 .*\btapdata\.net
 .*\btapdb\.com
