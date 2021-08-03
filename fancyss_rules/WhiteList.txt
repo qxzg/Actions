@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2021-08-02
+## Last update: 2021-08-03
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -1996,7 +1996,6 @@
 .*\b1b23\.com
 .*\b1biaozhun\.com
 .*\b1biqu\.com
-.*\b1biquge\.com
 .*\b1bus\.net
 .*\b1cae\.com
 .*\b1caifu\.com
@@ -3183,6 +3182,7 @@
 .*\b360zhijia\.com
 .*\b360zhuizhu\.com
 .*\b360zhyx\.com
+.*\b360zimeiti\.com
 .*\b361\.cm
 .*\b361757\.com
 .*\b3618med\.com
@@ -15387,7 +15387,6 @@
 .*\bchinaren\.com
 .*\bchinareports\.org
 .*\bchinarootdesign\.com
-.*\bchinarta\.com
 .*\bchinartlaw\.com
 .*\bchinarun\.com
 .*\bchinarzfh\.com
@@ -22894,7 +22893,6 @@
 .*\bfapiao365\.com
 .*\bfapiaobang\.com
 .*\bfaqrobot\.org
-.*\bfaqwork\.com
 .*\bfar123\.com
 .*\bfar2000\.com
 .*\bfaradayfuturecn\.com
@@ -22959,6 +22957,7 @@
 .*\bfawuzaixian\.com
 .*\bfax52\.com
 .*\bfaxdns\.com
+.*\bfaxdns\.net
 .*\bfaxeye\.com
 .*\bfaxingchina\.com
 .*\bfaxingcn\.com
@@ -31484,7 +31483,6 @@
 .*\binbeijing\.org
 .*\binbilin\.com
 .*\binbooker\.com
-.*\binboxarchiver\.com
 .*\binc365\.com
 .*\bincake\.net
 .*\bincensechina\.com
@@ -35034,6 +35032,7 @@
 .*\bka5188\.com
 .*\bkaadas\.com
 .*\bkaayou\.com
+.*\bkaayun\.com
 .*\bkaba365\.com
 .*\bkabasiji\.com
 .*\bkabitu\.com
@@ -47765,6 +47764,7 @@
 .*\brijiwang\.com
 .*\briju\.tv
 .*\brijutv\.com
+.*\brikka\.app
 .*\brilvtong\.com
 .*\brilzob\.com
 .*\brimiedu\.com
@@ -50801,6 +50801,7 @@
 .*\bsketchupbar\.com
 .*\bsketchupbbs\.com
 .*\bskg\.com
+.*\bskhao\.net
 .*\bskieer\.com
 .*\bskight\.com
 .*\bskinme\.cc
@@ -51196,6 +51197,7 @@
 .*\bsogou\.com
 .*\bsogou2\.com
 .*\bsogoucdn\.com
+.*\bsogouimecdn\.com
 .*\bsogouw\.com
 .*\bsogouwenwen\.com
 .*\bsoharp\.com
@@ -61707,6 +61709,7 @@
 .*\bxn--nyqx2gbsm8u0b\.com
 .*\bxn--nyw032beqlm2f\.com
 .*\bxn--nyw032beqlm2f\.net
+.*\bxn--rhq0kz4zzjc7w9a66k\.com
 .*\bxn--rss99n\.com
 .*\bxn--s4t325g\.com
 .*\bxn--w9qy23cc6adz7d\.net
@@ -64482,7 +64485,6 @@
 .*\byqphh\.com
 .*\byqptzx\.com
 .*\byqqlm\.vip
-.*\byqqzx\.com
 .*\byqsbz\.com
 .*\byqscpt\.com
 .*\byqsns\.com
@@ -68353,5 +68355,3 @@
 .*\bzzzzaaaa\.com
 .*\bzzzzhong\.com
 .*\bzzzzmall\.com
-.*\b凯荣机械\.net
-.*\b名臣健康\.com
