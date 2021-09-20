@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2021-09-19
+## Last update: 2021-09-20
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -4969,7 +4969,6 @@
 .*\b54benniao\.com
 .*\b54bk\.com
 .*\b54bt\.com
-.*\b54chen\.com
 .*\b54doctor\.net
 .*\b54doctors\.net
 .*\b54fcnr\.com
@@ -14048,7 +14047,6 @@
 .*\bceoeo\.com
 .*\bceoim\.com
 .*\bceomoo\.com
-.*\bceons4\.com
 .*\bceook\.com
 .*\bceoplaza\.com
 .*\bceotx\.com
@@ -19961,7 +19959,6 @@
 .*\bdocs\.djicdn\.com
 .*\bdocs\.microsoft\.com
 .*\bdocs\.oracle\.com
-.*\bdocs4dev\.com
 .*\bdocschina\.org
 .*\bdocsou\.com
 .*\bdoctorcom\.com
@@ -23105,7 +23102,6 @@
 .*\bfenxi\.org
 .*\bfenxiangdashi\.com
 .*\bfenxianglife\.com
-.*\bfenxiaoba\.net
 .*\bfenxiyi\.com
 .*\bfenxuekeji\.com
 .*\bfenying\.net
@@ -24005,9 +24001,6 @@
 .*\bfw-biotech\.com
 .*\bfw4\.co
 .*\bfw4\.me
-.*\bfwcdn\.com
-.*\bfwcdn\.net
-.*\bfwdns\.net
 .*\bfwdq\.com
 .*\bfwdq\.net
 .*\bfwdqw\.com
@@ -26477,8 +26470,6 @@
 .*\bhabadog\.com
 .*\bhabbygames\.com
 .*\bhac-ker\.net
-.*\bhacdn\.com
-.*\bhacdn\.net
 .*\bhack0nair\.me
 .*\bhack50\.com
 .*\bhackav\.com
@@ -26503,7 +26494,6 @@
 .*\bhacpai\.com
 .*\bhaczjob\.com
 .*\bhadax\.com
-.*\bhadns\.net
 .*\bhadobi\.com
 .*\bhadsky\.com
 .*\bhadyang\.com
@@ -27149,6 +27139,7 @@
 .*\bhashfish\.net
 .*\bhashnest\.com
 .*\bhasndq\.com
+.*\bhassbian\.com
 .*\bhat358\.com
 .*\bhatdot\.com
 .*\bhatfav\.com
@@ -37448,7 +37439,6 @@
 .*\blinewow\.com
 .*\blinezing\.com
 .*\blinfan\.com
-.*\blinfan\.net
 .*\blingaoren\.com
 .*\blingb\.net
 .*\blingcaixinyuan\.com
@@ -39834,7 +39824,6 @@
 .*\bmeirishentie\.com
 .*\bmeiritv\.net
 .*\bmeiriyiwen\.com
-.*\bmeiriyouxue\.com
 .*\bmeirong\.net
 .*\bmeirongshanghai\.com
 .*\bmeisaitu\.com
@@ -53818,7 +53807,6 @@
 .*\btmechina\.org
 .*\btmeiju\.com
 .*\btmetb\.com
-.*\btmetb\.net
 .*\btmhong\.com
 .*\btmhvps\.com
 .*\btmigoods\.com
@@ -59297,6 +59285,7 @@
 .*\bwykefu\.com
 .*\bwykw\.com
 .*\bwykz\.com
+.*\bwylws\.com
 .*\bwymp4\.net
 .*\bwymp46\.com
 .*\bwyn88\.com
@@ -63708,10 +63697,8 @@
 .*\byoujiaus\.net
 .*\byoujiaxiao\.com
 .*\byoujiuhealth\.com
-.*\byoujk\.com
 .*\byoujoy\.tv
 .*\byoujuke\.com
-.*\byouka\.la
 .*\byoukake\.com
 .*\byouke\.co
 .*\byouke\.com
@@ -67314,6 +67301,7 @@
 .*\bzsf\.cool
 .*\bzsfstudio\.xyz
 .*\bzsfund\.com
+.*\bzsfy\.org
 .*\bzsgd\.com
 .*\bzsglrj\.com
 .*\bzsgoodlighting\.com
