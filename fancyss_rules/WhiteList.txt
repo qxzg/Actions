@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2021-10-04
+## Last update: 2021-10-05
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -549,6 +549,7 @@
 .*\b0730news\.com
 .*\b0730seo\.com
 .*\b073122\.com
+.*\b0731a\.com
 .*\b0731cfw\.com
 .*\b0731fdc\.com
 .*\b0731i\.com
@@ -4325,7 +4326,6 @@
 .*\b51mokao\.com
 .*\b51mole\.com
 .*\b51moot\.net
-.*\b51mp3ring\.com
 .*\b51mrp\.com
 .*\b51mta\.com
 .*\b51mtw\.com
@@ -5819,6 +5819,7 @@
 .*\b698wan\.com
 .*\b69916666\.com
 .*\b699g\.com
+.*\b699h5\.com
 .*\b699pic\.com
 .*\b699xs\.com
 .*\b69cy\.net
@@ -11771,7 +11772,6 @@
 .*\bbjadn\.net
 .*\bbjaic\.com
 .*\bbjaodidazhong\.com
-.*\bbjaokaihua\.com
 .*\bbjatv\.com
 .*\bbjbaidu88\.com
 .*\bbjbaodao\.net
@@ -12280,6 +12280,7 @@
 .*\bbog\.ac
 .*\bbogokj\.com
 .*\bbohailife\.net
+.*\bbohaishibei\.com
 .*\bbohaiyun\.com
 .*\bbohe\.com
 .*\bbohuihe\.com
@@ -12402,7 +12403,6 @@
 .*\bboruiqin\.com
 .*\bboruishijie\.com
 .*\bboruisx\.com
-.*\bboruisz\.com
 .*\bboryou\.com
 .*\bbos\.xin
 .*\bbosdile\.com
@@ -19852,6 +19852,7 @@
 .*\bdnsour\.com
 .*\bdnspai\.com
 .*\bdnspig\.com
+.*\bdnsplus\.co
 .*\bdnspod\.com
 .*\bdnspod\.net
 .*\bdnspood\.net
@@ -20580,7 +20581,6 @@
 .*\bduososo\.com
 .*\bduosq\.com
 .*\bduost\.com
-.*\bduotai\.co
 .*\bduotai\.net
 .*\bduote\.com
 .*\bduotoupiao\.com
@@ -25791,6 +25791,7 @@
 .*\bgucn\.com
 .*\bgucun\.info
 .*\bgucunpark\.net
+.*\bgudage\.cc
 .*\bgudaiba\.com
 .*\bgudaovision\.com
 .*\bgudi\.cc
@@ -39940,7 +39941,6 @@
 .*\bmg-pen\.com
 .*\bmg21\.com
 .*\bmg3721\.com
-.*\bmg6440\.com
 .*\bmg67\.com
 .*\bmgc-games\.com
 .*\bmgd5\.com
@@ -45490,6 +45490,7 @@
 .*\bqianhai12315\.com
 .*\bqianhaiaiaitie\.com
 .*\bqianhuaweb\.com
+.*\bqianhujz\.com
 .*\bqianinfo\.com
 .*\bqianjia\.com
 .*\bqianjiayue\.com
@@ -54656,6 +54657,7 @@
 .*\btv002\.com
 .*\btv189\.com
 .*\btv2stb\.com
+.*\btv3w\.com
 .*\btv432\.com
 .*\btv5box\.com
 .*\btvandnet\.com
@@ -57707,7 +57709,6 @@
 .*\bwhitemedia-china\.com
 .*\bwhitjy\.com
 .*\bwhjbh\.com
-.*\bwhjcbus\.com
 .*\bwhjclgs\.com
 .*\bwhjcly\.com
 .*\bwhjhcz\.com
@@ -58714,6 +58715,7 @@
 .*\bwsyyxz\.com
 .*\bwszwh\.org
 .*\bwt-px\.com
+.*\bwt168\.com
 .*\bwt8\.com
 .*\bwtaluo\.com
 .*\bwtango\.com
@@ -65846,7 +65848,6 @@
 .*\bzhimaruanjian\.com
 .*\bzhimawenda\.com
 .*\bzhimax\.com
-.*\bzhimengzhe\.com
 .*\bzhimg\.com
 .*\bzhimi\.com
 .*\bzhimoe\.com
@@ -66997,7 +66998,6 @@
 .*\bzooyoo\.cc
 .*\bzoroli\.com
 .*\bzorrowh\.com
-.*\bzotanwa\.com
 .*\bzou\.la
 .*\bzou114\.com
 .*\bzou114\.net
