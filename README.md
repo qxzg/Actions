@@ -11,4 +11,4 @@
 - > x86版本fancyss插件请自行找到更新规则的脚本并替换`url_main`参数
 ### 每次fancyss插件更新后都需要\*重新运行一次\*更新`ss_rule_update`脚本的命令
 ---
-##### 注：由于源更新较慢，大陆白名单已改用[ispip.clang.cn](https://ispip.clang.cn/all_cn.txt)作为规则源，而非fancyss原版规则中的[https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ipip_country/ipip_country_cn.netset](https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ipip_country/ipip_country_cn.netset)   
+##### 注：由于源更新较慢，大陆白名单已改用[https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt](https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt)作为规则源，而非fancyss原版规则中的[https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ipip_country/ipip_country_cn.netset](https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ipip_country/ipip_country_cn.netset)   
