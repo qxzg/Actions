@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2022-01-16
+## Last update: 2022-01-17
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -545,7 +545,6 @@
 .*\b0728f\.com
 .*\b0730188\.com
 .*\b0730news\.com
-.*\b0730seo\.com
 .*\b073122\.com
 .*\b0731a\.com
 .*\b0731cfw\.com
@@ -6444,7 +6443,6 @@
 .*\b8090app\.com
 .*\b8090cdn\.com
 .*\b8090mt\.com
-.*\b8090st\.com
 .*\b8090vision\.com
 .*\b8090xx\.com
 .*\b8090yx\.com
@@ -18865,6 +18863,7 @@
 .*\bddsaas\.com
 .*\bddske\.com
 .*\bddstarapp\.com
+.*\bddswcm\.com
 .*\bddsy\.com
 .*\bddtaba\.com
 .*\bddtugame\.com
@@ -25324,7 +25323,6 @@
 .*\bgongchou\.com
 .*\bgongfubb\.com
 .*\bgongheshengshi\.com
-.*\bgongjianglaile\.com
 .*\bgongjiao\.com
 .*\bgongjiaomi\.com
 .*\bgongju\.com
@@ -26720,7 +26718,6 @@
 .*\bhamanw\.com
 .*\bhambut\.com
 .*\bhamir\.net
-.*\bhan-cang\.com
 .*\bhan-tang\.cc
 .*\bhan66\.com
 .*\bhanamichi\.wiki
@@ -31906,6 +31903,7 @@
 .*\bitaokecms\.com
 .*\bitaotuo\.com
 .*\bitavcn\.com
+.*\bitazhi\.com
 .*\bitbegin\.com
 .*\bitbeihe\.com
 .*\bitbiaoju\.com
@@ -32736,6 +32734,7 @@
 .*\bjhsctv\.com
 .*\bjhsdai\.com
 .*\bjhsfojiao\.com
+.*\bjhsjtxx\.com
 .*\bjhssapp\.com
 .*\bjht868\.com
 .*\bjhtcgroup\.com
@@ -33651,7 +33650,6 @@
 .*\bjjcto\.com
 .*\bjjdc\.net
 .*\bjjdede\.com
-.*\bjjdf\.com
 .*\bjjdiaoyu\.com
 .*\bjjdzc\.com
 .*\bjjecn\.com
@@ -34018,7 +34016,6 @@
 .*\bjoywii\.net
 .*\bjoywok\.com
 .*\bjoyyang\.com
-.*\bjoyyoo\.com
 .*\bjoyzlan\.com
 .*\bjp-moco\.com
 .*\bjp\.com
@@ -38575,6 +38572,7 @@
 .*\blsuoled\.com
 .*\blsup\.net
 .*\blsw315\.com
+.*\blswld\.com
 .*\blswlsw\.com
 .*\blsxz\.org
 .*\blsywtc\.com
@@ -41674,6 +41672,7 @@
 .*\bmymova\.com
 .*\bmynb8\.com
 .*\bmynee\.com
+.*\bmyoas\.com
 .*\bmyodatech\.com
 .*\bmyoldtime\.com
 .*\bmyonlystar\.com
@@ -52436,7 +52435,6 @@
 .*\bszpichappy\.com
 .*\bszpmi\.org
 .*\bszpowerpms\.com
-.*\bszpxb\.com
 .*\bszpxe\.com
 .*\bszqcz\.com
 .*\bszqf\.org
@@ -52721,6 +52719,7 @@
 .*\btangdouimg\.com
 .*\btangeche\.com
 .*\btanggu11g\.com
+.*\btangguoxian\.com
 .*\btanghushi\.com
 .*\btangide\.com
 .*\btangjie\.me
@@ -53780,6 +53779,7 @@
 .*\btitan007\.com
 .*\btitan24\.com
 .*\btitanar\.com
+.*\btitanmatrix\.com
 .*\btitapark\.com
 .*\btixa\.com
 .*\btixaapp\.com
@@ -57401,7 +57401,6 @@
 .*\bweikd\.com
 .*\bweike\.fm
 .*\bweikebaba\.net
-.*\bweikefanli\.com
 .*\bweikeimg\.com
 .*\bweikejianghu\.com
 .*\bweikengtech\.com
@@ -61486,6 +61485,7 @@
 .*\bxsb\.tw
 .*\bxsb120\.com
 .*\bxsbiquge\.com
+.*\bxsbnggzyjyxx\.com
 .*\bxscbs\.com
 .*\bxschu\.com
 .*\bxsdwk\.com
