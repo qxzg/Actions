@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2022-01-17
+## Last update: 2022-01-18
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -369,7 +369,6 @@
 .*\b0471fcw\.com
 .*\b0472\.com
 .*\b0479xx\.com
-.*\b04wan\.com
 .*\b05087\.com
 .*\b051058\.com
 .*\b0510syedu\.com
@@ -842,6 +841,7 @@
 .*\b100jiapu\.com
 .*\b100jm\.net
 .*\b100ksw\.com
+.*\b100legend\.com
 .*\b100loujia\.com
 .*\b100lw\.com
 .*\b100market\.net
@@ -2874,7 +2874,6 @@
 .*\b3250mh\.com
 .*\b3259\.com
 .*\b32800\.com
-.*\b328888\.xyz
 .*\b3289\.com
 .*\b328f\.com
 .*\b32bh\.com
@@ -3268,6 +3267,7 @@
 .*\b365yg\.com
 .*\b365you\.com
 .*\b365yyd\.com
+.*\b365zn\.com
 .*\b365zzd\.com
 .*\b3663\.com
 .*\b366300\.com
@@ -3908,7 +3908,6 @@
 .*\b4xiazai\.com
 .*\b4xseo\.com
 .*\b4y4\.net
-.*\b4yang\.com
 .*\b4ye\.cc
 .*\b4yt\.net
 .*\b4yx\.com
@@ -13400,7 +13399,6 @@
 .*\bcatfun\.tv
 .*\bcatguo\.com
 .*\bcathayagroup\.com
-.*\bcathaycentury\.com
 .*\bcathayfund\.com
 .*\bcatjc\.com
 .*\bcato-travel\.com
@@ -22319,7 +22317,6 @@
 .*\beywedu\.com
 .*\beywedu\.net
 .*\beywedu\.org
-.*\beywl\.cc
 .*\beyy168\.com
 .*\beyy8\.vip
 .*\bez-leaf\.com
@@ -27487,6 +27484,7 @@
 .*\bhdcolorant\.com
 .*\bhdd-group\.com
 .*\bhddhhn\.com
+.*\bhddid\.com
 .*\bhddznet\.com
 .*\bhdem12\.com
 .*\bhdfimg\.com
@@ -30104,6 +30102,7 @@
 .*\bhzsbz\.com
 .*\bhzsdfsyxx\.com
 .*\bhzsgjj\.com
+.*\bhzshudian\.com
 .*\bhzstad88\.com
 .*\bhzti\.com
 .*\bhztosz\.com
@@ -30517,7 +30516,6 @@
 .*\bictpaas\.com
 .*\bictun\.com
 .*\bictuniv\.com
-.*\bicuiya\.com
 .*\bicver\.com
 .*\bicvip\.com
 .*\bicxbk\.com
@@ -38412,7 +38410,6 @@
 .*\bloupan\.com
 .*\blouqun\.com
 .*\bloushi12\.com
-.*\bloushiwo\.com
 .*\blousj\.com
 .*\blousw\.com
 .*\blouyue\.com
@@ -40158,7 +40155,6 @@
 .*\bmftianshanam\.com
 .*\bmftvideo\.com
 .*\bmfxs888\.com
-.*\bmfycdn\.com
 .*\bmfzdb\.com
 .*\bmfzxcs\.com
 .*\bmg-cdn\.com
@@ -44534,7 +44530,6 @@
 .*\bpilifu\.com
 .*\bpilifx\.com
 .*\bpimei\.com
-.*\bpin-ad\.com
 .*\bpin-color\.net
 .*\bpin-qu\.com
 .*\bpin18pin\.com
@@ -51403,6 +51398,7 @@
 .*\bssnewyork\.com
 .*\bssnn\.net
 .*\bssofair\.com
+.*\bssoffo\.com
 .*\bssozz\.com
 .*\bssp86\.com
 .*\bsspaas\.com
@@ -51721,6 +51717,7 @@
 .*\bsuirui\.com
 .*\bsuishenyun\.net
 .*\bsuishouji\.com
+.*\bsuisuihu\.com
 .*\bsuisuijiang\.com
 .*\bsuixingjia\.com
 .*\bsuixw\.com
@@ -54160,7 +54157,6 @@
 .*\btopeditsci\.com
 .*\btopeet\.com
 .*\btopeetboard\.com
-.*\btopenergy\.org
 .*\btopengroup\.net
 .*\btopfisc\.com
 .*\btopflames\.com
@@ -59687,7 +59683,6 @@
 .*\bxcj\.pub
 .*\bxcjd\.net
 .*\bxckszx\.com
-.*\bxcktsb\.com
 .*\bxclient\.info
 .*\bxcloudbase\.com
 .*\bxcmad\.com
@@ -66168,7 +66163,6 @@
 .*\bzhiliaomj\.com
 .*\bzhilii\.com
 .*\bzhilingshidai\.com
-.*\bzhilizazhi\.com
 .*\bzhilong\.me
 .*\bzhilongtech\.com
 .*\bzhiluo\.net
@@ -67165,7 +67159,6 @@
 .*\bzlsnet\.com
 .*\bzlsoft\.com
 .*\bzltianhen\.com
-.*\bzltkj\.com
 .*\bzluren\.com
 .*\bzlvod\.com
 .*\bzlw\.so
