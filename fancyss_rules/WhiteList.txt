@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2022-02-18
+## Last update: 2022-02-19
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -1425,7 +1425,6 @@
 .*\b15w\.com
 .*\b15wz\.com
 .*\b15xdd\.com
-.*\b15xs\.com
 .*\b15yan\.com
 .*\b15yc\.com
 .*\b15yl\.com
@@ -2147,6 +2146,7 @@
 .*\b204u\.com
 .*\b205\.com
 .*\b206dy\.com
+.*\b2080ly\.com
 .*\b2088062\.com
 .*\b2088063\.com
 .*\b208xs\.com
@@ -10027,7 +10027,7 @@
 .*\bawtmt\.com
 .*\bawuming\.com
 .*\bawx1\.com
-.*\bax1x\.com
+#.*\bax1x\.com/114\.114\.114\.114 # Disabled: https://github\.com/felixonmars/dnsmasq-china-list/issues/391
 .*\bax2nc4\.ren
 .*\bax630\.com
 .*\baxatp\.com
@@ -11144,6 +11144,7 @@
 .*\bbestbaijiu\.com
 .*\bbestbeibao\.com
 .*\bbestcake\.com
+.*\bbestcdn\.vip
 .*\bbestcem\.com
 .*\bbestdjb\.com
 .*\bbestdo\.com
@@ -13351,7 +13352,6 @@
 .*\bcbi360\.net
 .*\bcbi88\.com
 .*\bcbice\.com
-.*\bcbide\.com
 .*\bcbiec\.com
 .*\bcbiec\.net
 .*\bcbismb\.com
@@ -16527,7 +16527,6 @@
 .*\bcnmo\.com
 .*\bcnmobile\.net
 .*\bcnmods\.org
-.*\bcnmoi\.org
 .*\bcnmsl\.net
 .*\bcnmsn\.net
 .*\bcnmstl\.net
@@ -17362,6 +17361,7 @@
 .*\bcr6868\.com
 .*\bcrabchina\.com
 .*\bcrackersta\.com
+.*\bgateway\.craft\.moe
 .*\bcraftcontact\.com
 .*\bcrandom\.com
 .*\bcrazepony\.com
@@ -17506,6 +17506,7 @@
 .*\bcsharpkit\.com
 .*\bcshixi\.com
 .*\bcshnkj\.com
+.*\bcshope\.net
 .*\bcshu360\.com
 .*\bcshxdc\.com
 .*\bcshzw\.com
@@ -19748,6 +19749,7 @@
 .*\bdnsabc-g\.com
 .*\bdnsapple\.com
 .*\bdnsapple\.net
+.*\bdnsce\.com
 .*\bdnscnc\.com
 .*\bdnsddos\.com
 .*\bdnsdiy\.com
@@ -27195,6 +27197,7 @@
 .*\bhbseo\.com
 .*\bhbsfgk\.org
 .*\bhbshbsh\.com
+.*\bhbshengbangwl\.com
 .*\bhbshgzx\.com
 .*\bhbshls\.com
 .*\bhbsia\.org
@@ -27345,7 +27348,6 @@
 .*\bhdingsheng\.com
 .*\bhdj\.me
 .*\bhdjay\.com
-.*\bhdjr\.org
 .*\bhdjwww\.com
 .*\bhdlcdns\.com
 .*\bhdlchina\.com
@@ -36108,6 +36110,7 @@
 .*\bkxyike\.com
 .*\bkxzmw\.com
 .*\bky-express\.com
+.*\bky5yx\.com
 .*\bky958\.com
 .*\bkybapp\.com
 .*\bkybapp\.net
@@ -40369,6 +40372,7 @@
 .*\bmiraclevision\.net
 .*\bmirari\.cc
 .*\bmirgaga\.net
+.*\bmirmzhy\.com
 .*\bmirxat\.com
 .*\bmisaka\.center
 .*\bmisall\.com
@@ -43256,7 +43260,6 @@
 .*\boptaim\.com
 .*\boptbbs\.com
 .*\bopticsjournal\.net
-.*\bopticsx\.org
 .*\boptimix\.asia
 .*\boptimized-ai\.com
 .*\boptinetchina\.com
@@ -52794,6 +52797,7 @@
 .*\btdnsv6\.com
 .*\btdnsv8\.com
 .*\btdpress\.com
+.*\btdun\.com
 .*\btduou\.com
 .*\btdyxmoto\.com
 .*\btdzyw\.com
@@ -61177,7 +61181,6 @@
 .*\bxshengyan\.com
 .*\bxshenshu\.com
 .*\bxshkvip\.com
-.*\bxshouyi\.com
 .*\bxshrcw\.com
 .*\bxshulin\.com
 .*\bxshuma\.com
