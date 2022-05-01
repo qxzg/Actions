@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2022-04-30
+## Last update: 2022-05-01
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -357,7 +357,6 @@
 .*\b0510syedu\.com
 .*\b0511w\.com
 .*\b0512118114\.com
-.*\b0512fangchan\.com
 .*\b0512pearl\.com
 .*\b0512s\.com
 .*\b0512zp\.com
@@ -3549,7 +3548,6 @@
 .*\b400cx\.com
 .*\b400gb\.com
 .*\b400iu\.com
-.*\b400jk\.com
 .*\b400jz\.com
 .*\b400lyw\.com
 .*\b400num\.com
@@ -5556,7 +5554,6 @@
 .*\b669pic\.com
 .*\b669play\.com
 .*\b669ye\.com
-.*\b66beian\.com
 .*\b66call\.com
 .*\b66cn\.com
 .*\b66diqiu\.com
@@ -8712,6 +8709,7 @@
 .*\baliyunga0017\.com
 .*\baliyunga0018\.com
 .*\baliyungf\.com
+.*\baliyunhelp\.com
 .*\baliyunhn\.com
 .*\baliyunj\.com
 .*\baliyunlive\.com
@@ -12263,7 +12261,6 @@
 .*\bbsh\.com
 .*\bbshaishu\.com
 .*\bbshare\.com
-.*\bbshjxxkj\.com
 .*\bbsida\.com
 .*\bbsidu\.com
 .*\bbsjhhzs\.com
@@ -19145,7 +19142,6 @@
 .*\bdituge\.com
 .*\bdituhui\.com
 .*\bdituwuyou\.com
-.*\bdiudou\.com
 .*\bdiugai\.com
 .*\bdiushouji\.com
 .*\bdiv\.io
@@ -28933,7 +28929,6 @@
 .*\bhuizhan-inc\.com
 .*\bhuizhaofang\.com
 .*\bhuizhek\.com
-.*\bhuizhekou\.net
 .*\bhuizhijiaxun\.com
 .*\bhuizhimob\.com
 .*\bhuizhouf\.com
@@ -31369,7 +31364,6 @@
 .*\bitruke\.com
 .*\bitry\.com
 .*\bits114\.com
-.*\bitscoder\.com
 .*\bitshai\.com
 .*\bitsiwei\.com
 .*\bitsk\.com
@@ -33268,7 +33262,6 @@
 .*\bjovcloud\.com
 .*\bjovetech\.com
 .*\bjowto\.com
-.*\bjoy9178\.com
 .*\bjoyact\.com
 .*\bjoyami\.com
 .*\bjoyany\.com
@@ -37052,6 +37045,7 @@
 .*\blistentoworld\.com
 .*\blistenvod\.com
 .*\blitaow\.com
+.*\blitchon\.com
 .*\blitecoin\.ink
 .*\blitecoin\.ren
 .*\blitefeel\.com
@@ -49005,6 +48999,7 @@
 .*\bshuowan\.com
 .*\bshuowan\.net
 .*\bshuoxu\.com
+.*\bshupaiyun\.com
 .*\bshuqi\.com
 .*\bshuqiapi\.com
 .*\bshuqiread\.com
@@ -66006,7 +66001,6 @@
 .*\bzonen-tech\.com
 .*\bzonepp\.com
 .*\bzoneve\.com
-.*\bzongcaidarentilihaoya\.com
 .*\bzonghangsl\.com
 .*\bzongheng\.com
 .*\bzonghengche\.com
