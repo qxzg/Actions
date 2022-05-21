@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2022-05-20
+## Last update: 2022-05-21
 
 
 Server=/0-100.com/
@@ -1069,7 +1069,6 @@ Server=/120bjgcyy.org/
 Server=/120btc.com/
 Server=/120dxb.com/
 Server=/120fd.com/
-Server=/120gz.com/
 Server=/120hpyy.com/
 Server=/120kaoshi.com/
 Server=/120kid.com/
@@ -7858,6 +7857,7 @@ Server=/adxmq.com/
 Server=/adxpand.com/
 Server=/adxqd.com/
 Server=/adxvip.com/
+Server=/adyounger.com/
 Server=/adyun.com/
 Server=/adzh.com/
 Server=/adzhongdian.com/
@@ -25217,7 +25217,6 @@ Server=/guidechem.com/
 Server=/guideir.com/
 Server=/guiderank-app.com/
 Server=/guiderank.org/
-Server=/guifan110.com/
 Server=/guifun.com/
 Server=/guigu.org/
 Server=/guiguzhongguo.com/
@@ -29880,6 +29879,7 @@ Server=/ieeewifi.com/
 Server=/ieeod0.com/
 Server=/ieepa.org/
 Server=/iefang.com/
+Server=/iefans.net/
 Server=/iegcom.com/
 Server=/iegee.net/
 Server=/iegourl.com/
@@ -30982,7 +30982,6 @@ Server=/isoyu.com/
 Server=/isp.cx/
 Server=/ispeaken.com/
 Server=/ispecial.xyz/
-Server=/isport2008.com/
 Server=/ispservice.cc/
 Server=/isqhy.com/
 Server=/isrcb.com/
@@ -35980,6 +35979,7 @@ Server=/leeiio.me/
 Server=/leenzhu.com/
 Server=/leeon.me/
 Server=/leepoint.net/
+Server=/leeqing.com/
 Server=/leesou.com/
 Server=/leetcode-cn.com/
 Server=/leetcodechina.com/
@@ -49452,7 +49452,6 @@ Server=/smgif.com/
 Server=/smgjj.com/
 Server=/smgstar.com/
 Server=/smhdoto.com/
-Server=/smhom1.com/
 Server=/smhyplay.com/
 Server=/smianet.com/
 Server=/smic-sh.com/
@@ -49700,7 +49699,6 @@ Server=/solodonna.world/
 Server=/solosea.com/
 Server=/solotoon.com/
 Server=/solution9.net/
-Server=/solvso.com/
 Server=/solvyou.com/
 Server=/somanhua.com/
 Server=/somao123.com/
@@ -54536,7 +54534,6 @@ Server=/v4.cc/
 Server=/v4dwkcv.com/
 Server=/v5.com/
 Server=/v54321.com/
-Server=/v58008.com/
 Server=/v5bjq.com/
 Server=/v5cam.com/
 Server=/v5cg.com/
