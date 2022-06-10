@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2022-06-09
+## Last update: 2022-06-10
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -4145,7 +4145,6 @@
 .*\b51mta\.com
 .*\b51mtw\.com
 .*\b51nac\.com
-.*\b51nb\.com
 .*\b51nicelearn\.com
 .*\b51niux\.com
 .*\b51nod\.com
@@ -12217,6 +12216,7 @@
 .*\bbubuol\.com
 .*\bbubuzheng\.com
 .*\bbucg\.com
+.*\bbuckydrop\.com
 .*\bbucuo\.me
 .*\bbucuo100\.com
 .*\bbudao\.com
@@ -19102,7 +19102,6 @@
 .*\bdlpuwan\.com
 .*\bdlrjtz\.com
 .*\bdlrkb\.com
-.*\bdlrspace\.com
 .*\bdlsjcsb\.com
 .*\bdlsqb\.com
 .*\bdlssa\.com
@@ -20811,7 +20810,9 @@
 .*\befpp\.com
 .*\befucms\.com
 .*\befueloil\.com
+.*\befuncn\.com
 .*\befunent\.com
+.*\befunq\.com
 .*\befwang\.com
 .*\befwh\.com
 .*\befy-tech\.com
@@ -22192,6 +22193,7 @@
 .*\bfeifustudio\.com
 .*\bfeige\.ee
 .*\bfeigo\.fun
+.*\bfeihe\.com
 .*\bfeihu\.me
 .*\bfeihuo\.com
 .*\bfeihutaoke\.com
@@ -22693,6 +22695,7 @@
 .*\bflintos\.com
 .*\bflip\.fun
 .*\bfliplus\.com
+.*\bfloatingislandapps\.com
 .*\bflomoapp\.com
 .*\bflooc\.com
 .*\bfloorb2b\.com
@@ -25632,6 +25635,7 @@
 .*\bh5ds\.com
 .*\bh5eco\.com
 .*\bh5gamecdn\.club
+.*\bh5gdvip\.com
 .*\bh5in\.net
 .*\bh5jun\.com
 .*\bh5king\.com
@@ -26205,7 +26209,6 @@
 .*\bhaotu\.net
 .*\bhaotui\.com
 .*\bhaotukankan\.com
-.*\bhaotxt\.com
 .*\bhaouc\.com
 .*\bhaowa\.com
 .*\bhaowaicaijing\.com
@@ -27139,7 +27142,6 @@
 .*\bhi1718\.com
 .*\bhi2000\.com
 .*\bhi2000\.net
-.*\bhi8090\.com
 .*\bhiapk\.com
 .*\bhiavr\.com
 .*\bhibea\.com
@@ -27378,6 +27380,7 @@
 .*\bhkcts\.com
 .*\bhkctshotels\.com
 .*\bhkctsmembers\.com
+.*\bhkexpressworld\.com
 .*\bhkfc\.hk
 .*\bhkfe\.hk
 .*\bhkfljt\.com
@@ -31480,6 +31483,7 @@
 .*\bjcloudedge\.com
 .*\bjcloudgslb\.com
 .*\bjcloudimg\.com
+.*\bjcloudimg\.net
 .*\bjcloudlb\.com
 .*\bjcloudstatic\.com
 .*\bjclps\.com
@@ -32907,6 +32911,7 @@
 .*\bjohhan\.com
 .*\bjohnardo\.com
 .*\bjohnwatsondev\.com
+.*\bjohogames\.com
 .*\bjoiest\.com
 .*\bjoinchitchat\.com
 .*\bjoindata\.net
@@ -34910,6 +34915,7 @@
 .*\bku8ku8\.com
 .*\bku90\.com
 .*\bku9377\.com
+.*\bku987\.com
 .*\bkuabaobao\.com
 .*\bkuacg\.com
 .*\bkuafugame\.com
@@ -39882,6 +39888,7 @@
 .*\bmoonlian\.com
 .*\bmoonsec\.com
 .*\bmoontc\.com
+.*\bmoonton\.com
 .*\bmoooc\.cc
 .*\bmooooc\.com
 .*\bmoootooo\.com
@@ -40872,7 +40879,6 @@
 .*\bndoo\.net
 .*\bndscsoft\.com
 .*\bndser\.net
-.*\bndtinfo\.net
 .*\bnduoa\.com
 .*\bnduotuan\.com
 .*\bndvs87d\.com
@@ -42634,6 +42640,7 @@
 .*\bpaiwo\.co
 .*\bpaixie\.net
 .*\bpaixin\.com
+.*\bpaixueche\.net
 .*\bpaiyiws\.com
 .*\bpaizhe\.com
 .*\bpaizi\.com
@@ -43086,6 +43093,7 @@
 .*\bpgyidc\.com
 .*\bpgzs\.com
 .*\bpgzx\.net
+.*\bph-fc\.com
 .*\bphalapi\.net
 .*\bpharmcube\.com
 .*\bphaser-china\.com
@@ -50450,6 +50458,7 @@
 .*\bsuperboss\.cc
 .*\bsuperbrowser\.hk
 .*\bsuperbuy\.com
+.*\bsuperbuyy\.com
 .*\bsupercrm\.com
 .*\bsuperdns\.net
 .*\bsuperfix\.com
@@ -59039,6 +59048,7 @@
 .*\bxinghuo365\.com
 .*\bxinghuogroup\.com
 .*\bxinghuoxiaoshuo\.com
+.*\bxingjijy\.com
 .*\bxingjuhe\.com
 .*\bxingkeduo\.com
 .*\bxingkong\.com
@@ -62816,6 +62826,7 @@
 .*\byunbiao\.tv
 .*\byunbiaosoft\.com
 .*\byunbiaowulian\.com
+.*\byunbiaozhun\.com
 .*\byunbiji\.com
 .*\byunbook\.vip
 .*\byunbook123\.com
