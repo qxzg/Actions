@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2022-08-19
+## Last update: 2022-08-20
 
 
 Server=/0-100.com/
@@ -13144,6 +13144,7 @@ Server=/cdngtm.com/
 Server=/cdnhwc1.com/
 Server=/cdnhwc2.com/
 Server=/cdnhwc3.com/
+Server=/cdnhwc5.com/
 Server=/cdnhwc6.com/
 Server=/cdnhwchcg02.com/
 Server=/cdnhwcibv122.com/
@@ -57004,7 +57005,6 @@ Server=/www.pandora.net/
 Server=/www.redhat.com/
 Server=/www.samsung.com/
 Server=/www.st.com/
-Server=/www.sulwhasoo.com/
 Server=/www.thinkpad.com/
 Server=/www.tzoo-img.com/
 Server=/www.vive.com/
@@ -65543,6 +65543,7 @@ Server=/cdn4.apple-mapkit.com/
 Server=/cds-cdn.v.aaplimg.com/
 Server=/cds.apple.com.akadns.net/
 Server=/cds.apple.com/
+Server=/cdsassets.apple.com/
 Server=/cl1-cdn.origin-apple.com.akadns.net/
 Server=/cl1.apple.com/
 Server=/cl2-cn.apple.com/
@@ -65589,6 +65590,7 @@ Server=/init-p01st.push.apple.com/
 Server=/init-s01st-lb.push-apple.com.akadns.net/
 Server=/init-s01st.push.apple.com/
 Server=/iosapps.itunes.g.aaplimg.com/
+Server=/ipcdn.apple.com/
 Server=/iphone-ld.apple.com/
 Server=/is1-ssl.mzstatic.com/
 Server=/is1.mzstatic.com/
@@ -65616,8 +65618,10 @@ Server=/pancake.apple.com/
 Server=/pancake.cdn-apple.com.akadns.net/
 Server=/phobos.apple.com/
 Server=/prod-support.apple-support.akadns.net/
+Server=/publicassets.cdn-apple.com/
 Server=/reserve-prime.apple.com/
 Server=/s.mzstatic.com/
+Server=/smp-device-content.apple.com/
 Server=/stocks-sparkline-lb.apple.com.akadns.net/
 Server=/stocks-sparkline.apple.com/
 Server=/store.apple.com.edgekey.net.globalredir.akadns.net/

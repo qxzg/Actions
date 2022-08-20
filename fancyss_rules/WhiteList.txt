@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2022-08-19
+## Last update: 2022-08-20
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -13144,6 +13144,7 @@
 .*\bcdnhwc1\.com
 .*\bcdnhwc2\.com
 .*\bcdnhwc3\.com
+.*\bcdnhwc5\.com
 .*\bcdnhwc6\.com
 .*\bcdnhwchcg02\.com
 .*\bcdnhwcibv122\.com
@@ -57004,7 +57005,6 @@
 .*\bwww\.redhat\.com
 .*\bwww\.samsung\.com
 .*\bwww\.st\.com
-.*\bwww\.sulwhasoo\.com
 .*\bwww\.thinkpad\.com
 .*\bwww\.tzoo-img\.com
 .*\bwww\.vive\.com
