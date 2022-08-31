@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2022-08-30
+## Last update: 2022-08-31
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -1797,7 +1797,6 @@
 .*\b199zw\.com
 .*\b19kan\.com
 .*\b19lou\.com
-.*\b19lou\.tw
 .*\b19mi\.net
 .*\b19ued\.com
 .*\b19where\.com
@@ -2058,7 +2057,6 @@
 .*\b21cnimg\.com
 .*\b21cnjy\.com
 .*\b21cnjy\.net
-.*\b21cnlunwen\.com
 .*\b21cos\.com
 .*\b21cp\.cc
 .*\b21cp\.com
@@ -2234,7 +2232,6 @@
 .*\b236400\.com
 .*\b236501\.xyz
 .*\b2366\.com
-.*\b2366app\.com
 .*\b23673\.com
 .*\b236z\.com
 .*\b237y\.com
@@ -4039,7 +4036,6 @@
 .*\b51miz\.com
 .*\b51mkf\.com
 .*\b51mockup\.com
-.*\b51modo\.cc
 .*\b51mokao\.com
 .*\b51mole\.com
 .*\b51moot\.net
@@ -6646,7 +6642,6 @@
 .*\b91xueshu\.com
 .*\b91xunyou\.com
 .*\b91xy\.com
-.*\b91xzba\.com
 .*\b91y\.com
 .*\b91yao\.com
 .*\b91yinpin\.com
@@ -6706,7 +6701,6 @@
 .*\b92python\.com
 .*\b92sucai\.com
 .*\b92tianjin\.com
-.*\b92to\.com
 .*\b92u93e\.com
 .*\b92wan\.com
 .*\b92wenzhai\.com
@@ -11861,7 +11855,6 @@
 .*\bbruce\.wang
 .*\bbruceit\.com
 .*\bbrunoxu\.com
-.*\bbrushes8\.com
 .*\bbryonypie\.com
 .*\bbrzhang\.club
 .*\bbs-dolfin\.net
@@ -13398,7 +13391,6 @@
 .*\bcfxyfsyy\.com
 .*\bcfxyjy\.com
 .*\bcfzq\.com
-.*\bcg-cdn\.net
 .*\bcg-orz\.com
 .*\bcg-vipwebs\.com
 .*\bcg-zwdb\.com
@@ -16530,7 +16522,6 @@
 .*\bcqmama\.net
 .*\bcqmas\.com
 .*\bcqmcu\.com
-.*\bcqmj\.org
 .*\bcqmjkjzx\.com
 .*\bcqmmgo\.com
 .*\bcqmw\.com
@@ -17878,7 +17869,6 @@
 .*\bdcsme\.org
 .*\bdcv\.so
 .*\bdcxnews\.com
-.*\bdczou\.com
 .*\bdd-advisor\.com
 .*\bdd-gz\.com
 .*\bdd-img\.com
@@ -18455,7 +18445,6 @@
 .*\bdiaoyula\.com
 .*\bdiaoyuren\.com
 .*\bdiaoyuwang\.com
-.*\bdiaoyuweng\.com
 .*\bdiaoyuwo\.com
 .*\bdiary365\.net
 .*\bdiaxue\.com
@@ -18732,7 +18721,6 @@
 .*\bdjyyh\.com
 .*\bdjzbl\.com
 .*\bdjzhj\.com
-.*\bdjzhx\.com
 .*\bdjzr88\.com
 .*\bdkdangle\.com
 .*\bdkjiaoyang\.com
@@ -27423,7 +27411,6 @@
 .*\bhostelxian\.com
 .*\bhostker\.com
 .*\bhostkvm\.com
-.*\bhostloc\.com
 .*\bhostxen\.com
 .*\bhostyun\.com
 .*\bhotalk\.com
@@ -31671,7 +31658,6 @@
 .*\bjigao616\.com
 .*\bjiguangdaili\.com
 .*\bjiguangdanci\.com
-.*\bjiguangkejigongsi\.com
 .*\bjiguo\.com
 .*\bjihai8\.com
 .*\bjihaoba\.com
@@ -33922,7 +33908,6 @@
 .*\bkimqi\.net
 .*\bkimsom\.com
 .*\bkina\.cc
-.*\bkinboy\.wang
 .*\bkindeditor\.net
 .*\bkindle-china\.org
 .*\bkindle114\.com
@@ -34255,7 +34240,6 @@
 .*\bkoovoo\.com
 .*\bkoowo\.com
 .*\bkooxoo\.com
-.*\bkooyx\.com
 .*\bkoplayer\.com
 .*\bkoreabt\.com
 .*\bkoreaxing\.com
@@ -35044,6 +35028,7 @@
 .*\blanzoug\.com
 .*\blanzoui\.com
 .*\blanzouj\.com
+.*\blanzoul\.com
 .*\blanzoum\.com
 .*\blanzoup\.com
 .*\blanzouq\.com
@@ -35603,7 +35588,6 @@
 .*\bleyoucp\.com
 .*\bleyoujia\.com
 .*\bleyouquan\.com
-.*\bleyuanbaby\.com
 .*\bleyubox\.com
 .*\bleyue100\.com
 .*\bleyun001\.com
@@ -36359,7 +36343,6 @@
 .*\blixianhua\.com
 .*\blixiaocrm\.com
 .*\blixiaolai\.com
-.*\blixiaomeng\.net
 .*\blixiaoskb\.com
 .*\blixiaoyun\.com
 .*\blixiaozhe\.com
@@ -36717,7 +36700,6 @@
 .*\blongyusheng\.org
 .*\blongzhongtv\.com
 .*\blongzhu\.com
-.*\blongzhu\.tv
 .*\blongzhulive\.com
 .*\blongzu\.com
 .*\blonlife\.org
@@ -37526,6 +37508,7 @@
 .*\bmagicwatchface\.com
 .*\bmagicwinmail\.com
 .*\bmagicyourlife101\.com
+.*\bmagiskcn\.com
 .*\bmagook\.com
 .*\bmaguang\.net
 .*\bmagvision\.com
@@ -38754,7 +38737,6 @@
 .*\bminerhome\.com
 .*\bminesage\.com
 .*\bminewtech\.com
-.*\bming80\.com
 .*\bmingbaoxinwen\.com
 .*\bmingbianji\.com
 .*\bmingcalc\.com
@@ -39911,7 +39893,6 @@
 .*\bmyoldtime\.com
 .*\bmyopenwrt\.org
 .*\bmyoppo\.com
-.*\bmyoschain\.com
 .*\bmyottad\.com
 .*\bmyouth\.net
 .*\bmyp2pch\.net
@@ -48921,7 +48902,6 @@
 .*\bsongqili\.net
 .*\bsongqinedu\.com
 .*\bsongqinnet\.com
-.*\bsongsgames\.com
 .*\bsongshitang\.com
 .*\bsongshizhao\.com
 .*\bsongshudiandian\.com
@@ -62633,7 +62613,6 @@
 .*\bzaojiao\.com
 .*\bzaojiu\.com
 .*\bzaojv\.com
-.*\bzaojvdashi\.com
 .*\bzaole\.net
 .*\bzaopang\.com
 .*\bzaoshu\.so
@@ -63037,7 +63016,6 @@
 .*\bzgwgfw\.com
 .*\bzgwhfe\.com
 .*\bzgwhw\.com
-.*\bzgwlmusic\.com
 .*\bzgwt\.co
 .*\bzgwxbbs\.com
 .*\bzgxcfx\.com
