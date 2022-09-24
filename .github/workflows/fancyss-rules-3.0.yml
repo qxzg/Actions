@@ -24,7 +24,7 @@ jobs:
 
       - name: Run update script
         run: |
-          apt-get install moreutils
+          sudo apt-get install moreutils
           cd fancyss_rules/auto_update
           bash update_rules.sh
 
