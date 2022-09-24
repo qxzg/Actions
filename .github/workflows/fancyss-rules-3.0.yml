@@ -26,6 +26,7 @@ jobs:
         run: |
           sudo apt-get install moreutils
           cd fancyss_rules/auto_update
+          chmod +x fwlist.py
           bash update_rules.sh
 
       - name: Commit to repo

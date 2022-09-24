@@ -1,5 +1,5 @@
 ## 使用GitHub Actions每日自动更新[fancyss](https://github.com/hq450/fancyss)规则  
-[![Update Fancyss Rules](https://github.com/qxzg/Actions/actions/workflows/fancyss-rules.yml/badge.svg)](https://github.com/qxzg/Actions/actions/workflows/fancyss-rules.yml)   
+[![Update Fancyss Rules](https://github.com/qxzg/Actions/actions/workflows/fancyss-rules-3.0.yml/badge.svg)](https://github.com/qxzg/Actions/actions/workflows/fancyss-rules-3.0.yml)   
 
 ---   
 #### Actions会在每日UTC+8 3:45时自动执行并更新规则，推荐在插件中设置每天4:00定时更新  
