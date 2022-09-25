@@ -1,5 +1,6 @@
 # 使用GitHub Actions每日自动更新[fancyss 3.0](https://github.com/hq450/fancyss)规则  
-[![Update Fancyss Rules](https://github.com/qxzg/Actions/actions/workflows/fancyss-rules-3.0.yml/badge.svg)](https://github.com/qxzg/Actions/actions/workflows/fancyss-rules-3.0.yml)   
+[![Update Fancyss Rules](https://github.com/qxzg/Actions/actions/workflows/fancyss-rules-3.0.yml/badge.svg)](https://github.com/qxzg/Actions/actions/workflows/fancyss-rules-3.0.yml)
+[![](https://data.jsdelivr.com/v1/package/gh/qxzg/actions/badge?style=rounded)](https://www.jsdelivr.com/package/gh/qxzg/actions)
 
 ## Update 2022/9/24: 支持了3.0版本，旧版本规则将在[这里](https://github.com/qxzg/Actions/tree/master)保留，但停止更新
 ---   
