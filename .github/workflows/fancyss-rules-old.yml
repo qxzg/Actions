@@ -1,0 +1,47 @@
+name: Update Fancyss Rules (old)
+
+on:
+  push:
+    branches: ['3.0']
+    paths:
+      - '.github/workflows/fancyss-rules-old.yml'
+  workflow_dispatch:
+    inputs:
+      FORCE_PUSH:
+        description: 'Force to push'
+        required: true
+        default: 'false'
+  schedule:
+    - cron: '45 19 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: master
+
+      - name: Run update script
+        run: |
+          cd fancyss_rules/auto_update
+          bash update_rules.sh
+
+      - name: Commit to repo
+        if: env.is_changed == '1' || github.event.inputs.FORCE_PUSH == 'true'
+        run: |
+          cd $GITHUB_WORKSPACE
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add fancyss_rules/.
+          git commit -m "Actions Auto Update at $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+
+      - name: Delete old workflow runs
+        uses: GitRML/delete-workflow-runs@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          keep_minimum_runs: 7
+          retain_days: 7
