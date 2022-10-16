@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2022-10-15
+## Last update: 2022-10-16
 
 
 Server=/0-100.com/
@@ -2623,7 +2623,6 @@ Server=/323700.net/
 Server=/324.com/
 Server=/3259.com/
 Server=/32800.com/
-Server=/328888.xyz/
 Server=/328f.com/
 Server=/328vip.com/
 Server=/32ka.com/
@@ -4448,7 +4447,6 @@ Server=/52qqba.com/
 Server=/52qudao.com/
 Server=/52queji.com/
 Server=/52qumao.com/
-Server=/52ra3.com/
 Server=/52rd.com/
 Server=/52rd.net/
 Server=/52rental.com/
@@ -28595,6 +28593,7 @@ Server=/hzzqs.com/
 Server=/hzzrmc.com/
 Server=/hzzsbbs.com/
 Server=/hzzsfs.com/
+Server=/hzzuyin.com/
 Server=/i-27.name/
 Server=/i-520.net/
 Server=/i-ab.com/
@@ -33736,7 +33735,6 @@ Server=/kimsom.com/
 Server=/kina.cc/
 Server=/kindeditor.net/
 Server=/kindle-china.org/
-Server=/kindle114.com/
 Server=/kindlehub.mobi/
 Server=/kindlelib.com/
 Server=/kindleport.com/
@@ -46640,7 +46638,6 @@ Server=/sercomm.com/
 Server=/serholiu.com/
 Server=/servasoft.com/
 Server=/serverless.ink/
-Server=/serversad.com/
 Server=/servicemesher.com/
 Server=/servicewechat.com/
 Server=/servingcdn.com/
@@ -52395,7 +52392,6 @@ Server=/tujiacdn.com/
 Server=/tujian.com/
 Server=/tujidu.com/
 Server=/tujie8.com/
-Server=/tujiedianying.com/
 Server=/tujiwar.com/
 Server=/tujixiazai.com/
 Server=/tuke8.com/
@@ -61488,7 +61484,6 @@ Server=/ysoow.com/
 Server=/ysplay.com/
 Server=/ysrh.com/
 Server=/yssm.org/
-Server=/yssm.tv/
 Server=/yssp88.com/
 Server=/ysstech.com/
 Server=/ysszzs.com/
