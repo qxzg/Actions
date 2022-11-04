@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2022-11-03
+## Last update: 2022-11-04
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -5246,7 +5246,6 @@
 .*\b669ye\.com
 .*\b66call\.com
 .*\b66cn\.com
-.*\b66diqiu\.com
 .*\b66ds\.net
 .*\b66house\.com
 .*\b66ip\.com
@@ -6570,7 +6569,6 @@
 .*\b9211\.com
 .*\b921686\.com
 .*\b921716\.com
-.*\b9217w\.com
 .*\b9217web\.com
 .*\b921lu\.com
 .*\b922000\.com
@@ -6923,7 +6921,6 @@
 .*\b999d\.com
 .*\b999dns\.net
 .*\b999inandon\.com
-.*\b999kan\.com
 .*\b999tea\.com
 .*\b999wx\.com
 .*\b999xy\.net
@@ -13679,7 +13676,6 @@
 .*\bchenplus\.com
 .*\bchenpot\.com
 .*\bchenruixuan\.com
-.*\bchenrunjinshu\.com
 .*\bchenshipin\.com
 .*\bchensonglin\.net
 .*\bchensuyang\.com
@@ -14544,7 +14540,6 @@
 .*\bchncpa\.org
 .*\bchncwds\.com
 .*\bchndesign\.com
-.*\bchndsnews\.com
 .*\bchndtb\.com
 .*\bchnews\.net
 .*\bchnfi\.com
@@ -22903,7 +22898,6 @@
 .*\bgamefm\.com
 .*\bgamefv\.com
 .*\bgamehome\.tv
-.*\bgamehui\.com
 .*\bgameinns\.com
 .*\bgameiy\.com
 .*\bgamejym\.com
@@ -25741,7 +25735,6 @@
 .*\bhbddrn\.com
 .*\bhbdfdh\.com
 .*\bhbdmia\.com
-.*\bhbdthy\.com
 .*\bhbdtjqj\.com
 .*\bhbdzcg\.com
 .*\bhbeducloud\.com
@@ -31268,6 +31261,7 @@
 .*\bjiantuku\.com
 .*\bjianwang360\.com
 .*\bjianweitv\.com
+.*\bjianwenapp\.com
 .*\bjianxin-tech\.com
 .*\bjianxinyun\.com
 .*\bjianxun\.io
@@ -37372,7 +37366,6 @@
 .*\bmaimaimaiw\.com
 .*\bmaimemo\.com
 .*\bmaimemostatus\.com
-.*\bmaimengjun\.com
 .*\bmaimiaotech\.com
 .*\bmaimn\.com
 .*\bmaimowang\.com
@@ -39004,6 +38997,7 @@
 .*\bmofangyu\.com
 .*\bmofavideo\.com
 .*\bmofazhu\.com
+.*\bmoffettai\.com
 .*\bmofile\.com
 .*\bmofishgames\.com
 .*\bmofoun\.com
@@ -39611,7 +39605,6 @@
 .*\bmycoss\.net
 .*\bmycoss\.org
 .*\bmycreate\.net
-.*\bmycrtb\.com
 .*\bmydadao\.com
 .*\bmydao\.net
 .*\bmydbfx\.com
@@ -42541,7 +42534,6 @@
 .*\bpinshu\.com
 .*\bpinsilianzu1\.com
 .*\bpinsilianzu3\.com
-.*\bpintour\.com
 .*\bpintu360\.com
 .*\bpintuan\.com
 .*\bpintuer\.com
@@ -44233,7 +44225,6 @@
 .*\bqq387\.com
 .*\bqq5\.com
 .*\bqq52o\.me
-.*\bqq545\.com
 .*\bqq5818\.com
 .*\bqq717\.com
 .*\bqq7c\.com
@@ -48261,6 +48252,7 @@
 .*\bsketchchina\.com
 .*\bsketchchina\.net
 .*\bsketchcn\.com
+.*\bsketchk\.xyz
 .*\bsketchupbar\.com
 .*\bsketchupbbs\.com
 .*\bskg\.com
@@ -49444,6 +49436,7 @@
 .*\bsuizui\.net
 .*\bsujh\.net
 .*\bsujiaozhipin888\.com
+.*\bsuki\.club
 .*\bsukimad\.com
 .*\bsukiu\.net
 .*\bsukkaw\.com
@@ -51173,7 +51166,6 @@
 .*\btianqi\.com
 .*\btianqi123\.com
 .*\btianqi321\.com
-.*\btianqi4\.com
 .*\btianqi518\.com
 .*\btianqiaojuyuan\.com
 .*\btianqiaoyishuzhongxin\.org
@@ -52767,6 +52759,7 @@
 .*\bu9u9\.com
 .*\bu9wan\.com
 .*\bua168\.com
+.*\buahh\.site
 .*\buami-global\.org
 .*\buao-online\.com
 .*\buao\.so
@@ -60796,7 +60789,6 @@
 .*\bymd88\.com
 .*\bymeme\.com
 .*\bymexf\.com
-.*\bymfhbcj\.net
 .*\bymfile\.com
 .*\bymfile01\.com
 .*\bymgmno\.com
@@ -62883,7 +62875,6 @@
 .*\bzgyongxin\.com
 .*\bzgys\.net
 .*\bzgyssyxh\.com
-.*\bzgystsd\.com
 .*\bzgyxsw\.org
 .*\bzgyygl\.com
 .*\bzgzb\.com
@@ -63182,7 +63173,6 @@
 .*\bzhenimg\.com
 .*\bzhenjiang-marathon\.com
 .*\bzhenleishan\.com
-.*\bzhenlishen\.com
 .*\bzhenpin\.com
 .*\bzhenren\.com
 .*\bzhenrongbao\.com
