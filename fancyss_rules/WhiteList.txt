@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2022-11-22
+## Last update: 2022-11-23
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -261,7 +261,6 @@
 .*\b02kdid\.com
 .*\b02lu\.com
 .*\b02o\.pw
-.*\b02shu\.cc
 .*\b02shu\.com
 .*\b02wan\.com
 .*\b02wq\.com
@@ -5051,7 +5050,6 @@
 .*\b607777\.cc
 .*\b6080d\.com
 .*\b6080j\.com
-.*\b6080k\.com
 .*\b6090b\.com
 .*\b609999\.xyz
 .*\b60dj\.com
@@ -5337,6 +5335,7 @@
 .*\b69cy\.net
 .*\b69hr\.com
 .*\b69jianzhi\.com
+.*\b69mok\.com
 .*\b69ps\.com
 .*\b69shu\.org
 .*\b69xiu\.com
@@ -15087,7 +15086,6 @@
 .*\bclyric\.com
 .*\bclz\.me
 .*\bclzqlhj\.com
-.*\bclzycld\.com
 .*\bcm-analysis\.com
 .*\bcm-iov\.com
 .*\bcm-worklink\.com
@@ -22818,6 +22816,7 @@
 .*\bgameiy\.com
 .*\bgamejym\.com
 .*\bgamekee\.com
+.*\bgamekuaishou\.com
 .*\bgameley\.com
 .*\bgameloveman\.com
 .*\bgamemale\.com
@@ -33517,6 +33516,7 @@
 .*\bkexianggroup\.com
 .*\bkexin001\.com
 .*\bkexing100\.com
+.*\bkexingchem\.com
 .*\bkexinguoji\.com
 .*\bkexinhaoma\.org
 .*\bkexinyun\.org
@@ -42392,7 +42392,6 @@
 .*\bpingxuan123\.com
 .*\bpingxx\.com
 .*\bpingyin\.cc
-.*\bpingyou\.cc
 .*\bpinhaohuo\.com
 .*\bpinhuba\.com
 .*\bpinhui001\.com
@@ -44629,6 +44628,7 @@
 .*\bqyham\.com
 .*\bqyi\.io
 .*\bqyiliao\.com
+.*\bqyjks\.com
 .*\bqyjpzx\.com
 .*\bqykh2009\.com
 .*\bqyle1\.com
@@ -50509,7 +50509,6 @@
 .*\btc199\.net
 .*\btc9011\.com
 .*\btc930\.com
-.*\btccaijing\.com
 .*\btccqb\.com
 .*\btccxfw\.com
 .*\btcdai\.com
@@ -56644,7 +56643,6 @@
 .*\bwy213\.com
 .*\bwyaoqing\.com
 .*\bwybbao\.com
-.*\bwybg666\.com
 .*\bwybgs\.com
 .*\bwycanyin\.com
 .*\bwycntv\.com
@@ -56996,6 +56994,7 @@
 .*\bxdh0808\.com
 .*\bxdhbs\.com
 .*\bxdhcn\.com
+.*\bxdiarys\.com
 .*\bxdj-sz\.com
 .*\bxdja\.com
 .*\bxdjc\.org
