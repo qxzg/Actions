@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2022-11-30
+## Last update: 2022-12-01
 
 
 Server=/0-100.com/
@@ -65158,6 +65158,7 @@ Server=/ocsp.apple.com/
 Server=/ocsp2.apple.com/
 Server=/oscdn.apple.com/
 Server=/oscdn.origin-apple.com.akadns.net/
+Server=/osxapps.itunes.g.aaplimg.com/
 Server=/pancake.apple.com/
 Server=/pancake.cdn-apple.com.akadns.net/
 Server=/prod-support.apple-support.akadns.net/
@@ -65175,6 +65176,7 @@ Server=/store.storeimages.cdn-apple.com/
 Server=/support-china.apple-support.akadns.net/
 Server=/support.apple.com/
 Server=/swallow.apple.com/
+Server=/swallow-apple-com.v.aaplimg.com/
 Server=/swcatalog-cdn.apple.com.akadns.net/
 Server=/swcatalog.apple.com/
 Server=/swcdn.apple.com/
