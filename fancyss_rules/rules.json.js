@@ -7,10 +7,10 @@
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2022-12-21 03:48",
-    "md5": "41dd4a902367f6abb7aad71ef4d8659e",
-    "count": "3587",
-    "count_ip": "300368378",
+    "date": "2022-12-22 03:48",
+    "md5": "6d539a71dcf5fc52f827ffee9e57f101",
+    "count": "3620",
+    "count_ip": "300385720",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
@@ -25,10 +25,10 @@
   },
   "chnroute3": {
     "name": "chnroute3.txt",
-    "date": "2022-12-20 03:48",
-    "md5": "5090c2f64f2e44786225e3f14b5479d0",
-    "count": "8611",
-    "count_ip": "343212474",
+    "date": "2022-12-22 03:48",
+    "md5": "21ed9de98145fddf7051568177822358",
+    "count": "8612",
+    "count_ip": "343212984",
     "source": "apnic",
     "url": "http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest"
   },
