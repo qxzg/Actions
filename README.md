@@ -1,7 +1,7 @@
 [![Update Fancyss Rules](https://github.com/qxzg/Actions/actions/workflows/fancyss-rules-3.0.yml/badge.svg)](https://github.com/qxzg/Actions/actions/workflows/fancyss-rules-3.0.yml)
 [![](https://data.jsdelivr.com/v1/package/gh/qxzg/actions/badge?style=rounded)](https://www.jsdelivr.com/package/gh/qxzg/actions)
 
-#### Update 2022/9/24: 支持了[3.0](https://github.com/hq450/fancyss)版本，旧版本规则将在[这里](https://github.com/qxzg/Actions/tree/master)保留，但停止更新
+#### Update 2022/9/24: 支持了[3.0](https://github.com/hq450/fancyss)版本，旧版本规则将在[这里](https://github.com/qxzg/Actions/tree/master)保留并继续更新
 ---   
 #### 每日UTC+8 3:45时自动更新规则，推荐在插件中设置每天4:00定时更新  
 ---
