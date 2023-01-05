@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2023-01-04
+## Last update: 2023-01-05
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -251,7 +251,6 @@
 .*\b029yjy\.com
 .*\b029yljj\.com
 .*\b029zp\.com
-.*\b02edu\.com
 .*\b02kdid\.com
 .*\b02lu\.com
 .*\b02o\.pw
@@ -2108,6 +2107,7 @@
 .*\b22zy\.net
 .*\b2300sjz\.com
 .*\b230596\.com
+.*\b230890\.com
 .*\b231122\.com
 .*\b232232\.xyz
 .*\b2323u\.com
@@ -4461,7 +4461,6 @@
 .*\b5360jx\.com
 .*\b53617686\.com
 .*\b5366\.com
-.*\b53666\.org
 .*\b5367\.com
 .*\b537\.com
 .*\b537882736\.com
@@ -8421,7 +8420,6 @@
 .*\bangelhome\.org
 .*\bangeljjangnara\.com
 .*\bangell-studio\.com
-.*\bangellsec\.com
 .*\bangelmom\.org
 .*\bangelyeast\.com
 .*\bangelyeast\.ru
@@ -10436,7 +10434,6 @@
 .*\bbfw\.cc
 .*\bbfyx\.com
 .*\bbfyx\.net
-.*\bbfzhuce\.com
 .*\bbg-cs\.com
 .*\bbg\.v4\.a\.dl\.ws\.microsoft\.com
 .*\bbg4\.v4\.a\.dl\.ws\.microsoft\.com
@@ -15171,6 +15168,7 @@
 .*\bcn3k5\.com
 .*\bcn3v\.net
 .*\bcn3wm\.com
+.*\bcn486\.com
 .*\bcn4e\.com
 .*\bcn51\.com
 .*\bcn5135\.com
@@ -18168,7 +18166,6 @@
 .*\bdidixk\.com
 .*\bdidiyun\.com
 .*\bdidiyunapi\.com
-.*\bdidown\.com
 .*\bdidu86\.com
 .*\bdiducoder\.com
 .*\bdiebaosoft\.com
@@ -23916,7 +23913,6 @@
 .*\bgoulong\.com
 .*\bgoumee\.com
 .*\bgoumin\.com
-.*\bgounahaozi\.org
 .*\bgoupuzi\.com
 .*\bgoushh\.com
 .*\bgouso\.com
@@ -24462,7 +24458,6 @@
 .*\bgushiciqu\.com
 .*\bgushidaquan\.cc
 .*\bgushiju\.net
-.*\bgushimi\.org
 .*\bgushufang\.com
 .*\bgusiyuan\.com
 .*\bgusuwang\.com
@@ -24679,6 +24674,7 @@
 .*\bgzhe\.net
 .*\bgzhhr\.com
 .*\bgzhifi\.com
+.*\bgzhkl\.com
 .*\bgzhphb\.com
 .*\bgzhshoulu\.wang
 .*\bgzhtg\.com
@@ -30665,7 +30661,6 @@
 .*\bjcsjt\.com
 .*\bjctmj\.net
 .*\bjctrans\.com
-.*\bjctuku\.com
 .*\bjcu\.cc
 .*\bjcwcn\.com
 .*\bjcwgk\.com
@@ -33902,7 +33897,6 @@
 .*\bkqgeo\.com
 .*\bkqidong\.com
 .*\bkqiwen\.com
-.*\bkqiwen\.net
 .*\bkqj123\.com
 .*\bkqmmm\.com
 .*\bkqqy\.com
@@ -35876,7 +35870,6 @@
 .*\bliumuzulin\.com
 .*\bliumwei\.org
 .*\bliumx\.com
-.*\bliunews\.com
 .*\bliunian\.info
 .*\bliunianbanxia\.com
 .*\bliushidong\.com
@@ -37121,7 +37114,6 @@
 .*\bmaiduo\.com
 .*\bmaienguoji\.com
 .*\bmaifjb\.com
-.*\bmaigevoice\.com
 .*\bmaigoo\.com
 .*\bmaiguduo\.com
 .*\bmaihanji\.com
@@ -39149,7 +39141,6 @@
 .*\bmtwl\.net
 .*\bmtxgx\.com
 .*\bmtxyx\.com
-.*\bmtyee\.com
 .*\bmtyun\.com
 .*\bmtzbs\.com
 .*\bmtzcjy\.com
@@ -42300,7 +42291,6 @@
 .*\bpinzs\.com
 .*\bpioneerlinux\.com
 .*\bpioneersci\.com
-.*\bpioneertimes\.net
 .*\bpipa\.com
 .*\bpipacdn\.com
 .*\bpipacoding\.com
@@ -49877,7 +49867,6 @@
 .*\bszsq\.net
 .*\bszsunlaser\.com
 .*\bszswt\.net
-.*\bszt365\.com
 .*\bsztaijier\.com
 .*\bsztalent\.org
 .*\bsztara\.com
@@ -50665,7 +50654,6 @@
 .*\btf\.wiki
 .*\btf86\.com
 .*\btfax\.com
-.*\btfbcj\.com
 .*\btfcaijing\.com
 .*\btfcloud\.com
 .*\btfclub\.com
@@ -50695,7 +50683,6 @@
 .*\btgbus\.com
 .*\btgcid\.org
 .*\btghello\.com
-.*\btgirl\.cc
 .*\btgjh\.com
 .*\btgking\.net
 .*\btgljw\.com
@@ -54134,7 +54121,6 @@
 .*\bwangzhan6\.com
 .*\bwangzhanbao\.cc
 .*\bwangzhanbianji\.com
-.*\bwangzhanbus\.com
 .*\bwangzhanchi\.com
 .*\bwangzhanmeng\.com
 .*\bwangzhanzj\.com
@@ -57588,7 +57574,6 @@
 .*\bxifuquan\.com
 .*\bxigeweb\.com
 .*\bxigua110\.com
-.*\bxigua5\.com
 .*\bxiguabook\.com
 .*\bxiguaimg\.com
 .*\bxiguaji\.com
@@ -59983,7 +59968,6 @@
 .*\byinglunka\.com
 .*\byingmei\.me
 .*\byingmi\.com
-.*\byingmile\.com
 .*\byingming\.net
 .*\byingpaigame\.com
 .*\byingshe\.com
@@ -63061,7 +63045,6 @@
 .*\bzhizunbao668\.com
 .*\bzhizunbo\.com
 .*\bzhizundns\.com
-.*\bzhizunlian\.com
 .*\bzhizunnews\.com
 .*\bzhizuobiao\.com
 .*\bzhizuobiaojiaoyu\.com
@@ -63947,10 +63930,7 @@
 .*\bzmxiazai\.com
 .*\bzmxiu\.com
 .*\bzmye5vly\.com
-.*\bzmzapi\.com
-.*\bzmzapi\.net
 .*\bzmzjk\.com
-.*\bzmzjstu\.com
 .*\bzn8\.com
 .*\bznba\.net
 .*\bznbo\.com
@@ -64273,7 +64253,6 @@
 .*\bzuanqianyi\.com
 .*\bzuanshi\.com
 .*\bzuanshitoupiao\.com
-.*\bzuantao\.cc
 .*\bzuber\.im
 .*\bzubunet\.com
 .*\bzuche\.com
