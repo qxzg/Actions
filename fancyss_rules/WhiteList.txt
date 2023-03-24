@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2023-03-23
+## Last update: 2023-03-24
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -8782,6 +8782,7 @@
 .*\baptenon\.com
 .*\bapusic\.com
 .*\bapxm\.net
+.*\bapxnlw\.com
 .*\baqara\.com
 .*\baqb\.so
 .*\baqbxcdn9\.com
@@ -8867,6 +8868,7 @@
 .*\barmchina\.com
 .*\barmsword\.com
 .*\barmystar\.com
+.*\barmzl\.com
 .*\barnaz-on-co-jp\.icu
 .*\barocmag\.com
 .*\barongsoft\.com
@@ -15553,6 +15555,7 @@
 .*\bcnxklm\.com
 .*\bcnxnmy\.com
 .*\bcnxuntu\.com
+.*\bcnxzm\.com
 .*\bcnyanglao\.com
 .*\bcnyicheng\.com
 .*\bcnyings\.com
@@ -16631,6 +16634,7 @@
 .*\bcxzw\.com
 .*\bcy-cdn\.com
 .*\bcy-email\.com
+.*\bcy-isp\.net
 .*\bcy\.com
 .*\bcy1990\.com
 .*\bcy2009\.com
@@ -17658,6 +17662,7 @@
 .*\bdevzeng\.com
 .*\bdewmobile\.net
 .*\bdewu\.com
+.*\bdewu\.net
 .*\bdewucdn\.com
 .*\bdewumall\.com
 .*\bdexian\.mobi
@@ -18862,6 +18867,7 @@
 .*\bdripcar\.com
 .*\bdriverdevelop\.com
 .*\bdrivergenius\.com
+.*\bdrivers\.amd\.com
 .*\bdriverzeng\.com
 .*\bdrivethelife\.com
 .*\bdrli\.group
@@ -19669,6 +19675,7 @@
 .*\bechinatobacco\.com
 .*\becho-isoftstone\.com
 .*\becho188\.com
+.*\bechodns\.xyz
 .*\bechoing\.tech
 .*\bechoteen\.com
 .*\bechuandan\.com
@@ -21501,6 +21508,7 @@
 .*\bfhycs\.com
 .*\bfhyx\.com
 .*\bfhyx\.hk
+.*\bfhyx\.online
 .*\bfi1818\.com
 .*\bfi94\.com
 .*\bfiberhome\.com
@@ -23098,6 +23106,7 @@
 .*\bggemo\.com
 .*\bggerg\.com
 .*\bggeye\.com
+.*\bggg868\.com
 .*\bgggqa\.com
 .*\bggj88\.com
 .*\bggjrw\.com
@@ -28667,6 +28676,7 @@
 .*\biegee\.net
 .*\biegourl\.com
 .*\biejiu\.com
+.*\bieltsabc\.com
 .*\bieltschn\.com
 .*\biemblog\.com
 .*\biemiq\.com
@@ -34778,6 +34788,7 @@
 .*\blerye\.com
 .*\bleshanvc\.com
 .*\bleshi123\.cc
+.*\bleshiguang\.com
 .*\bleshou\.com
 .*\bleshow\.com
 .*\bleshu\.com
@@ -42330,6 +42341,7 @@
 .*\bprolto\.com
 .*\bpromisingedu\.com
 .*\bpromoadx\.com
+.*\bpronax\.tech
 .*\bpropsad\.com
 .*\bproresearch\.org
 .*\bprositsole\.com
@@ -46089,6 +46101,7 @@
 .*\bshangbaolai\.com
 .*\bshangbiao\.com
 .*\bshangbiao\.store
+.*\bshangbiaocheng\.com
 .*\bshangboo\.com
 .*\bshangbw\.com
 .*\bshangc\.net
@@ -49367,6 +49380,7 @@
 .*\bszpclab\.com
 .*\bszpiao\.com
 .*\bszpiaoyi\.com
+.*\bszpldq\.net
 .*\bszpmi\.org
 .*\bszpowerpms\.com
 .*\bszputy\.com
@@ -50392,6 +50406,7 @@
 .*\btianmao\.com
 .*\btianmaying\.com
 .*\btianmidian\.com
+.*\btianmu\.mobi
 .*\btianmupe\.com
 .*\btianmupr\.com
 .*\btiann90\.com
@@ -55567,6 +55582,7 @@
 .*\bwsoversea\.info
 .*\bwsq\.cool
 .*\bwsqejt\.com
+.*\bwss\.ink
 .*\bwsssec\.com
 .*\bwstong\.com
 .*\bwstx\.com
@@ -55592,6 +55608,7 @@
 .*\bwtapi\.com
 .*\bwtbds\.com
 .*\bwtcxs\.com
+.*\bwtd56\.com
 .*\bwtdex\.com
 .*\bwtdms\.com
 .*\bwting\.info
@@ -56812,6 +56829,7 @@
 .*\bxiaomingming\.org
 .*\bxiaomiqiu\.com
 .*\bxiaomiquan\.com
+.*\bxiaomirom\.com
 .*\bxiaomishu\.com
 .*\bxiaomiwujiecao\.com
 .*\bxiaomiyoupin\.com
@@ -57919,6 +57937,7 @@
 .*\bxs\.la
 .*\bxs123\.net
 .*\bxs123\.org
+.*\bxs163\.net
 .*\bxs2500\.com
 .*\bxs3cnc\.com
 .*\bxs52\.com
@@ -61436,6 +61455,7 @@
 .*\bzaijiawan\.com
 .*\bzailouxia\.com
 .*\bzaiminglvsuo\.com
+.*\bzainan\.cc
 .*\bzainanjing365\.com
 .*\bzaisd\.com
 .*\bzaitong\.net
@@ -63743,6 +63763,7 @@
 .*\bzuosa\.com
 .*\bzuoshangbao\.com
 .*\bzuoshipin\.com
+.*\bzuoshouyisheng\.com
 .*\bzuotishi\.com
 .*\bzuotixia\.com
 .*\bzuowen\.com
