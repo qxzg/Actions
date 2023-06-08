@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2023-06-07
+## Last update: 2023-06-08
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -3586,9 +3586,12 @@
 .*\b517huwai\.com
 .*\b517idc\.com
 .*\b517japan\.com
+.*\b517la\.com
+.*\b517la\.net
 .*\b517lppz\.com
 .*\b517ming\.com
 .*\b517mr\.com
+.*\b517na\.com
 .*\b517rcw\.com
 .*\b517sc\.com
 .*\b517tez\.com
@@ -18624,7 +18627,6 @@
 .*\bdongqiudi\.com
 .*\bdongqiudi\.net
 .*\bdongsenzs\.com
-.*\bdongshenghuiyang\.com
 .*\bdongshou\.com
 .*\bdongsport\.com
 .*\bdongtaijt\.com
@@ -34364,6 +34366,7 @@
 .*\blanrenzhaofang\.com
 .*\blanrenzhijia\.com
 .*\blanrenzhoumo\.com
+.*\blansancn\.com
 .*\blansedongli\.com
 .*\blansha\.tv
 .*\blanshanweb\.com
@@ -38475,7 +38478,6 @@
 .*\bmoeli123\.com
 .*\bmoemiao\.net
 .*\bmoeover\.com
-.*\bmoerail\.ml
 .*\bmoerkeji\.net
 .*\bmoerlong\.com
 .*\bmoetu\.org
@@ -39392,7 +39394,6 @@
 .*\bnamisoft\.com
 .*\bnamitiyu\.com
 .*\bnamoc\.org
-.*\bnanadao\.com
 .*\bnanapro\.org
 .*\bnanbeijt\.com
 .*\bnanbeiyou\.com
@@ -40773,6 +40774,7 @@
 .*\bonche\.net
 .*\boncity\.cc
 .*\bone-all\.com
+.*\bone-netbook\.com
 .*\bone918\.com
 .*\bonealert\.com
 .*\boneapm\.com
@@ -40867,6 +40869,7 @@
 .*\boomake\.com
 .*\booniu\.com
 .*\booogo\.com
+.*\booooai\.com
 .*\booopic\.com
 .*\booopn\.com
 .*\booppoo\.com
@@ -48885,7 +48888,6 @@
 .*\bsun0769\.com
 .*\bsun0769ns\.com
 .*\bsun0816\.com
-.*\bsun19\.com
 .*\bsun66\.net
 .*\bsunacctg\.com
 .*\bsunater\.com
@@ -52421,6 +52423,7 @@
 .*\bumaman\.com
 .*\bumbpay\.com
 .*\bumcloud\.com
+.*\bumdac\.com
 .*\bumeng\.co
 .*\bumeng\.com
 .*\bumeng\.online

@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2023-06-07
+## Last update: 2023-06-08
 
 
 Server=/0-100.com/
@@ -3586,9 +3586,12 @@ Server=/517huizhou.com/
 Server=/517huwai.com/
 Server=/517idc.com/
 Server=/517japan.com/
+Server=/517la.com/
+Server=/517la.net/
 Server=/517lppz.com/
 Server=/517ming.com/
 Server=/517mr.com/
+Server=/517na.com/
 Server=/517rcw.com/
 Server=/517sc.com/
 Server=/517tez.com/
@@ -18624,7 +18627,6 @@ Server=/dongqiniqin.com/
 Server=/dongqiudi.com/
 Server=/dongqiudi.net/
 Server=/dongsenzs.com/
-Server=/dongshenghuiyang.com/
 Server=/dongshou.com/
 Server=/dongsport.com/
 Server=/dongtaijt.com/
@@ -34364,6 +34366,7 @@ Server=/lanrentuku.com/
 Server=/lanrenzhaofang.com/
 Server=/lanrenzhijia.com/
 Server=/lanrenzhoumo.com/
+Server=/lansancn.com/
 Server=/lansedongli.com/
 Server=/lansha.tv/
 Server=/lanshanweb.com/
@@ -38475,7 +38478,6 @@ Server=/moeking.me/
 Server=/moeli123.com/
 Server=/moemiao.net/
 Server=/moeover.com/
-Server=/moerail.ml/
 Server=/moerkeji.net/
 Server=/moerlong.com/
 Server=/moetu.org/
@@ -39392,7 +39394,6 @@ Server=/namipan.com/
 Server=/namisoft.com/
 Server=/namitiyu.com/
 Server=/namoc.org/
-Server=/nanadao.com/
 Server=/nanapro.org/
 Server=/nanbeijt.com/
 Server=/nanbeiyou.com/
@@ -40773,6 +40774,7 @@ Server=/onceoa.com/
 Server=/onche.net/
 Server=/oncity.cc/
 Server=/one-all.com/
+Server=/one-netbook.com/
 Server=/one918.com/
 Server=/onealert.com/
 Server=/oneapm.com/
@@ -40867,6 +40869,7 @@ Server=/oolap.com/
 Server=/oomake.com/
 Server=/ooniu.com/
 Server=/ooogo.com/
+Server=/ooooai.com/
 Server=/ooopic.com/
 Server=/ooopn.com/
 Server=/ooppoo.com/
@@ -48885,7 +48888,6 @@ Server=/sun-wish.com/
 Server=/sun0769.com/
 Server=/sun0769ns.com/
 Server=/sun0816.com/
-Server=/sun19.com/
 Server=/sun66.net/
 Server=/sunacctg.com/
 Server=/sunater.com/
@@ -52421,6 +52423,7 @@ Server=/ulzdk.com/
 Server=/umaman.com/
 Server=/umbpay.com/
 Server=/umcloud.com/
+Server=/umdac.com/
 Server=/umeng.co/
 Server=/umeng.com/
 Server=/umeng.online/
