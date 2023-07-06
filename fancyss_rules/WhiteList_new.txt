@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2023-07-05
+## Last update: 2023-07-06
 
 
 Server=/0-6.com/
@@ -7319,6 +7319,7 @@ Server=/adxqd.com/
 Server=/adxvip.com/
 Server=/adxwork.com/
 Server=/adyounger.com/
+Server=/adysimg.com/
 Server=/adyun.com/
 Server=/adzar-energy.com/
 Server=/adzh.com/
@@ -8807,7 +8808,6 @@ Server=/arkrdigital.com/
 Server=/arkread.com/
 Server=/arkteam.net/
 Server=/arliki.com/
-Server=/arm001.com/
 Server=/arm9.net/
 Server=/arm9home.net/
 Server=/armbbs.net/
@@ -17747,7 +17747,6 @@ Server=/dgwap.com/
 Server=/dgwtrl.com/
 Server=/dgxbjg.com/
 Server=/dgxinde.net/
-Server=/dgxinyuds.com/
 Server=/dgxue.com/
 Server=/dgyejia.com/
 Server=/dgygpx.com/
@@ -26140,7 +26139,6 @@ Server=/hijiaoshi.com/
 Server=/hijoys.com/
 Server=/hikailink.com/
 Server=/hikcreate.com/
-Server=/hikedj.com/
 Server=/hiklife.com/
 Server=/hikoon.com/
 Server=/hikops.com/
@@ -48379,6 +48377,7 @@ Server=/sscom.vip/
 Server=/ssdata.com/
 Server=/ssdax.com/
 Server=/ssdfans.com/
+Server=/ssdzg.com/
 Server=/sseinfo.com/
 Server=/ssf.cc/
 Server=/ssfiction.com/
@@ -56820,6 +56819,7 @@ Server=/xiaohuangji.com/
 Server=/xiaohulu.com/
 Server=/xiaohuochai.cc/
 Server=/xiaohuochai.site/
+Server=/xiaohus.com/
 Server=/xiaohuwl.com/
 Server=/xiaoice.com/
 Server=/xiaoj.com/
@@ -58740,7 +58740,6 @@ Server=/yangli.com/
 Server=/yanglong.pro/
 Server=/yangluojob.com/
 Server=/yangmao.info/
-Server=/yangmaodang.org/
 Server=/yangmaohao.net/
 Server=/yangner.com/
 Server=/yangqianguan.com/
