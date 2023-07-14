@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2023-07-13
+## Last update: 2023-07-14
 
 
 Server=/0-6.com/
@@ -6112,7 +6112,6 @@ Server=/8ttt8.com/
 Server=/8tupian.com/
 Server=/8twan.com/
 Server=/8u58.com/
-Server=/8uka.com/
 Server=/8uyx.com/
 Server=/8wan.com/
 Server=/8win.net/
@@ -8480,6 +8479,7 @@ Server=/aobosoft.com/
 Server=/aocde.com/
 Server=/aocdn.com/
 Server=/aoch.com/
+Server=/aochengcdn.com/
 Server=/aoclia.com/
 Server=/aocslb.com/
 Server=/aodabo.tech/
@@ -41185,7 +41185,6 @@ Server=/panabit.com/
 Server=/panasonicmall.com/
 Server=/panchuang.net/
 Server=/panda-home.com/
-Server=/panda321.com/
 Server=/panda98.com/
 Server=/pandadastudio.com/
 Server=/pandafoundation.org/
@@ -60733,6 +60732,7 @@ Server=/yuebagu.com/
 Server=/yuebei.vip/
 Server=/yuebingcheng.com/
 Server=/yuebooemt.com/
+Server=/yuecdn.net/
 Server=/yuecheng.com/
 Server=/yuedaoec.com/
 Server=/yuedisk.com/
@@ -60773,6 +60773,7 @@ Server=/yueru.com/
 Server=/yuesuoping.com/
 Server=/yuetu.tech/
 Server=/yuetutu.com/
+Server=/yuetuvip.com/
 Server=/yuetuvip.net/
 Server=/yuetx.cc/
 Server=/yueweimusic.com/
@@ -61184,7 +61185,6 @@ Server=/yuzhuan.com/
 Server=/yuzhulin.com/
 Server=/yuzi.net/
 Server=/yuzvf.com/
-Server=/yveqi.com/
 Server=/yvv.in/
 Server=/yvzfgigpiwmofux.com/
 Server=/yw11.com/

@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2023-07-13
+## Last update: 2023-07-14
 
 .*\b0-6\.com
 .*\b00\.net
@@ -6112,7 +6112,6 @@
 .*\b8tupian\.com
 .*\b8twan\.com
 .*\b8u58\.com
-.*\b8uka\.com
 .*\b8uyx\.com
 .*\b8wan\.com
 .*\b8win\.net
@@ -8480,6 +8479,7 @@
 .*\baocde\.com
 .*\baocdn\.com
 .*\baoch\.com
+.*\baochengcdn\.com
 .*\baoclia\.com
 .*\baocslb\.com
 .*\baodabo\.tech
@@ -41185,7 +41185,6 @@
 .*\bpanasonicmall\.com
 .*\bpanchuang\.net
 .*\bpanda-home\.com
-.*\bpanda321\.com
 .*\bpanda98\.com
 .*\bpandadastudio\.com
 .*\bpandafoundation\.org
@@ -60733,6 +60732,7 @@
 .*\byuebei\.vip
 .*\byuebingcheng\.com
 .*\byuebooemt\.com
+.*\byuecdn\.net
 .*\byuecheng\.com
 .*\byuedaoec\.com
 .*\byuedisk\.com
@@ -60773,6 +60773,7 @@
 .*\byuesuoping\.com
 .*\byuetu\.tech
 .*\byuetutu\.com
+.*\byuetuvip\.com
 .*\byuetuvip\.net
 .*\byuetx\.cc
 .*\byueweimusic\.com
@@ -61184,7 +61185,6 @@
 .*\byuzhulin\.com
 .*\byuzi\.net
 .*\byuzvf\.com
-.*\byveqi\.com
 .*\byvv\.in
 .*\byvzfgigpiwmofux\.com
 .*\byw11\.com
