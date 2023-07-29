@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2023-07-28
+## Last update: 2023-07-29
 
 .*\b0-6\.com
 .*\b00\.net
@@ -5461,7 +5461,6 @@
 .*\b765q\.com
 .*\b766\.com
 .*\b7663\.com
-.*\b76676\.com
 .*\b766z\.com
 .*\b7676\.com
 .*\b767stock\.com
@@ -10179,6 +10178,7 @@
 .*\bbeimai\.com
 .*\bbeimeigoufang\.com
 .*\bbeimeihongfeng\.com
+.*\bbeimiyouchuan\.com
 .*\bbeimu\.com
 .*\bbeingmate\.com
 .*\bbeipy\.com
@@ -16036,7 +16036,6 @@
 .*\bcpu114\.com
 .*\bcpu668\.com
 .*\bcpubbs\.com
-.*\bcpupack\.com
 .*\bcpvjob\.com
 .*\bcpython\.org
 .*\bcpzjzx\.com
@@ -31362,6 +31361,7 @@
 .*\bjingtuitui\.com
 .*\bjingtum\.com
 .*\bjingua168\.com
+.*\bjinguanauto\.com
 .*\bjingujie\.com
 .*\bjingutrust\.com
 .*\bjingwacenter\.com
@@ -34602,7 +34602,6 @@
 .*\blaomaotao\.net
 .*\blaomaotao\.org
 .*\blaomaotaopan\.com
-.*\blaomudong\.cc
 .*\blaonanren\.cc
 .*\blaoniushuju\.com
 .*\blaoqiange\.club
@@ -39106,7 +39105,6 @@
 .*\bmuniao\.com
 .*\bmupao\.com
 .*\bmupceet\.com
-.*\bmupmstx\.com
 .*\bmurdermysterypa\.com
 .*\bmurl\.tv
 .*\bmurphysec\.com
@@ -44615,7 +44613,6 @@
 .*\brayoptek\.com
 .*\brayps\.com
 .*\brayrjx\.com
-.*\braysd\.com
 .*\braysilicon\.com
 .*\braythonsoft\.com
 .*\braytoon\.net
@@ -45432,6 +45429,7 @@
 .*\brv2go\.com
 .*\brvcore\.com
 .*\brvfdp\.com
+.*\brvkol\.com
 .*\brvmcu\.com
 .*\brwtext\.com
 .*\brwxqfbj\.com
@@ -48643,7 +48641,6 @@
 .*\bsportnanoapi\.com
 .*\bsportq\.com
 .*\bsports-idea\.com
-.*\bsports8\.cc
 .*\bsports8\.net
 .*\bsportsdt\.com
 .*\bsposter\.net
@@ -49913,7 +49910,6 @@
 .*\bt1networks\.com
 .*\bt1y4\.com
 .*\bt20000\.com
-.*\bt262\.com
 .*\bt2cn\.com
 .*\bt3315\.com
 .*\bt4lover\.com
@@ -56533,11 +56529,11 @@
 .*\bx315\.com
 .*\bx3322\.net
 .*\bx3366\.com
+.*\bx33699\.com
 .*\bx3china\.com
 .*\bx3cn\.com
 .*\bx431\.com
 .*\bx5dj\.com
-.*\bx5yue\.com
 .*\bx64go\.com
 .*\bx64pro\.com
 .*\bx6d\.com
@@ -61480,7 +61476,6 @@
 .*\byunpan\.com
 .*\byunpansou\.cc
 .*\byunpanx\.com
-.*\byunpanziyuan\.com
 .*\byunpei\.com
 .*\byunpian\.com
 .*\byunpiao\.net
