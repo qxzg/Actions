@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2023-08-01
+## Last update: 2023-08-02
 
 
 Server=/0-6.com/
@@ -15040,7 +15040,6 @@ Server=/cn.bing.com/
 Server=/cn.bing.net/
 Server=/cn.msi.com/
 Server=/cn.net/
-Server=/cn.pandora.net/
 Server=/cn.vc/
 Server=/cn.vu/
 Server=/cn.windowssearch.com/
@@ -17109,6 +17108,7 @@ Server=/dangtianle.com/
 Server=/dangwan.com/
 Server=/dangzhi.com/
 Server=/dangzhi.net/
+Server=/dangzhu.net/
 Server=/danhua.org/
 Server=/danhuaer.com/
 Server=/daniao.org/
@@ -23258,7 +23258,6 @@ Server=/gh8s.com/
 Server=/ghatg.com/
 Server=/ghboke.com/
 Server=/ghgy.com/
-Server=/ghgy.net/
 Server=/ghibliwiki.org/
 Server=/ghjie.com/
 Server=/ghlawyer.net/
@@ -29349,7 +29348,6 @@ Server=/imipy.com/
 Server=/imitui.com/
 Server=/imixpark.com/
 Server=/imjiayin.com/
-Server=/imkerwin.com/
 Server=/imkevinyang.com/
 Server=/imkira.com/
 Server=/imlaidian.com/
@@ -30635,7 +30633,6 @@ Server=/jdzbth.com/
 Server=/jdzdeyy.com/
 Server=/jdzeduyun.com/
 Server=/jdzj.com/
-Server=/jdzjdz.com/
 Server=/jdzmc.com/
 Server=/jdzol.com/
 Server=/jdzol.net/
@@ -51739,7 +51736,6 @@ Server=/tsybsmz.com/
 Server=/tsyqb.com/
 Server=/tsyvps.com/
 Server=/tsyzm.com/
-Server=/tsz.com/
 Server=/tszckj.com/
 Server=/tszhjk.com/
 Server=/tszyzx.com/
@@ -53801,6 +53797,7 @@ Server=/waerfa.com/
 Server=/waf.cdnetworks.com/
 Server=/wafcn.com/
 Server=/wafunny.com/
+Server=/wafzi.com/
 Server=/waheaven.com/
 Server=/wahlap.com/
 Server=/wahongyu.com/
@@ -54412,7 +54409,6 @@ Server=/weica.net/
 Server=/weicaifu.com/
 Server=/weicewang.com/
 Server=/weichaishi.com/
-Server=/weichen.org/
 Server=/weicher-sz.com/
 Server=/weiclicai.com/
 Server=/weico.cc/

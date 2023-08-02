@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2023-08-01
+## Last update: 2023-08-02
 
 .*\b0-6\.com
 .*\b00\.net
@@ -15040,7 +15040,6 @@
 .*\bcn\.bing\.net
 .*\bcn\.msi\.com
 .*\bcn\.net
-.*\bcn\.pandora\.net
 .*\bcn\.vc
 .*\bcn\.vu
 .*\bcn\.windowssearch\.com
@@ -17109,6 +17108,7 @@
 .*\bdangwan\.com
 .*\bdangzhi\.com
 .*\bdangzhi\.net
+.*\bdangzhu\.net
 .*\bdanhua\.org
 .*\bdanhuaer\.com
 .*\bdaniao\.org
@@ -23258,7 +23258,6 @@
 .*\bghatg\.com
 .*\bghboke\.com
 .*\bghgy\.com
-.*\bghgy\.net
 .*\bghibliwiki\.org
 .*\bghjie\.com
 .*\bghlawyer\.net
@@ -29349,7 +29348,6 @@
 .*\bimitui\.com
 .*\bimixpark\.com
 .*\bimjiayin\.com
-.*\bimkerwin\.com
 .*\bimkevinyang\.com
 .*\bimkira\.com
 .*\bimlaidian\.com
@@ -30635,7 +30633,6 @@
 .*\bjdzdeyy\.com
 .*\bjdzeduyun\.com
 .*\bjdzj\.com
-.*\bjdzjdz\.com
 .*\bjdzmc\.com
 .*\bjdzol\.com
 .*\bjdzol\.net
@@ -51739,7 +51736,6 @@
 .*\btsyqb\.com
 .*\btsyvps\.com
 .*\btsyzm\.com
-.*\btsz\.com
 .*\btszckj\.com
 .*\btszhjk\.com
 .*\btszyzx\.com
@@ -53801,6 +53797,7 @@
 .*\bwaf\.cdnetworks\.com
 .*\bwafcn\.com
 .*\bwafunny\.com
+.*\bwafzi\.com
 .*\bwaheaven\.com
 .*\bwahlap\.com
 .*\bwahongyu\.com
@@ -54412,7 +54409,6 @@
 .*\bweicaifu\.com
 .*\bweicewang\.com
 .*\bweichaishi\.com
-.*\bweichen\.org
 .*\bweicher-sz\.com
 .*\bweiclicai\.com
 .*\bweico\.cc
