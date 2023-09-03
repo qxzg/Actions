@@ -33,7 +33,7 @@ get_gfwlist(){
 	# 4. post filter: delete site below
 	sed -i '/m-team/d' ${CURR_PATH}/gfwlist_tmp.conf
 	sed -i '/windowsupdate/d' ${CURR_PATH}/gfwlist_tmp.conf
-	sed -i '/v2ex/d' ${CURR_PATH}/gfwlist_tmp.conf
+	#sed -i '/v2ex/d' ${CURR_PATH}/gfwlist_tmp.conf
 	sed -i '/apple\.com/d' ${CURR_PATH}/gfwlist_tmp.conf
 
 	# 5. compare
