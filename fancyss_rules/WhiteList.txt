@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2023-09-05
+## Last update: 2023-09-06
 
 .*\b0-6\.com
 .*\b00\.net
@@ -3106,7 +3106,6 @@
 .*\b3q2008\.com
 .*\b3qhouse\.com
 .*\b3qwe\.com
-.*\b3qzone\.com
 .*\b3renhe\.net
 .*\b3richman\.com
 .*\b3rkr\.com
@@ -6614,6 +6613,8 @@
 .*\b984g\.com
 .*\b985\.so
 .*\b985dh\.com
+.*\b985ks\.com
+.*\b985ks\.net
 .*\b985sy\.com
 .*\b986338dsd\.com
 .*\b98654\.com
@@ -6654,7 +6655,6 @@
 .*\b991kang\.com
 .*\b9922524\.com
 .*\b9928\.tv
-.*\b9929846\.com
 .*\b9939\.com
 .*\b99394\.com
 .*\b993h\.com
@@ -7765,6 +7765,7 @@
 .*\baixinquban\.com
 .*\baixinwu\.org
 .*\baixinyunfan\.com
+.*\baixiu\.net
 .*\baixq\.com
 .*\baixue\.net
 .*\baixuedai\.com
@@ -10631,6 +10632,7 @@
 .*\bbitetui\.com
 .*\bbitgo\.cc
 .*\bbitgo\.net
+.*\bbitgo\.tech
 .*\bbitguai\.com
 .*\bbithosts\.net
 .*\bbithub00\.com
@@ -22094,6 +22096,7 @@
 .*\bfuimg\.com
 .*\bfuiou\.com
 .*\bfuioupay\.com
+.*\bfujfu\.com
 .*\bfujiabin\.com
 .*\bfujianrc\.com
 .*\bfujiansme\.com
@@ -31419,6 +31422,7 @@
 .*\bjjdzc\.com
 .*\bjjecn\.com
 .*\bjjfinder\.com
+.*\bjjfuzu\.com
 .*\bjjg630\.com
 .*\bjjgjy\.cc
 .*\bjjglobal\.com
@@ -31657,6 +31661,7 @@
 .*\bjobvvv\.com
 .*\bjobyp\.com
 .*\bjocat\.com
+.*\bjodeibel\.com
 .*\bjoe92\.com
 .*\bjohhan\.com
 .*\bjohogames\.com
@@ -32935,6 +32940,7 @@
 .*\bken\.io
 .*\bken74\.com
 .*\bkename\.com
+.*\bkendingde\.com
 .*\bkendocn\.com
 .*\bkendryte\.com
 .*\bkenfor\.com
@@ -38775,6 +38781,7 @@
 .*\bmwrfabc\.com
 .*\bmwrfchina\.org
 .*\bmwryx\.com
+.*\bmwtee\.com
 .*\bmwyzhcdn\.com
 .*\bmx-industry\.com
 .*\bmx007\.com
@@ -44341,6 +44348,7 @@
 .*\breformdata\.org
 .*\brefractorywin\.com
 .*\breg007\.com
+.*\bregengbaike\.com
 .*\bregexr-cn\.com
 .*\breglogo\.net
 .*\bregtm\.com
@@ -48313,7 +48321,9 @@
 .*\bsst-sd\.com
 .*\bsswater\.com
 .*\bsswchina\.com
+.*\bssxcycy\.com
 .*\bssxf\.net
+.*\bssxpxjt\.com
 .*\bssxxp\.com
 .*\bssyar\.com
 .*\bssyer\.com
@@ -54964,6 +54974,7 @@
 .*\bwjrcb\.com
 .*\bwjshw\.com
 .*\bwjsw\.com
+.*\bwjtzyg\.com
 .*\bwjunjie\.com
 .*\bwjwy\.com
 .*\bwjx\.com
@@ -56116,7 +56127,6 @@
 .*\bxbiquge\.cc
 .*\bxbiquge\.com
 .*\bxbiquge\.la
-.*\bxbiquge\.so
 .*\bxbiquge\.tw
 .*\bxbiquge6\.com
 .*\bxbiqugew\.com
@@ -56188,6 +56198,7 @@
 .*\bxcpapa\.site
 .*\bxcpapa\.xyz
 .*\bxcphzs\.com
+.*\bxcpxssx\.com
 .*\bxcq2022\.com
 .*\bxcqxcq\.com
 .*\bxcrxykl\.com
@@ -56535,7 +56546,6 @@
 .*\bxianlaihy\.com
 .*\bxianlife\.com
 .*\bxianmaiyangsheng\.com
-.*\bxianms\.com
 .*\bxianniuzu\.com
 .*\bxianpinyun\.com
 .*\bxianpp\.com
