@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2023-09-26
+## Last update: 2023-09-27
 
 .*\b0-6\.com
 .*\b00\.net
@@ -16246,6 +16246,7 @@
 .*\bctfmall\.com
 .*\bctfo\.com
 .*\bctfund\.com
+.*\bctg75\.com
 .*\bctghealthy\.com
 .*\bctghr\.com
 .*\bcthhmu\.com
@@ -33828,7 +33829,6 @@
 .*\blactec\.net
 .*\bladiyoga\.com
 .*\bladjzs\.com
-.*\bladouban\.com
 .*\blady177\.com
 .*\blady361\.com
 .*\blady8844\.com

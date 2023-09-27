@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2023-09-26
+## Last update: 2023-09-27
 
 
 Server=/0-6.com/
@@ -16246,6 +16246,7 @@ Server=/ctflife.com/
 Server=/ctfmall.com/
 Server=/ctfo.com/
 Server=/ctfund.com/
+Server=/ctg75.com/
 Server=/ctghealthy.com/
 Server=/ctghr.com/
 Server=/cthhmu.com/
@@ -33828,7 +33829,6 @@ Server=/lache.me/
 Server=/lactec.net/
 Server=/ladiyoga.com/
 Server=/ladjzs.com/
-Server=/ladouban.com/
 Server=/lady177.com/
 Server=/lady361.com/
 Server=/lady8844.com/
