@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2023-10-01
+## Last update: 2023-10-02
 
 .*\b0-6\.com
 .*\b00\.net
@@ -1891,7 +1891,6 @@
 .*\b21cn\.com
 .*\b21cn\.net
 .*\b21cnev\.com
-.*\b21cnimg\.com
 .*\b21cnjy\.com
 .*\b21cnjy\.net
 .*\b21cnsungate\.com
@@ -3296,6 +3295,7 @@
 .*\b474b\.com
 .*\b4765\.com
 .*\b4779\.com
+.*\b477zw\.com
 .*\b47819\.com
 .*\b47gs\.com
 .*\b47test\.com
@@ -7558,7 +7558,6 @@
 .*\baimeicity\.com
 .*\baimeideni\.com
 .*\baimeike\.tv
-.*\baimeit\.com
 .*\baimingtai\.com
 .*\baimipay\.net
 .*\baimiplay\.com
@@ -9774,7 +9773,6 @@
 .*\bbbsaso\.com
 .*\bbbsds\.com
 .*\bbbsheji\.com
-.*\bbbshuwu\.com
 .*\bbbsls\.net
 .*\bbbsmax\.com
 .*\bbbsnet\.com
@@ -10388,7 +10386,6 @@
 .*\bbilibiligame\.net
 .*\bbilibilihelper\.com
 .*\bbilibilijj\.com
-.*\bbilibilis0\.one
 .*\bbilicdn1\.com
 .*\bbilicdn2\.com
 .*\bbilicomic\.com
@@ -22832,6 +22829,7 @@
 .*\bgetmarkman\.com
 .*\bgetquicker\.net
 .*\bgetsurfboard\.com
+.*\bgetu\.fun
 .*\bgetui\.com
 .*\bgetui\.net
 .*\bgetui\.vip
@@ -25069,7 +25067,6 @@
 .*\bhb-hengda\.com
 .*\bhb-ly\.com
 .*\bhb-ws\.com
-.*\bhb-wtw\.com
 .*\bhb10000\.com
 .*\bhb10000sale\.com
 .*\bhb110\.cc
@@ -34842,7 +34839,6 @@
 .*\blifevc\.com
 .*\blifevccdn\.com
 .*\blifeweeker\.com
-.*\blifeweekly\.cc
 .*\blifeyk\.com
 .*\blifox\.net
 .*\blifushop\.com
@@ -35730,7 +35726,6 @@
 .*\blouding\.com
 .*\blouge\.ltd
 .*\blouislivi\.com
-.*\blouisvv\.com
 .*\bloukee\.com
 .*\bloukky\.com
 .*\bloulansheji\.com
@@ -40328,7 +40323,6 @@
 .*\bonceoa\.com
 .*\bonche\.net
 .*\boncity\.cc
-.*\bondeals\.net
 .*\bone-all\.com
 .*\bone-netbook\.com
 .*\bone918\.com
@@ -42792,7 +42786,6 @@
 .*\bqiman6\.com
 .*\bqimao\.com
 .*\bqimaomh\.com
-.*\bqimengshangwu\.com
 .*\bqimhua\.com
 .*\bqimi\.com
 .*\bqimiaomh\.com
@@ -48084,7 +48077,6 @@
 .*\bstarduster\.me
 .*\bstarfivetech\.com
 .*\bstargame\.com
-.*\bstaridc\.net
 .*\bstarlight-generator\.com
 .*\bstarlott\.com
 .*\bstarming\.com
@@ -48911,7 +48903,6 @@
 .*\bszcp\.com
 .*\bszcsot\.com
 .*\bszcssx\.com
-.*\bszcsw\.com
 .*\bszcua\.org
 .*\bszcwdz\.com
 .*\bszcy99\.com
@@ -50218,7 +50209,6 @@
 .*\btime\.izatcloud\.net
 .*\btimecoo\.com
 .*\btimedg\.com
-.*\btimenote\.cc
 .*\btimeofdate\.com
 .*\btimeoutbeijing\.com
 .*\btimeoutcn\.com
@@ -53437,7 +53427,6 @@
 .*\bwaynetechs\.com
 .*\bwayos\.com
 .*\bwayoulegal\.com
-.*\bwayoutv\.com
 .*\bwayoxi\.com
 .*\bwaytit\.com
 .*\bwayzim\.com
