@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2023-10-08
+## Last update: 2023-10-09
 
 .*\b0-6\.com
 .*\b00\.net
@@ -6116,6 +6116,7 @@
 .*\b91ceshi\.com
 .*\b91cha\.com
 .*\b91chang\.com
+.*\b91changxie\.com
 .*\b91chuxue\.com
 .*\b91cpm\.com
 .*\b91cps\.com
@@ -6924,6 +6925,7 @@
 .*\babdstem\.com
 .*\babe-tech\.com
 .*\babeacon\.com
+.*\babesmoke\.com
 .*\babiechina\.com
 .*\babiestem\.com
 .*\babifsey\.com
@@ -8891,6 +8893,7 @@
 .*\batmlimited\.com
 .*\batmob\.com
 .*\batobo\.com
+.*\batomgit\.com
 .*\batomhike-en\.com
 .*\batomhike\.com
 .*\batomic-art\.com
@@ -13769,6 +13772,7 @@
 .*\bchinameyer\.com
 .*\bchinamfi\.net
 .*\bchinamining\.com
+.*\bchinamishu\.net
 .*\bchinamission\.be
 .*\bchinamlmcc\.com
 .*\bchinamobile\.com
@@ -14027,6 +14031,7 @@
 .*\bchipcreation\.com
 .*\bchipdance\.com
 .*\bchiphell\.com
+.*\bchiphometek\.com
 .*\bchiplayout\.net
 .*\bchipmanufacturing\.org
 .*\bchiponeic\.com
@@ -16210,8 +16215,10 @@
 .*\bctfo\.com
 .*\bctfund\.com
 .*\bctg75\.com
+.*\bctgapp\.com
 .*\bctghealthy\.com
 .*\bctghr\.com
+.*\bctghro\.com
 .*\bcthhmu\.com
 .*\bcthuwork\.com
 .*\bcthuwork\.net
@@ -32980,7 +32987,6 @@
 .*\bkkkwww\.com
 .*\bkklishi\.com
 .*\bkklxj\.com
-.*\bkkmaoyi\.com
 .*\bkkmh\.com
 .*\bkkminer\.com
 .*\bkkmop\.com
@@ -39755,6 +39761,7 @@
 .*\bnoveless\.com
 .*\bnovelfm\.com
 .*\bnovelfmpic\.com
+.*\bnovelfmstatic\.com
 .*\bnovelfmvod\.com
 .*\bnovell\.me
 .*\bnovemideas\.com
@@ -41597,7 +41604,6 @@
 .*\bplalzhang\.com
 .*\bplanckled\.com
 .*\bplanetmeican\.com
-.*\bplantextra\.com
 .*\bplantname\.xyz
 .*\bplantower\.com
 .*\bplateno\.cc
@@ -46395,6 +46401,7 @@
 .*\bshouxintec\.com
 .*\bshouyao\.com
 .*\bshouye-wang\.com
+.*\bshouyihuo\.com
 .*\bshouyou\.com
 .*\bshouyoubus\.com
 .*\bshouyoucdn\.com
@@ -47760,7 +47767,6 @@
 .*\bsoxsok\.com
 .*\bsoyim\.com
 .*\bsoyiyuan\.com
-.*\bsoyobo\.com
 .*\bsoyohui\.com
 .*\bsoyoung\.com
 .*\bsoyouso\.com
@@ -49126,6 +49132,7 @@
 .*\btaianmedia\.com
 .*\btaiantang\.net
 .*\btaibumall\.com
+.*\btaichi-maker\.com
 .*\btaichyfood\.com
 .*\btaicihome\.com
 .*\btaidao\.net
@@ -53700,6 +53707,7 @@
 .*\bweiqingbao\.cc
 .*\bweiqitv\.com
 .*\bweiqudao\.net
+.*\bweiqundaquan\.com
 .*\bweiquyx\.com
 .*\bweiren\.com
 .*\bweisanyun\.com
@@ -55519,7 +55527,6 @@
 .*\bwypxj\.com
 .*\bwyq9\.com
 .*\bwyr\.me
-.*\bwys\.net
 .*\bwysaid\.org
 .*\bwysap\.com
 .*\bwysfgc\.com
@@ -56805,6 +56812,7 @@
 .*\bxinjiadiy\.com
 .*\bxinjiance\.com
 .*\bxinjianggou\.com
+.*\bxinjidian\.com
 .*\bxinjimo\.com
 .*\bxinjingks\.com
 .*\bxinjisuan\.net
@@ -58330,6 +58338,7 @@
 .*\bybaby\.com
 .*\bybao\.org
 .*\bybaobx\.com
+.*\bybask\.com
 .*\bybbdzp\.com
 .*\bybbgd\.com
 .*\bybbxkj\.com
