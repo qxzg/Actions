@@ -7,10 +7,10 @@
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2023-11-02 03:48",
-    "md5": "4f3cde1d16ff72fa575f5b6855bbbe59",
-    "count": "3434",
-    "count_ip": "296238380",
+    "date": "2023-11-03 03:48",
+    "md5": "c23abdf8fd1ab6416a2432136e34cc61",
+    "count": "3436",
+    "count_ip": "296263720",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
@@ -34,9 +34,9 @@
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2023-10-26 03:48",
-    "md5": "e3bc8e6ed8801417f6b50003a15a5fa5",
-    "count": "63738"
+    "date": "2023-11-03 03:48",
+    "md5": "dd8de4824a05766edf30f5475190b38c",
+    "count": "63610"
   },
   "apple_china": {
     "name": "apple_china.txt",
