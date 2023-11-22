@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2023-11-21
+## Last update: 2023-11-22
 
 .*\b0-6\.com
 .*\b00\.net
@@ -567,7 +567,6 @@
 .*\b0cname\.com
 .*\b0d\.work
 .*\b0daily\.com
-.*\b0dayku\.com
 .*\b0du520\.com
 .*\b0duxs\.com
 .*\b0easy\.com
@@ -617,7 +616,6 @@
 .*\b1000360\.com
 .*\b10006\.info
 .*\b1000eb\.net
-.*\b1000fr\.net
 .*\b1000fun\.com
 .*\b1000phone\.com
 .*\b1000phone\.net
@@ -7913,7 +7911,6 @@
 .*\ballchips\.com
 .*\ballcitygo\.com
 .*\ballcitysz\.net
-.*\balldenmark\.net
 .*\balldk\.com
 .*\balldobetter\.com
 .*\balldragon\.com
@@ -14299,6 +14296,7 @@
 .*\bcirunzhang\.com
 .*\bcismef\.com
 .*\bcisskwt\.com
+.*\bcit168\.com
 .*\bcitahub\.com
 .*\bcitexpo\.org
 .*\bcitiais\.com
@@ -17941,6 +17939,7 @@
 .*\bdmcgas\.com
 .*\bdmchina1\.com
 .*\bdmd968\.com
+.*\bdmdaili\.com
 .*\bdmeg88\.com
 .*\bdmeiti\.com
 .*\bdmeiti\.net
@@ -19687,7 +19686,6 @@
 .*\belikeme\.com
 .*\belikeme\.net
 .*\belitecrm\.com
-.*\beliushi\.com
 .*\beliwang\.com
 .*\belkpi\.com
 .*\bellechina\.com
@@ -22910,7 +22908,6 @@
 .*\bglobalstech\.com
 .*\bglobeauto\.org
 .*\bglobeedu\.com
-.*\bglobeimmi\.com
 .*\bglobrand\.net
 .*\bglodon\.com
 .*\bglofang\.com
@@ -24745,6 +24742,7 @@
 .*\bhaoyishui\.com
 .*\bhaoyong\.cc
 .*\bhaoyongapp\.com
+.*\bhaoyouidc\.com
 .*\bhaoyouqian\.com
 .*\bhaoyouyinxiang\.com
 .*\bhaoyuanxiao\.com
@@ -25036,6 +25034,7 @@
 .*\bhbzbw\.com
 .*\bhbzgjx\.com
 .*\bhbzhan\.com
+.*\bhbzhhbsb\.com
 .*\bhbzhjxzz\.com
 .*\bhbzhonghai\.com
 .*\bhbzjjk\.com
@@ -30499,7 +30498,6 @@
 .*\bjimufund\.com
 .*\bjimuhezi\.com
 .*\bjimujiazx\.com
-.*\bjin\.red
 .*\bjin10\.com
 .*\bjin10x\.com
 .*\bjinanguanggao\.com
@@ -31946,6 +31944,7 @@
 .*\bjysrx\.com
 .*\bjyss\.com
 .*\bjyss\.net
+.*\bjyssjxc\.com
 .*\bjysyzk\.com
 .*\bjytdlz\.com
 .*\bjytrump\.com
@@ -33350,7 +33349,6 @@
 .*\bkwx\.gd
 .*\bkwxjh\.net
 .*\bkx001\.com
-.*\bkx1158\.com
 .*\bkx1d\.com
 .*\bkx516\.com
 .*\bkx7p\.com
@@ -36113,7 +36111,6 @@
 .*\bmahoupao\.com
 .*\bmahoupao\.net
 .*\bmahua\.com
-.*\bmahuarili\.com
 .*\bmahuatalk\.com
 .*\bmai\.com
 .*\bmaianhao\.com
@@ -36910,7 +36907,6 @@
 .*\bmepai\.me
 .*\bmepcec\.com
 .*\bmeplayplay\.com
-.*\bmeraki\.life
 .*\bmercedes-benzarena\.com
 .*\bmereith\.com
 .*\bmergeek\.com
@@ -39934,7 +39930,6 @@
 .*\boneapm\.com
 .*\boneasp\.com
 .*\bonebiji\.com
-.*\bonechildnetwork\.com
 .*\bonecoder\.site
 .*\boneconnectft\.com
 .*\bonedi\.net
@@ -40642,7 +40637,6 @@
 .*\bpayrao\.com
 .*\bpaysapi\.com
 .*\bpayxinyi\.com
-.*\bpb114\.xyz
 .*\bpb89\.com
 .*\bpbcan\.com
 .*\bpbiso\.com
@@ -41794,7 +41788,6 @@
 .*\bpyhead\.com
 .*\bpyjia\.com
 .*\bpyjsh\.com
-.*\bpyjtjx\.com
 .*\bpyker\.com
 .*\bpylist\.com
 .*\bpyneo\.com
@@ -42532,7 +42525,6 @@
 .*\bqiqipu\.com
 .*\bqiqiuyu\.com
 .*\bqiqiuyun\.net
-.*\bqiqu\.la
 .*\bqiquhudong\.com
 .*\bqire123\.com
 .*\bqiredy\.com
@@ -42981,7 +42973,6 @@
 .*\bqtvcd\.com
 .*\bqtx\.com
 .*\bqtyd\.com
-.*\bqtymyy\.com
 .*\bqu\.la
 .*\bqu02\.com
 .*\bqu247\.com
@@ -44212,7 +44203,6 @@
 .*\bruiwen\.com
 .*\bruixiangbest\.com
 .*\bruixing\.cc
-.*\bruixuesoft\.com
 .*\bruixueys\.com
 .*\bruixunidc\.com
 .*\bruixunidc\.net
@@ -44304,6 +44294,7 @@
 .*\brxjhbaby\.com
 .*\brxjiasu\.com
 .*\brxjt\.co
+.*\brxn30\.app
 .*\brxohsn\.xyz
 .*\brxshc\.com
 .*\brxys\.com
@@ -44365,7 +44356,6 @@
 .*\bs8x1\.com
 .*\bs8xs\.com
 .*\bs936\.com
-.*\bs9523\.com
 .*\bs95r\.com
 .*\bs98s2\.com
 .*\bs9yun\.com
@@ -44543,7 +44533,6 @@
 .*\bsanyuanbaobao\.com
 .*\bsanyuantc\.com
 .*\bsanyuesha\.com
-.*\bsanzang5\.net
 .*\bsanzangwang\.com
 .*\bsanzei\.com
 .*\bsao-ma\.com
@@ -48672,7 +48661,6 @@
 .*\bt6756\.com
 .*\bt6q\.com
 .*\bt85\.net
-.*\bt888\.net
 .*\bt888w\.com
 .*\bt8f\.com
 .*\bt8tcdn\.com
@@ -52853,6 +52841,7 @@
 .*\bwanyouw\.com
 .*\bwanyouxi7\.com
 .*\bwanyuanxiang\.com
+.*\bwanyuanyun\.com
 .*\bwanyuenet\.com
 .*\bwanyuhudong\.com
 .*\bwanyumi\.com
@@ -53050,6 +53039,7 @@
 .*\bwebkdcdn\.com
 .*\bwebkf\.net
 .*\bwebkv\.com
+.*\bwebmaster\.me
 .*\bwebmeng\.net
 .*\bwebmulu\.com
 #.*\bwebnovel\.com/114\.114\.114\.114 # Disabled: https://github\.com/felixonmars/dnsmasq-china-list/issues/386
@@ -56381,6 +56371,7 @@
 .*\bxinrz\.com
 .*\bxinsanbanbao\.com
 .*\bxinsdn\.com
+.*\bxinsf\.cc
 .*\bxinshangmeng\.com
 .*\bxinshangmeng3\.com
 .*\bxinshangshangxin\.com
@@ -57042,7 +57033,6 @@
 .*\bxsyxsc\.com
 .*\bxszp\.cc
 .*\bxszrcw\.com
-.*\bxszww\.com
 .*\bxt-kp\.com
 .*\bxt12333\.com
 .*\bxt70\.com
@@ -57756,6 +57746,7 @@
 .*\byao51\.com
 .*\byaobo\.net
 .*\byaoburang\.com
+.*\byaocdn\.com
 .*\byaochufa\.com
 .*\byaocsoft\.com
 .*\byaodou\.net
@@ -61104,7 +61095,6 @@
 .*\bzhaoyl\.com
 .*\bzhaoyo\.com
 .*\bzhaoyuan365\.com
-.*\bzhaoyuanedu\.com
 .*\bzhaoyun\.com
 .*\bzhaozhanxu\.com
 .*\bzhaozhaoqu\.com
@@ -62907,7 +62897,6 @@
 .*\bzygames\.com
 .*\bzygg\.cc
 .*\bzygj\.net
-.*\bzyguidao\.com
 .*\bzyh365\.com
 .*\bzyhao\.com
 .*\bzyhbxs\.com
