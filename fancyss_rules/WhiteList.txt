@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2023-11-22
+## Last update: 2023-11-23
 
 .*\b0-6\.com
 .*\b00\.net
@@ -4801,7 +4801,6 @@
 .*\b61sou\.com
 .*\b61tg\.com
 .*\b62\.com
-.*\b623k\.com
 .*\b62669\.com
 .*\b626x\.com
 .*\b628\.com
@@ -6177,7 +6176,6 @@
 .*\b91yxbox\.com
 .*\b91yxl\.com
 .*\b91zhiwang\.com
-.*\b91zwk\.com
 .*\b92\.net
 .*\b921\.com
 .*\b9211\.com
@@ -13353,7 +13351,6 @@
 .*\bchinaagv\.com
 .*\bchinaairer\.com
 .*\bchinaamc\.com
-.*\bchinaanonymous\.com
 .*\bchinaartificialstone\.com
 .*\bchinaasc\.org
 .*\bchinaaseanenv\.org
@@ -16570,7 +16567,6 @@
 .*\bdaicuo\.vip
 .*\bdaidaicp\.com
 .*\bdaidaidui\.club
-.*\bdaidaitv\.com
 .*\bdaidongxi\.com
 .*\bdaigou\.com
 .*\bdaijun\.com
@@ -23403,7 +23399,6 @@
 .*\bgs1cn\.org
 .*\bgs2\.ww\.prod\.dl\.playstation\.net
 .*\bgs307\.com
-.*\bgs3jro\.xyz
 .*\bgsadds\.com
 .*\bgsafc\.com
 .*\bgsafety\.com
@@ -24667,6 +24662,7 @@
 .*\bhaommn\.com
 .*\bhaomove\.com
 .*\bhaomugua\.com
+.*\bhaomzl\.com
 .*\bhaonames\.com
 .*\bhaonic\.com
 .*\bhaonongzi\.com
@@ -31831,7 +31827,6 @@
 .*\bjxcua\.com
 .*\bjxdcnc\.com
 .*\bjxdiguo\.com
-.*\bjxdkzz\.net
 .*\bjxdown\.com
 .*\bjxdyf\.com
 .*\bjxedt\.com
@@ -33388,6 +33383,7 @@
 .*\bky01010\.com
 .*\bky01013\.com
 .*\bky01020\.com
+.*\bky01022\.com
 .*\bky107\.co
 .*\bky151\.co
 .*\bky55005\.com
@@ -38543,7 +38539,6 @@
 .*\bnaadou\.com
 .*\bnacorokevalve\.com
 .*\bnadianshi\.com
-.*\bnafanlong\.com
 .*\bnagagame\.net
 .*\bnagain\.com
 .*\bnagcloudcs\.com
@@ -45884,7 +45879,6 @@
 .*\bshjob\.work
 .*\bshjsit\.com
 .*\bshjt\.net
-.*\bshjxfc\.com
 .*\bshjyou\.com
 .*\bshjyyx\.com
 .*\bshjzfutures\.com
@@ -47121,7 +47115,6 @@
 .*\bsojixun\.com
 .*\bsojson\.com
 .*\bsojump\.com
-.*\bsojump\.hk
 .*\bsokoban\.ws
 .*\bsoku\.com
 .*\bsokuba\.com
@@ -52261,6 +52254,7 @@
 .*\bvojs\.tv
 .*\bvokop\.com
 .*\bvol\.moe
+.*\bvolcanicengine\.com
 .*\bvolccdn\.com
 .*\bvolcdns\.com
 .*\bvolceapplog\.com
@@ -54937,7 +54931,6 @@
 .*\bwww4\.djicdn\.com
 .*\bwww48-365365\.com
 .*\bwww5\.djicdn\.com
-.*\bwww8\.hp\.com
 .*\bwwwatch\.in
 .*\bwwwbuild\.net
 .*\bwwwer\.net
@@ -56861,6 +56854,7 @@
 .*\bxn--w9qr0k\.com
 .*\bxn--w9qy23cc6adz7d\.net
 .*\bxn--wlqw5ebvdhpi5hepihs3c\.com
+.*\bxn--xhqq1kgvbk54a\.com
 .*\bxn--xkrs9ba41r\.com
 .*\bxn--xxv969f\.xn--ses554g
 .*\bxn--y8jhmm6gn\.moe
@@ -58483,6 +58477,7 @@
 .*\byinhanglilv\.net
 .*\byinhangzhaopin\.com
 .*\byinhe\.com
+.*\byinhecn\.com
 .*\byinheyuedu\.com
 .*\byinhu\.com
 .*\byini\.org
@@ -62680,7 +62675,6 @@
 .*\bzuiwan\.net
 .*\bzuixiaoyao\.com
 .*\bzuixinyiqi\.com
-.*\bzuixu\.com
 .*\bzuiyou\.com
 .*\bzuiyouxi\.com
 .*\bzujuan\.com
