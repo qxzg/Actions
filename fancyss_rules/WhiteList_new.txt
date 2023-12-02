@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2023-12-01
+## Last update: 2023-12-02
 
 
 Server=/0-6.com/
@@ -120,6 +120,7 @@ Server=/021east.com/
 Server=/021fenglei.com/
 Server=/021fx.com/
 Server=/021gjhb.com/
+Server=/021hunbohui.com/
 Server=/021ja.com/
 Server=/021jingwei.com/
 Server=/021jingwu.com/
@@ -841,7 +842,6 @@ Server=/114zhibo.com/
 Server=/114zpw.com/
 Server=/114zw.org/
 Server=/115.com/
-Server=/11544.com/
 Server=/1155871.com/
 Server=/1156.com/
 Server=/1156dns.com/
@@ -10227,6 +10227,7 @@ Server=/bihu-static.com/
 Server=/bihu.com/
 Server=/bihubao.com/
 Server=/biikan.com/
+Server=/biioii.com/
 Server=/biji13.com/
 Server=/bijiago.com/
 Server=/bijiagou.com/
@@ -38334,6 +38335,7 @@ Server=/myodatech.com/
 Server=/myoldtime.com/
 Server=/myopenwrt.org/
 Server=/myoppo.com/
+Server=/myorbita.net/
 Server=/myottad.com/
 Server=/myouth.net/
 Server=/myp2pch.net/
@@ -41340,7 +41342,6 @@ Server=/poppace.com/
 Server=/poppur.com/
 Server=/popqiu.com/
 Server=/popsoft.com/
-Server=/popu.org/
 Server=/popumed.com/
 Server=/poputar.com/
 Server=/popziti.com/
@@ -51566,6 +51567,7 @@ Server=/utecbj.com/
 Server=/utepo.com/
 Server=/utermux.dev/
 Server=/utfinancing.com/
+Server=/utgd.net/
 Server=/uthinks.com/
 Server=/utiankong.com/
 Server=/utogame.com/
@@ -54718,6 +54720,7 @@ Server=/wumeishebei.com/
 Server=/wumii.com/
 Server=/wumii.tv/
 Server=/wuming.com/
+Server=/wupfrl.com/
 Server=/wuqing.cc/
 Server=/wuqiong.info/
 Server=/wuqishike.com/
@@ -60227,7 +60230,6 @@ Server=/yytcdn.com/
 Server=/yytek.com/
 Server=/yytingli.com/
 Server=/yyuap.com/
-Server=/yyuasa.com/
 Server=/yywlsj.com/
 Server=/yywords.com/
 Server=/yywt.online/

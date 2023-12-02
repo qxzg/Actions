@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2023-12-01
+## Last update: 2023-12-02
 
 .*\b0-6\.com
 .*\b00\.net
@@ -120,6 +120,7 @@
 .*\b021fenglei\.com
 .*\b021fx\.com
 .*\b021gjhb\.com
+.*\b021hunbohui\.com
 .*\b021ja\.com
 .*\b021jingwei\.com
 .*\b021jingwu\.com
@@ -841,7 +842,6 @@
 .*\b114zpw\.com
 .*\b114zw\.org
 .*\b115\.com
-.*\b11544\.com
 .*\b1155871\.com
 .*\b1156\.com
 .*\b1156dns\.com
@@ -10227,6 +10227,7 @@
 .*\bbihu\.com
 .*\bbihubao\.com
 .*\bbiikan\.com
+.*\bbiioii\.com
 .*\bbiji13\.com
 .*\bbijiago\.com
 .*\bbijiagou\.com
@@ -38334,6 +38335,7 @@
 .*\bmyoldtime\.com
 .*\bmyopenwrt\.org
 .*\bmyoppo\.com
+.*\bmyorbita\.net
 .*\bmyottad\.com
 .*\bmyouth\.net
 .*\bmyp2pch\.net
@@ -41340,7 +41342,6 @@
 .*\bpoppur\.com
 .*\bpopqiu\.com
 .*\bpopsoft\.com
-.*\bpopu\.org
 .*\bpopumed\.com
 .*\bpoputar\.com
 .*\bpopziti\.com
@@ -51566,6 +51567,7 @@
 .*\butepo\.com
 .*\butermux\.dev
 .*\butfinancing\.com
+.*\butgd\.net
 .*\buthinks\.com
 .*\butiankong\.com
 .*\butogame\.com
@@ -54718,6 +54720,7 @@
 .*\bwumii\.com
 .*\bwumii\.tv
 .*\bwuming\.com
+.*\bwupfrl\.com
 .*\bwuqing\.cc
 .*\bwuqiong\.info
 .*\bwuqishike\.com
@@ -60227,7 +60230,6 @@
 .*\byytek\.com
 .*\byytingli\.com
 .*\byyuap\.com
-.*\byyuasa\.com
 .*\byywlsj\.com
 .*\byywords\.com
 .*\byywt\.online
