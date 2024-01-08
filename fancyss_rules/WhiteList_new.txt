@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2024-01-07
+## Last update: 2024-01-08
 
 
 Server=/0-6.com/
@@ -2411,6 +2411,7 @@ Server=/3321.com/
 Server=/3322.cc/
 Server=/3322.net/
 Server=/3322.org/
+Server=/33226163.xyz/
 Server=/3323.com/
 Server=/3323399.com/
 Server=/332831.com/
@@ -3803,6 +3804,7 @@ Server=/51ukf.com/
 Server=/51uyi.com/
 Server=/51vimeo.com/
 Server=/51vip.biz/
+Server=/51voa.com/
 Server=/51vs.com/
 Server=/51vv.com/
 Server=/51vv2.com/
@@ -4453,7 +4455,6 @@ Server=/591wsh.com/
 Server=/591wy.com/
 Server=/591yhw.com/
 Server=/5923d.com/
-Server=/592sy.com/
 Server=/592zn.com/
 Server=/59313313.com/
 Server=/59370.com/
@@ -12761,7 +12762,6 @@ Server=/chanumber.com/
 Server=/chanway.net/
 Server=/chanwind.com/
 Server=/chanxuehezuo.com/
-Server=/chanyeren.com/
 Server=/chanzhi.org/
 Server=/chanzuimei.com/
 Server=/chao-fan.com/
@@ -16269,7 +16269,6 @@ Server=/czxy.com/
 Server=/czyxba.com/
 Server=/czzsw.com/
 Server=/czzy-edu.com/
-Server=/czzy88.com/
 Server=/d-controls.com/
 Server=/d-ctrip.com/
 Server=/d-heaven.com/
@@ -33358,7 +33357,6 @@ Server=/langtze.com/
 Server=/languangdy.com/
 Server=/langya.org/
 Server=/langyabang.com/
-Server=/langyuseo.com/
 Server=/langzi.fun/
 Server=/lanh.love/
 Server=/lanhaicaijing.com/
@@ -59137,7 +59135,6 @@ Server=/ytdcloud.com/
 Server=/yte1.com/
 Server=/yteng.net/
 Server=/ytesting.com/
-Server=/ytet.org/
 Server=/ytfuzhen.com/
 Server=/ytghnb.com/
 Server=/ythouse.com/
@@ -61214,6 +61211,7 @@ Server=/zhtelecom.com/
 Server=/zhtmid.com/
 Server=/zhu23.work/
 Server=/zhu360.com/
+Server=/zhuaidei.com/
 Server=/zhuainiu.com/
 Server=/zhuan16.com/
 Server=/zhuanfa.net/
