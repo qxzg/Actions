@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2024-03-07
+## Last update: 2024-03-08
 
 .*\b0-6\.com
 .*\b00\.net
@@ -3018,7 +3018,6 @@
 .*\b36524hua\.com
 .*\b36543\.com
 .*\b365500\.com
-.*\b365708\.com
 .*\b36578\.com
 .*\b365960\.com
 .*\b365auto\.com
@@ -5824,6 +5823,7 @@
 .*\b77169\.net
 .*\b7717wan\.com
 .*\b7723\.com
+.*\b7723img\.com
 .*\b7724\.com
 .*\b7724yx\.com
 .*\b7725\.com
@@ -6009,7 +6009,6 @@
 .*\b7runto\.com
 .*\b7rv\.net
 .*\b7sfashion\.com
-.*\b7sheji\.com
 .*\b7sj\.com
 .*\b7souti\.com
 .*\b7sown\.com
@@ -13956,6 +13955,7 @@
 .*\bcdnhwcpsd13\.com
 .*\bcdnhwcqwg14\.com
 .*\bcdnhwctnm107\.com
+.*\bcdnhwcuim119\.com
 .*\bcdnhwcupf06\.com
 .*\bcdnhwcvix16\.com
 .*\bcdnhwcxcy07\.com
@@ -21533,6 +21533,7 @@
 .*\beastmoney\.com
 .*\beastmoneyfutures\.com
 .*\beastmoneyloans\.com
+.*\beastmoneysec\.com
 .*\beastobacco\.com
 .*\beastpharm\.com
 .*\beastsilver\.com
@@ -43206,7 +43207,6 @@
 .*\bmsmbjp\.com
 .*\bmspacecd\.com
 .*\bmspharm\.com
-.*\bmspring\.org
 .*\bmsproduct\.download\.prss\.microsoft\.com
 .*\bmsproductuat\.download\.prss\.microsoft\.com
 .*\bmsrtvu\.net
@@ -46009,7 +46009,6 @@
 .*\bpaiduidai\.com
 .*\bpaihang114\.com
 .*\bpaihang360\.com
-.*\bpaihangbangqian10ming\.com
 .*\bpaihb\.com
 .*\bpaihotels\.cc
 .*\bpaiky\.com
@@ -46790,6 +46789,7 @@
 .*\bpinkertech\.com
 .*\bpinkobaby\.com
 .*\bpinkoichina\.com
+.*\bpinkou\.com
 .*\bpinla\.com
 .*\bpinlian\.net
 .*\bpinmanduo\.com
@@ -49407,7 +49407,6 @@
 .*\branwen\.tw
 .*\branwena\.com
 .*\branyangrent\.com
-.*\branyouranqiguolu\.com
 .*\branzhi\.net
 .*\branzhi\.org
 .*\braoke\.net
@@ -51357,7 +51356,6 @@
 .*\bsensertek\.com
 .*\bsensetime\.com
 .*\bsenseyun\.com
-.*\bsensorlead\.com
 .*\bsensorsdata\.com
 .*\bsensorsdatavip\.com
 .*\bsenszx\.com
@@ -52949,6 +52947,7 @@
 .*\bsilucg\.com
 .*\bsiludao\.com
 .*\bsiluecai\.com
+.*\bsiluhd\.com
 .*\bsiluke\.cc
 .*\bsiluke\.tw
 .*\bsilukeke\.com
@@ -60938,7 +60937,6 @@
 .*\bwenda100\.net
 .*\bwenda1000\.com
 .*\bwenda123\.com
-.*\bwenda8\.com
 .*\bwendabaike\.com
 .*\bwendaifu\.com
 .*\bwendal\.net
@@ -62379,7 +62377,6 @@
 .*\bwuczfj\.com
 .*\bwudage\.com
 .*\bwudajucheng\.com
-.*\bwudangquan\.net
 .*\bwudangshan\.com
 .*\bwudao\.com
 .*\bwudaola\.com
@@ -62519,6 +62516,7 @@
 .*\bwushuzw\.com
 .*\bwusuhan\.com
 .*\bwusunjiance\.net
+.*\bwusunk\.com
 .*\bwusuobuneng\.com
 .*\bwuta-cam\.com
 .*\bwutaishanfojiao\.com
@@ -65466,7 +65464,6 @@
 .*\bxxlwin\.com
 .*\bxxmac\.com
 .*\bxxmanhua\.info
-.*\bxxminizu\.com
 .*\bxxnets\.net
 .*\bxxoojoke\.com
 .*\bxxorg\.com
@@ -66202,7 +66199,6 @@
 .*\byemeihuoguo\.com
 .*\byemeisy\.com
 .*\byemet\.com
-.*\byenainai\.com
 .*\byeolar\.com
 .*\byeoner\.com
 .*\byeree\.com
@@ -68178,6 +68174,7 @@
 .*\byuewen\.com
 .*\byuexiamen\.com
 .*\byuexiang\.fun
+.*\byuexiangpin\.com
 .*\byuexing\.com
 .*\byuexingfurniture\.com
 .*\byuexinli\.com
