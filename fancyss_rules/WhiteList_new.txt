@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2024-03-23
+## Last update: 2024-03-24
 
 
 Server=/0-6.com/
@@ -3999,6 +3999,7 @@ Server=/51google.com/
 Server=/51gouke.com/
 Server=/51gowan.com/
 Server=/51gran.com/
+Server=/51grb.com/
 Server=/51grfy.com/
 Server=/51growup.com/
 Server=/51gsl.com/
@@ -7155,7 +7156,6 @@ Server=/996pic.com/
 Server=/9973.com/
 Server=/997788.com/
 Server=/998.com/
-Server=/99808.com/
 Server=/9981ypk.com/
 Server=/9982.com/
 Server=/99844666.com/
@@ -8630,7 +8630,6 @@ Server=/aliunicorn.com/
 Server=/aliuv.com/
 Server=/alivecdn.com/
 Server=/alivv.com/
-Server=/alivv.net/
 Server=/aliway.com/
 Server=/aliwd.com/
 Server=/aliwears.com/
@@ -9674,7 +9673,6 @@ Server=/astbbs.com/
 Server=/astestech.com/
 Server=/astfc.com/
 Server=/asthis.net/
-Server=/astorpiano.com/
 Server=/astron.ac/
 Server=/astropulsion.com/
 Server=/asuidnfamun.com/
@@ -20561,7 +20559,6 @@ Server=/dongzhuoyao.com/
 Server=/donhonet.net/
 Server=/donnor.com/
 Server=/donvv.com/
-Server=/donzair.com/
 Server=/doodoobird.com/
 Server=/doofull.com/
 Server=/dooioo.com/
@@ -53923,7 +53920,6 @@ Server=/somdom.com/
 Server=/someabcd.com/
 Server=/somenchina.com/
 Server=/someonegao.com/
-Server=/somepen.com/
 Server=/something8.com/
 Server=/sometracking.com/
 Server=/somo.so/
@@ -62244,7 +62240,6 @@ Server=/wosigndoc.com/
 Server=/woskj2.com/
 Server=/woso100.com/
 Server=/wotangka.com/
-Server=/wotobang.com/
 Server=/wotrus.com/
 Server=/wotucdn.com/
 Server=/wotula.com/
@@ -62781,7 +62776,6 @@ Server=/wwwic.net/
 Server=/wwwimages.adobe.com/
 Server=/wwwimages2.adobe.com/
 Server=/wwwwww.vip/
-Server=/wwz8.com/
 Server=/wx-api.net/
 Server=/wx-data.com/
 Server=/wx-youyan.net/
@@ -63009,7 +63003,6 @@ Server=/x1997.net/
 Server=/x23118.com/
 Server=/x23119.com/
 Server=/x23qb.com/
-Server=/x23us.me/
 Server=/x23us.us/
 Server=/x23wxw.com/
 Server=/x2image.com/
