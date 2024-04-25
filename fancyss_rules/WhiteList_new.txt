@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2024-04-24
+## Last update: 2024-04-25
 
 
 Server=/0-6.com/
@@ -21898,6 +21898,7 @@ Server=/ecmould.com/
 Server=/ecnu.net/
 Server=/ecnuas.com/
 Server=/ecnudec.com/
+Server=/eco-system.xyz/
 Server=/ecoalchina.com/
 Server=/ecocn.org/
 Server=/ecodreamers.com/
@@ -34697,6 +34698,7 @@ Server=/jianweitv.com/
 Server=/jianwenapp.com/
 Server=/jianxinyun.com/
 Server=/jianyanjia.com/
+Server=/jianyixinli.com/
 Server=/jianyu360.com/
 Server=/jianyujiasu.com/
 Server=/jianyuweb.com/
@@ -47400,7 +47402,6 @@ Server=/pipegg.com/
 Server=/pipikou.com/
 Server=/pipikun.com/
 Server=/pipimp3.com/
-Server=/pipipan.com/
 Server=/pipipi.net/
 Server=/pipipifa.com/
 Server=/pipiti.com/
@@ -50903,7 +50904,6 @@ Server=/ruianfang.com/
 Server=/ruibai.com/
 Server=/ruiccm.com/
 Server=/ruichengmedia.com/
-Server=/ruichuangfagao.com/
 Server=/ruicitijian.com/
 Server=/ruida.org/
 Server=/ruidaedu.com/
@@ -51069,6 +51069,7 @@ Server=/ryjiaoyu.com/
 Server=/ryjoin.com/
 Server=/rylfj.com/
 Server=/rylinkworld.com/
+Server=/rymcu.com/
 Server=/rymooc.com/
 Server=/ryone.net/
 Server=/rypeixun.com/
@@ -51882,7 +51883,6 @@ Server=/secsilo.com/
 Server=/sectigochina.com/
 Server=/secu100.net/
 Server=/secure.globalsign.com/
-Server=/security.cdnetworks.com/
 Server=/securitycn.net/
 Server=/securityeb.com/
 Server=/securityfrontline.org/
@@ -53395,6 +53395,7 @@ Server=/shuomingshu.net/
 Server=/shuomingshuku.com/
 Server=/shuoniu.cc/
 Server=/shuoou.com/
+Server=/shuoqiudi63.com/
 Server=/shuoshuo9.com/
 Server=/shuoshuoba.cc/
 Server=/shuoshuojie.net/
@@ -60600,6 +60601,7 @@ Server=/vxsnk.com/
 Server=/vxuepin.com/
 Server=/vxuey.com/
 Server=/vxv.ink/
+Server=/vxwo.com/
 Server=/vxxsfxxs.com/
 Server=/vycool.com/
 Server=/vyh9v.app/
@@ -72695,6 +72697,7 @@ Server=/zyixinx.com/
 Server=/zyiz.net/
 Server=/zyjiajuw.com/
 Server=/zyjoygame.com/
+Server=/zyjymall.com/
 Server=/zyjyyun.com/
 Server=/zykj0668.com/
 Server=/zykjgame.com/
