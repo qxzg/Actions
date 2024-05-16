@@ -11,3 +11,8 @@
 - `sed -i 's/^URL_MAIN.*/URL_MAIN="https:\/\/cdn.jsdelivr.net\/gh\/qxzg\/Actions@3.0\/fancyss_rules"/g' /koolshare/scripts/ss_rule_update.sh`  （仅当更新规则时显示`"没有检测到在线版本。可能是访问github有问题"`时推荐，由于jsDelivr CDN存在最长24小时的缓存，规则更新会有延迟）
 - > x86版本fancyss插件请自行找到更新规则的脚本并替换`url_main`参数
 ### 每次fancyss插件更新后都需要\*重新运行一次\*更新`ss_rule_update`脚本的命令
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=qxzg/Actions&type=Date)](https://star-history.com/#qxzg/Actions&Date)
