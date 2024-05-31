@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2024-05-30
+## Last update: 2024-05-31
 
 .*\b0-6\.com
 .*\b0\.zone
@@ -97,7 +97,6 @@
 .*\b01401\.com
 .*\b016sf\.com
 .*\b01amlink\.site
-.*\b01bzw\.cc
 .*\b01bzw\.us
 .*\b01bzw\.xyz
 .*\b01caijing\.com
@@ -6942,7 +6941,6 @@
 .*\b9560\.cc
 .*\b9564\.com
 .*\b9565\.com
-.*\b9570\.me
 .*\b9588\.com
 .*\b95890\.com
 .*\b95bd\.com
@@ -7811,6 +7809,7 @@
 .*\bae1234\.com
 .*\bae256\.com
 .*\bae60\.com
+.*\bae8569\.xyz
 .*\baebiz\.net
 .*\baec188\.com
 .*\baecichina\.com
@@ -15947,6 +15946,7 @@
 .*\bchuguo78\.com
 .*\bchuguofeng\.com
 .*\bchuguohao\.com
+.*\bchuhai-club\.com
 .*\bchuimg\.com
 .*\bchuinet\.com
 .*\bchuisax\.com
@@ -16286,7 +16286,6 @@
 .*\bckzhijiaedu\.com
 .*\bcl-acg\.com
 .*\bcl-clw\.com
-.*\bcl-hs\.com
 .*\bcl-kongtiao\.com
 .*\bcl0438\.com
 .*\bcl2009\.com
@@ -16300,6 +16299,7 @@
 .*\bclassinpaas\.com
 .*\bclassmateer\.com
 .*\bclasspassincn\.com
+.*\bclasspodcdn\.com
 .*\bclayidols\.com
 .*\bclb6\.net
 .*\bclboss\.com
@@ -20166,6 +20166,7 @@
 .*\bdiyifanwen\.net
 .*\bdiyigaokao\.com
 .*\bdiyihuifu\.com
+.*\bdiyiliuxue\.com
 .*\bdiyinews\.com
 .*\bdiyipaihang\.com
 .*\bdiyishijian\.com
@@ -23137,6 +23138,7 @@
 .*\bfacehufu\.com
 .*\bfaceid\.com
 .*\bfaceplusplus\.com
+.*\bfaceu\.com
 .*\bfaceu\.mobi
 .*\bfaceu\.net
 .*\bfaceui\.com
@@ -26064,6 +26066,7 @@
 .*\bglobal-harbor\.com
 .*\bglobal-idc\.net
 .*\bglobal-jf\.com
+.*\bglobal-leader\.com
 .*\bglobal-scsl\.com
 .*\bglobal-trade-center\.com
 .*\bglobal56\.com
@@ -26841,7 +26844,6 @@
 .*\bguangli88\.com
 .*\bguanglikou\.com
 .*\bguanglilvyuan\.com
-.*\bguangminggame\.com
 .*\bguangshantang\.vip
 .*\bguangsuss\.com
 .*\bguangtuikeji\.com
@@ -30612,6 +30614,7 @@
 .*\bhtgjjl\.com
 .*\bhtguosheng\.com
 .*\bhtgwf\.com
+.*\bhti-instrument\.com
 .*\bhtidc\.com
 .*\bhtimgs\.com
 .*\bhtinfor\.com
@@ -39944,6 +39947,7 @@
 .*\blingmovie\.com
 .*\blingnanpass\.com
 .*\blingosail\.com
+.*\blingostarcdn\.com
 .*\blingphone\.net
 .*\blingquanb\.com
 .*\blingrengame\.com
@@ -43374,6 +43378,7 @@
 .*\bmmsk\.com
 .*\bmmstat\.com
 .*\bmmsz\.net
+.*\bmmt3000\.com
 .*\bmmtrix\.com
 .*\bmmtx\.net
 .*\bmmuaa\.com
@@ -56018,6 +56023,7 @@
 .*\bsydw8\.com
 .*\bsyeg-ev\.com
 .*\bsyf\.ink
+.*\bsyfabiao\.com
 .*\bsyfb2021\.com
 .*\bsyfly007\.com
 .*\bsyfw\.com
@@ -57513,6 +57519,7 @@
 .*\btiangou\.xyz
 .*\btianhaohz\.com
 .*\btianhejiayi\.com
+.*\btianhengs\.com
 .*\btianhongdiaosu\.com
 .*\btianhongsunshine\.com
 .*\btianhujy\.com
@@ -68411,6 +68418,7 @@
 .*\byofond\.com
 .*\byofond\.net
 .*\byofus\.com
+.*\byoga-8\.com
 .*\byogeev\.com
 .*\byogorobot\.com
 .*\byoher\.com
@@ -72967,6 +72975,7 @@
 .*\bzyccc\.com
 .*\bzyccst\.com
 .*\bzycits\.com
+.*\bzycitscn\.com
 .*\bzycjcrz\.org
 .*\bzycmfw\.com
 .*\bzyctd\.com
