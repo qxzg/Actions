@@ -7,19 +7,19 @@
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2024-07-12 03:48",
-    "md5": "ac040d8575fdfc8092130250555a86c6",
-    "count": "3591",
-    "count_ip": "283550706",
+    "date": "2024-07-13 03:48",
+    "md5": "6eeb99f9116c316c5cc206d4b040a9c0",
+    "count": "3595",
+    "count_ip": "283407850",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
   "chnroute2": {
     "name": "chnroute2.txt",
-    "date": "2024-01-20 03:48",
-    "md5": "8f666fc3ea51785c775b606a7fba27a2",
-    "count": "6817",
-    "count_ip": "374016518582",
+    "date": "2024-07-13 03:48",
+    "md5": "655a698f031681c2547647d0b2e2aad0",
+    "count": "6884",
+    "count_ip": "386901474894",
     "source": "ipip",
     "url": "https://github.com/firehol/blocklist-ipsets/blob/master/ipip_country/ipip_country_cn.netset"
   },
