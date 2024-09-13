@@ -7,19 +7,19 @@
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2024-09-13 03:48",
-    "md5": "fd653c92c1f5accadfc36b4e74c92bde",
-    "count": "3735",
-    "count_ip": "283450834",
+    "date": "2024-09-14 03:48",
+    "md5": "224398b7e740719f399d0e10b50628ce",
+    "count": "3744",
+    "count_ip": "283480256",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
   "chnroute2": {
     "name": "chnroute2.txt",
-    "date": "2024-08-23 03:48",
-    "md5": "dbf5b8bd1a44fbd30b9d33262d659aba",
-    "count": "7442",
-    "count_ip": "459916534344",
+    "date": "2024-09-14 03:48",
+    "md5": "73c8e0ee208a4bc719a70ed0e9ae67b2",
+    "count": "7392",
+    "count_ip": "481391294410",
     "source": "ipip",
     "url": "https://github.com/firehol/blocklist-ipsets/blob/master/ipip_country/ipip_country_cn.netset"
   },
@@ -34,9 +34,9 @@
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2024-09-09 03:48",
-    "md5": "a4661d07d4a89f293c58d2b21ea66348",
-    "count": "88789"
+    "date": "2024-09-14 03:48",
+    "md5": "b734167bcbdbf9c25098d75d6c9630bf",
+    "count": "88579"
   },
   "apple_china": {
     "name": "apple_china.txt",
