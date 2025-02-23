@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2025-02-22
+## Last update: 2025-02-23
 
 
 Server=/0.zone/
@@ -76318,7 +76318,6 @@ Server=/veryweibo.com/
 Server=/verywind.com/
 Server=/veryxiang.com/
 Server=/veryzhun.com/
-Server=/vsean.net/
 Server=/veshop.jp/
 Server=/vesystem.com/
 Server=/vetoolchain.com/

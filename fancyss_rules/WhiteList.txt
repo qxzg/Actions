@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2025-02-22
+## Last update: 2025-02-23
 
 .*\b0\.zone
 .*\b00\.net
@@ -76318,7 +76318,6 @@
 .*\bverywind\.com
 .*\bveryxiang\.com
 .*\bveryzhun\.com
-.*\bvsean\.net
 .*\bveshop\.jp
 .*\bvesystem\.com
 .*\bvetoolchain\.com
