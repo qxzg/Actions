@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2025-05-24
+## Last update: 2025-05-25
 
 
 Server=/0.zone/
@@ -9660,6 +9660,7 @@ Server=/9amts.com/
 Server=/9aoduo.com/
 Server=/9aola.com/
 Server=/9appstore.com/
+Server=/9b11b109-ab3d-4193-ac60-79cc19b3e76d.link/
 Server=/9beike.com/
 Server=/9bianli.com/
 Server=/9bt0.com/
@@ -54379,6 +54380,7 @@ Server=/imeete1.com/
 Server=/imeete2.com/
 Server=/imeete3.com/
 Server=/imeete4.com/
+Server=/imeeton.com/
 Server=/imefuture.com/
 Server=/imeidb.com/
 Server=/imeihei.com/
@@ -83385,6 +83387,7 @@ Server=/rhhz.net/
 Server=/rhine-inc.com/
 Server=/rhinosgamestwhk.com/
 Server=/rhkj.com/
+Server=/rhky.com/
 Server=/rhnewmaterials.com/
 Server=/rhonghai.com/
 Server=/rhphos.com/
@@ -90089,6 +90092,7 @@ Server=/smbpaasadmin.lenovo.com/
 Server=/smbxw.com/
 Server=/smc18.com/
 Server=/smc3s.com/
+Server=/smcalib.com/
 Server=/smcec.com/
 Server=/smcic.net/
 Server=/smcsrj.com/
@@ -121092,6 +121096,7 @@ Server=/cds-cdn.v.aaplimg.com/
 Server=/cds.apple.com.akadns.net/
 Server=/cds.apple.com/
 Server=/cdsassets.apple.com/
+Server=/certs.apple.com/
 Server=/cl1-cdn.origin-apple.com.akadns.net/
 Server=/cl1.apple.com/
 Server=/cl2-cn.apple.com/
