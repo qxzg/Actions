@@ -72,8 +72,17 @@ get_chnroute() {
 	# 2. process
 	sed -i '/^#/d' chnroute_tmp.txt
 
+	# 2.5. check if downloaded file is empty
+	local empty_md5="d41d8cd98f00b204e9800998ecf8427e"
+	local downloaded_md5=$(md5sum ${CURR_PATH}/chnroute_tmp.txt | awk '{print $1}')
+	if [ "$downloaded_md5" = "$empty_md5" ]; then
+		echo "chnroute downloaded file is empty, skipping update!"
+		rm -f ${CURR_PATH}/chnroute_tmp.txt
+		return
+	fi
+
 	# 3. compare
-	local md5sum1=$(md5sum ${CURR_PATH}/chnroute_tmp.txt | awk '{print $1}')
+	local md5sum1=${downloaded_md5}
 	local md5sum2=$(md5sum ${RULE_PATH}/chnroute.txt 2>/dev/null | awk '{print $1}')
 	echo "---------------------------------"
 	if [ "$md5sum1"x = "$md5sum2"x ]; then
@@ -114,8 +123,17 @@ get_chnroute2() {
 	# 2. process
 	sed -i '/^#/d' chnroute2_tmp.txt
 
+	# 2.5. check if downloaded file is empty
+	local empty_md5="d41d8cd98f00b204e9800998ecf8427e"
+	local downloaded_md5=$(md5sum ${CURR_PATH}/chnroute2_tmp.txt | awk '{print $1}')
+	if [ "$downloaded_md5" = "$empty_md5" ]; then
+		echo "chnroute2 downloaded file is empty, skipping update!"
+		rm -f ${CURR_PATH}/chnroute2_tmp.txt
+		return
+	fi
+
 	# 3. compare
-	local md5sum1=$(md5sum ${CURR_PATH}/chnroute2_tmp.txt | awk '{print $1}')
+	local md5sum1=${downloaded_md5}
 	local md5sum2=$(md5sum ${RULE_PATH}/chnroute2.txt 2>/dev/null | awk '{print $1}')
 	echo "---------------------------------"
 	if [ "$md5sum1"x = "$md5sum2"x ]; then
@@ -164,8 +182,17 @@ get_chnroute3() {
 	# 2. process
 	sed -i '/^#/d' chnroute3_tmp.txt
 
+	# 2.5. check if downloaded file is empty
+	local empty_md5="d41d8cd98f00b204e9800998ecf8427e"
+	local downloaded_md5=$(md5sum ${CURR_PATH}/chnroute3_tmp.txt | awk '{print $1}')
+	if [ "$downloaded_md5" = "$empty_md5" ]; then
+		echo "chnroute3 downloaded file is empty, skipping update!"
+		rm -f ${CURR_PATH}/chnroute3_tmp.txt
+		return
+	fi
+
 	# 3. compare
-	local md5sum1=$(md5sum ${CURR_PATH}/chnroute3_tmp.txt | awk '{print $1}')
+	local md5sum1=${downloaded_md5}
 	local md5sum2=$(md5sum ${RULE_PATH}/chnroute3.txt 2>/dev/null | awk '{print $1}')
 	echo "---------------------------------"
 	if [ "$md5sum1"x = "$md5sum2"x ]; then
