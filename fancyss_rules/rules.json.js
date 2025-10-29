@@ -1,34 +1,34 @@
 {
   "gfwlist": {
     "name": "gfwlist.conf",
-    "date": "2025-10-23 03:50",
-    "md5": "5359acf7155eaf48c3fa33903a54d826",
-    "count": "5246"
+    "date": "2025-10-30 03:48",
+    "md5": "efb1bdd79db752ba7b8896f027655f77",
+    "count": "5261"
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2025-10-29 03:48",
-    "md5": "df1e4bf0908ee80d0639a47ee6d22865",
-    "count": "3935",
-    "count_ip": "281835586",
+    "date": "2025-10-30 03:48",
+    "md5": "b1bb5ef073f983f5bd541bfd8db296b6",
+    "count": "3934",
+    "count_ip": "281836868",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
   "chnroute2": {
     "name": "chnroute2.txt",
-    "date": "2025-02-11 03:48",
-    "md5": "eb10b35aefa24dd4fdca6a8e3ef025c7",
-    "count": "7449",
-    "count_ip": "498570346492",
+    "date": "2025-10-30 03:48",
+    "md5": "bde108266596b70a2bedb26e61721daf",
+    "count": "7135",
+    "count_ip": "764857004802",
     "source": "ipip",
     "url": "https://github.com/firehol/blocklist-ipsets/blob/master/ipip_country/ipip_country_cn.netset"
   },
   "chnroute3": {
     "name": "chnroute3.txt",
-    "date": "2025-10-29 03:48",
-    "md5": "1bd8d7a16528f3c890b50c53b3e98d9d",
-    "count": "4244",
-    "count_ip": "286276054",
+    "date": "2025-10-30 03:48",
+    "md5": "0eb9e58627219618b5cabb5db56043a7",
+    "count": "4243",
+    "count_ip": "286276056",
     "source": "apnic",
     "url": "http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest"
   },
