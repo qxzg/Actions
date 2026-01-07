@@ -25,10 +25,10 @@
   },
   "chnroute3": {
     "name": "chnroute3.txt",
-    "date": "2026-01-06 03:48",
-    "md5": "cbe1e30601a89d9a5c935e465733bc74",
-    "count": "4138",
-    "count_ip": "286861738",
+    "date": "2026-01-08 03:49",
+    "md5": "5bdafe2f269c0c243fbaddd6220ce6b3",
+    "count": "4135",
+    "count_ip": "286845616",
     "source": "apnic",
     "url": "http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest"
   },
