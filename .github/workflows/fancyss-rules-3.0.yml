@@ -24,10 +24,12 @@ jobs:
 
       - name: Run update script
         run: |
-          sudo apt-get install moreutils
-          cd fancyss_rules/auto_update
-          chmod +x fwlist.py
-          bash update_rules.sh
+          sudo apt-get update
+          sudo apt-get install moreutils iprange -y
+          cd fancyss_rules
+          bash update_rules.sh update
+          cd ../fancyss_rules_ng
+          bash update_rules.sh update
 
       - name: Commit to repo
         if: env.is_changed == '1' || github.event.inputs.FORCE_PUSH == 'true'
@@ -36,6 +38,7 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add fancyss_rules/.
+          git add fancyss_rules_ng/.
           git commit -m "Actions Auto Update at $(date +'%Y-%m-%d %H:%M:%S')"
           git push
 
