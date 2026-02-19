@@ -574,6 +574,7 @@ finish(){
 	rm -f ${CURR_PATH}/google.china.conf
 	rm -f ${CURR_PATH}/google_download.txt
 	rm -f ${CURR_PATH}/cdn_test_tmp.txt
+	echo "is_changed=1" >>$GITHUB_ENV
 	echo "------------------------------------------------------------------"
 }
 

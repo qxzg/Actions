@@ -379,6 +379,7 @@ update_all() {
 	update_local_txt_rule "white_list" "white_list.txt"
 	update_local_txt_rule "black_list" "black_list.txt"
 	update_local_txt_rule "block_list" "block_list.txt"
+	echo "is_changed=1" >>$GITHUB_ENV
 }
 
 clean_generated() {
