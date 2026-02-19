@@ -1,9 +1,9 @@
 {
   "gfwlist": {
     "name": "gfwlist.gz",
-    "date": "2026-02-19 13:13",
-    "md5": "76d6a7f9e5fcb91dacb114c85835a3a9",
-    "count": "6395"
+    "date": "2026-02-20 04:02",
+    "md5": "425ad965a9fa251681c813aaeeec2d30",
+    "count": "6396"
   },
   "chnlist": {
     "name": "chnlist.gz",
@@ -14,24 +14,24 @@
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-02-19 13:13",
-    "md5": "ea163d363ad908c7a035c9543551664f",
-    "count": "8281",
-    "count_ip": "358516284",
+    "date": "2026-02-20 04:02",
+    "md5": "b6f8a9036d93f4561e2b2ce681241441",
+    "count": "8279",
+    "count_ip": "358515516",
     "source": "merged"
   },
   "chnroute6": {
     "name": "chnroute6.txt",
-    "date": "2026-02-19 13:13",
-    "md5": "25cdac68943e5b32c16d9cd7603e1c2c",
-    "count": "2041",
+    "date": "2026-02-20 04:02",
+    "md5": "db9f6ab25400378f5732eb6241f67032",
+    "count": "2040",
     "source": "apnic"
   },
   "adslist": {
     "name": "adslist.gz",
-    "date": "2026-02-19 13:13",
-    "md5": "00d1f261c964490dac04751838cd742d",
-    "count": "112262",
+    "date": "2026-02-20 04:02",
+    "md5": "0cc43841b8a383bbb14588e1fa12276f",
+    "count": "112921",
     "source": "anti-ad",
     "url": "https://anti-ad.net/domains.txt"
   },
