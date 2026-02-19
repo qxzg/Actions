@@ -5,7 +5,8 @@ on:
     branches: ['3.0']
     paths:
       - '.github/workflows/fancyss-rules-3.0.yml'
-      - 'fancyss_rules/auto_update/*'
+      - 'fancyss_rules/*'
+      - 'fancyss_rules_ng/*'
   workflow_dispatch:
     inputs:
       FORCE_PUSH:
