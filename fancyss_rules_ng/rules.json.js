@@ -1,23 +1,23 @@
 {
   "gfwlist": {
     "name": "gfwlist.gz",
-    "date": "2026-02-28 03:58",
-    "md5": "0536d0a1d13d345d8d1b93b9cd319d9f",
-    "count": "6433"
+    "date": "2026-03-01 03:50",
+    "md5": "00fa64df6059a47a4e9bac8ec6fd1c14",
+    "count": "6435"
   },
   "chnlist": {
     "name": "chnlist.gz",
-    "date": "2026-02-28 03:58",
-    "md5": "cca40b48b688c51bece0eab49395826d",
-    "count": "117234",
+    "date": "2026-03-01 03:50",
+    "md5": "ebcc7b5e7da815a11c964dca2914da7c",
+    "count": "117133",
     "note": "merged from dnsmasq-china-list"
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-02-27 04:05",
-    "md5": "0ebebc363f38d46dd3de9eef9f012a5f",
-    "count": "8284",
-    "count_ip": "358622268",
+    "date": "2026-03-01 03:50",
+    "md5": "a0a68750989ae0fa73aefd20ea982e30",
+    "count": "8288",
+    "count_ip": "358683708",
     "source": "merged"
   },
   "chnroute6": {
@@ -29,9 +29,9 @@
   },
   "adslist": {
     "name": "adslist.gz",
-    "date": "2026-02-26 04:03",
-    "md5": "bfcd0b65b5d1a5acf1bb706751572f89",
-    "count": "114096",
+    "date": "2026-03-01 03:50",
+    "md5": "f97f28f181e38934ff2c0cebf9de907d",
+    "count": "114688",
     "source": "anti-ad",
     "url": "https://anti-ad.net/domains.txt"
   },

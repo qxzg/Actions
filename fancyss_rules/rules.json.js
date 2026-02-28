@@ -1,15 +1,15 @@
 {
   "gfwlist": {
     "name": "gfwlist.conf",
-    "date": "2026-02-28 03:58",
-    "md5": "50940433b46f7f563bf5f7083e3a8dfc",
-    "count": "6433"
+    "date": "2026-03-01 03:50",
+    "md5": "551b37292b6291f23dbe681aa37066d3",
+    "count": "6435"
   },
   "gfwlist_txt": {
     "name": "gfwlist.txt",
-    "date": "2026-02-28 03:58",
-    "md5": "231f7baa9d03938cda203d0a1704bd6c",
-    "count": "6433"
+    "date": "2026-03-01 03:50",
+    "md5": "b3797ecbc414899a6faec391515676f3",
+    "count": "6435"
   },
   "chnroute_maxmind": {
     "name": "chnroute_maxmind.txt",
@@ -40,10 +40,10 @@
   },
   "chnroute_misakaio": {
     "name": "chnroute_misakaio.txt",
-    "date": "2026-02-28 03:58",
-    "md5": "51b8ff5f66156128c6b533649475e6a8",
+    "date": "2026-03-01 03:50",
+    "md5": "c797825a498c454141bdec1c4e1137d5",
     "count": "3910",
-    "count_ip": "282791936",
+    "count_ip": "282765568",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
@@ -67,24 +67,24 @@
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-02-27 04:05",
-    "md5": "0ebebc363f38d46dd3de9eef9f012a5f",
-    "count": "8284",
-    "count_ip": "358622268",
+    "date": "2026-03-01 03:50",
+    "md5": "a0a68750989ae0fa73aefd20ea982e30",
+    "count": "8288",
+    "count_ip": "358683708",
     "source": "fancyss",
     "url": "https://github.com/hq450/fancyss/tree/3.0/rules"
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2026-02-28 03:58",
-    "md5": "a3c98a18cb068ee4534cc4a6348568ae",
-    "count": "117239"
+    "date": "2026-03-01 03:50",
+    "md5": "826ae8130e865d0ff9fa29eae2042e0b",
+    "count": "117138"
   },
   "chnlist_txt": {
     "name": "chnlist.txt",
-    "date": "2026-02-28 03:58",
-    "md5": "a3c98a18cb068ee4534cc4a6348568ae",
-    "count": "117239",
+    "date": "2026-03-01 03:50",
+    "md5": "826ae8130e865d0ff9fa29eae2042e0b",
+    "count": "117138",
     "note": "same as cdn.txt with different name"
   },
   "apple_china": {
