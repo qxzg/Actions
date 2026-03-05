@@ -1,9 +1,9 @@
 {
   "gfwlist": {
     "name": "gfwlist.gz",
-    "date": "2026-03-05 04:02",
-    "md5": "ced077d377911fb19b58d977450398b6",
-    "count": "6439"
+    "date": "2026-03-06 04:19",
+    "md5": "c2a891de904e1f75a6351d3772ec3886",
+    "count": "6440"
   },
   "chnlist": {
     "name": "chnlist.gz",
@@ -22,16 +22,16 @@
   },
   "chnroute6": {
     "name": "chnroute6.txt",
-    "date": "2026-02-20 04:02",
-    "md5": "db9f6ab25400378f5732eb6241f67032",
-    "count": "2040",
+    "date": "2026-03-06 04:19",
+    "md5": "81d813909a93d446a4ec87540e7e2f5e",
+    "count": "2041",
     "source": "apnic"
   },
   "adslist": {
     "name": "adslist.gz",
-    "date": "2026-03-05 04:02",
-    "md5": "48ce3a5ac2b55a05923242b6bb7538da",
-    "count": "111765",
+    "date": "2026-03-06 04:19",
+    "md5": "3fa6237d7173340dfa5c27f371440628",
+    "count": "111764",
     "source": "anti-ad",
     "url": "https://anti-ad.net/domains.txt"
   },
