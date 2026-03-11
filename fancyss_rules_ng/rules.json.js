@@ -14,10 +14,10 @@
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-03-11 04:02",
-    "md5": "5b89c8bf925c740decefb943a0585571",
-    "count": "8295",
-    "count_ip": "358762300",
+    "date": "2026-03-12 04:02",
+    "md5": "734276bf4c5a4c0466f77a0fbd2e4246",
+    "count": "8286",
+    "count_ip": "358721340",
     "source": "merged"
   },
   "chnroute6": {
