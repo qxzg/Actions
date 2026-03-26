@@ -1,9 +1,9 @@
 {
   "gfwlist": {
     "name": "gfwlist.gz",
-    "date": "2026-03-26 04:20",
-    "md5": "f5a82e41770c878ee122f67f5f9ed802",
-    "count": "6441"
+    "date": "2026-03-27 04:04",
+    "md5": "eddd282c9b80f8cc5ea100b89bf5b9d5",
+    "count": "6442"
   },
   "chnlist": {
     "name": "chnlist.gz",
@@ -14,17 +14,17 @@
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-03-26 04:20",
-    "md5": "826a5f5060ce8a2ede91b2e60d0bbbfe",
+    "date": "2026-03-27 04:04",
+    "md5": "edd311ed53fc4dbec9ef2b1787ed876d",
     "count": "8300",
     "count_ip": "358772284",
     "source": "merged"
   },
   "chnroute6": {
     "name": "chnroute6.txt",
-    "date": "2026-03-10 04:01",
-    "md5": "a63c30df328c8346a3b62dec872d261e",
-    "count": "2042",
+    "date": "2026-03-27 04:04",
+    "md5": "13e06d2cf6dd3bdbc807c4638767f2c7",
+    "count": "2041",
     "source": "apnic"
   },
   "adslist": {
