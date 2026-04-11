@@ -1,15 +1,15 @@
 {
   "gfwlist": {
     "name": "gfwlist.gz",
-    "date": "2026-04-10 04:30",
-    "md5": "05d8a8d0eb861dd539759ff75f7e699a",
-    "count": "6451"
+    "date": "2026-04-12 03:59",
+    "md5": "1acb41f38d6fa32cc07fe2109b5f0eb7",
+    "count": "6452"
   },
   "chnlist": {
     "name": "chnlist.gz",
-    "date": "2026-04-11 04:18",
-    "md5": "c542ae47dd9e79079cc0f280978d80c8",
-    "count": "118243",
+    "date": "2026-04-12 03:59",
+    "md5": "7403096654aa660979ae949135c14cc1",
+    "count": "118248",
     "note": "merged from dnsmasq-china-list"
   },
   "chnroute": {
