@@ -1,15 +1,15 @@
 {
   "gfwlist": {
     "name": "gfwlist.conf",
-    "date": "2026-04-26 04:20",
-    "md5": "3af69e570079555dc8f8be7fd8048a4d",
-    "count": "6450"
+    "date": "2026-04-29 04:49",
+    "md5": "0548907a33a4ac8ae5bab71b98d650d2",
+    "count": "6451"
   },
   "gfwlist_txt": {
     "name": "gfwlist.txt",
-    "date": "2026-04-26 04:20",
-    "md5": "dd04bd30206fede5ccfb2721696c7c1b",
-    "count": "6450"
+    "date": "2026-04-29 04:49",
+    "md5": "4aa5633f2f44d58452d4126ee6d2c262",
+    "count": "6451"
   },
   "chnroute_maxmind": {
     "name": "chnroute_maxmind.txt",
@@ -40,10 +40,10 @@
   },
   "chnroute_misakaio": {
     "name": "chnroute_misakaio.txt",
-    "date": "2026-04-28 04:41",
-    "md5": "64a1129dcb491189222514e78fd5c662",
-    "count": "3910",
-    "count_ip": "282780672",
+    "date": "2026-04-29 04:49",
+    "md5": "3f7e0ed2447af6edd97a5572d6e7cccb",
+    "count": "3912",
+    "count_ip": "282780928",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
@@ -67,24 +67,24 @@
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-04-28 04:41",
-    "md5": "13c92a4c47890b55a7927fb7e74b2a1e",
-    "count": "8291",
-    "count_ip": "358747452",
+    "date": "2026-04-29 04:49",
+    "md5": "8c29c43ae181d77aac83229b0b4bbbd0",
+    "count": "8290",
+    "count_ip": "358747196",
     "source": "fancyss",
     "url": "https://github.com/hq450/fancyss/tree/3.0/rules"
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2026-04-26 04:20",
-    "md5": "1a2f6a2e6e3e8ade771b9928d5ce0637",
-    "count": "117814"
+    "date": "2026-04-29 04:49",
+    "md5": "2faf1a35fcaf81940f6066104cb100eb",
+    "count": "116426"
   },
   "chnlist_txt": {
     "name": "chnlist.txt",
-    "date": "2026-04-26 04:20",
-    "md5": "1a2f6a2e6e3e8ade771b9928d5ce0637",
-    "count": "117814",
+    "date": "2026-04-29 04:49",
+    "md5": "2faf1a35fcaf81940f6066104cb100eb",
+    "count": "116426",
     "note": "same as cdn.txt with different name"
   },
   "apple_china": {
