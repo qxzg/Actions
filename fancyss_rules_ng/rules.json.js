@@ -7,17 +7,17 @@
   },
   "chnlist": {
     "name": "chnlist.gz",
-    "date": "2026-05-09 04:38",
-    "md5": "17be1a4c8239ddf0a7eaa9b3f7e8a000",
-    "count": "114314",
+    "date": "2026-05-10 04:24",
+    "md5": "3005b9833c596527d084794fb37814fd",
+    "count": "114063",
     "note": "merged from dnsmasq-china-list"
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-05-06 04:43",
-    "md5": "01bf9b93c25204ea2318df7f8503ae25",
-    "count": "8293",
-    "count_ip": "358748732",
+    "date": "2026-05-10 04:25",
+    "md5": "53517ef17315f9c9b1f99bd25ebe44e5",
+    "count": "8301",
+    "count_ip": "358753084",
     "source": "merged"
   },
   "chnroute6": {
@@ -67,20 +67,20 @@
   },
   "apple_china": {
     "name": "apple_china.txt",
-    "date": "2026-01-29 22:44",
-    "md5": "616b568666535fe67c8ca9b830fcaa24",
-    "count": "167"
+    "date": "2026-05-10 04:24",
+    "md5": "0a50843a1a825bce7eb12ed6572bfaa6",
+    "count": "163"
   },
   "google_china": {
     "name": "google_china.txt",
-    "date": "2026-01-29 22:44",
-    "md5": "2003b325844ddc1c5b4702c07c6864c0",
-    "count": "143"
+    "date": "2026-05-10 04:24",
+    "md5": "9910b5e06dfcdb5a9be57e131dcc35d9",
+    "count": "112"
   },
   "cdn_test": {
     "name": "cdn_test.txt",
-    "date": "2026-01-29 22:44",
-    "md5": "866e71a7b3c9f6062bf4c5b4d6818fea",
-    "count": "89"
+    "date": "2026-05-10 04:25",
+    "md5": "1003972714d2265e4b0d3c3e8245519b",
+    "count": "91"
   }
 }

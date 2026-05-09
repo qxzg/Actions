@@ -40,10 +40,10 @@
   },
   "chnroute_misakaio": {
     "name": "chnroute_misakaio.txt",
-    "date": "2026-05-09 04:38",
-    "md5": "e50259edd514e53e96b7ff6c70ba13f5",
-    "count": "3910",
-    "count_ip": "282780416",
+    "date": "2026-05-10 04:24",
+    "md5": "68266eeb942a2d347dbd8816fb62f462",
+    "count": "3923",
+    "count_ip": "282815744",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
@@ -67,42 +67,42 @@
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-05-06 04:43",
-    "md5": "01bf9b93c25204ea2318df7f8503ae25",
-    "count": "8293",
-    "count_ip": "358748732",
+    "date": "2026-05-10 04:24",
+    "md5": "53517ef17315f9c9b1f99bd25ebe44e5",
+    "count": "8301",
+    "count_ip": "358753084",
     "source": "fancyss",
     "url": "https://github.com/hq450/fancyss/tree/3.0/rules"
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2026-05-09 04:38",
-    "md5": "ca7b7d566695611630b31952d5e1d9d9",
-    "count": "114319"
+    "date": "2026-05-10 04:24",
+    "md5": "acdaabe0264007a9396ae1920fc042ee",
+    "count": "114068"
   },
   "chnlist_txt": {
     "name": "chnlist.txt",
-    "date": "2026-05-09 04:38",
-    "md5": "ca7b7d566695611630b31952d5e1d9d9",
-    "count": "114319",
+    "date": "2026-05-10 04:24",
+    "md5": "acdaabe0264007a9396ae1920fc042ee",
+    "count": "114068",
     "note": "same as cdn.txt with different name"
   },
   "apple_china": {
     "name": "apple_china.txt",
-    "date": "2025-12-30 09:50",
-    "md5": "616b568666535fe67c8ca9b830fcaa24",
-    "count": "167"
+    "date": "2026-05-10 04:24",
+    "md5": "0a50843a1a825bce7eb12ed6572bfaa6",
+    "count": "163"
   },
   "google_china": {
     "name": "google_china.txt",
-    "date": "2025-12-30 09:50",
-    "md5": "2003b325844ddc1c5b4702c07c6864c0",
-    "count": "143"
+    "date": "2026-05-10 04:24",
+    "md5": "9910b5e06dfcdb5a9be57e131dcc35d9",
+    "count": "112"
   },
   "cdn_test": {
     "name": "cdn_test.txt",
-    "date": "2025-11-06 23:25",
-    "md5": "866e71a7b3c9f6062bf4c5b4d6818fea",
-    "count": "89"
+    "date": "2026-05-10 04:24",
+    "md5": "1003972714d2265e4b0d3c3e8245519b",
+    "count": "91"
   }
 }
