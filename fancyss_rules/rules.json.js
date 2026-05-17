@@ -1,15 +1,15 @@
 {
   "gfwlist": {
     "name": "gfwlist.conf",
-    "date": "2026-05-17 04:26",
-    "md5": "17a31b6d9d7c289a2c6e238c2d26ff71",
-    "count": "6466"
+    "date": "2026-05-18 04:29",
+    "md5": "0bc081993dcdaed56c939b9dab2353b3",
+    "count": "6470"
   },
   "gfwlist_txt": {
     "name": "gfwlist.txt",
-    "date": "2026-05-17 04:26",
-    "md5": "0915e87ede64f8ec1153a5f3db5363e3",
-    "count": "6466"
+    "date": "2026-05-18 04:29",
+    "md5": "184733c0adcde477a37295384412d43e",
+    "count": "6470"
   },
   "chnroute_maxmind": {
     "name": "chnroute_maxmind.txt",
@@ -40,10 +40,10 @@
   },
   "chnroute_misakaio": {
     "name": "chnroute_misakaio.txt",
-    "date": "2026-05-17 04:26",
-    "md5": "e19d87754836d62b9e12be01913a5447",
-    "count": "3910",
-    "count_ip": "282766080",
+    "date": "2026-05-18 04:29",
+    "md5": "dc76947f90c4d4d0d7063c0b8443a257",
+    "count": "3909",
+    "count_ip": "282765056",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
@@ -76,15 +76,15 @@
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2026-05-17 04:26",
-    "md5": "0598dcc62726042bd1ecfa4e84ebe223",
-    "count": "113493"
+    "date": "2026-05-18 04:29",
+    "md5": "fff57123ec9b2de2a544da1c9f026df3",
+    "count": "113479"
   },
   "chnlist_txt": {
     "name": "chnlist.txt",
-    "date": "2026-05-17 04:26",
-    "md5": "0598dcc62726042bd1ecfa4e84ebe223",
-    "count": "113493",
+    "date": "2026-05-18 04:29",
+    "md5": "fff57123ec9b2de2a544da1c9f026df3",
+    "count": "113479",
     "note": "same as cdn.txt with different name"
   },
   "apple_china": {
