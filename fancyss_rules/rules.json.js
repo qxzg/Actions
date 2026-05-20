@@ -1,15 +1,15 @@
 {
   "gfwlist": {
     "name": "gfwlist.conf",
-    "date": "2026-05-18 04:29",
-    "md5": "0bc081993dcdaed56c939b9dab2353b3",
-    "count": "6470"
+    "date": "2026-05-21 05:22",
+    "md5": "21cf5ab632eab84248eff9898f6e2be1",
+    "count": "6475"
   },
   "gfwlist_txt": {
     "name": "gfwlist.txt",
-    "date": "2026-05-18 04:29",
-    "md5": "184733c0adcde477a37295384412d43e",
-    "count": "6470"
+    "date": "2026-05-21 05:22",
+    "md5": "ac55b72814a3249ce88a4e7d4fdfc081",
+    "count": "6475"
   },
   "chnroute_maxmind": {
     "name": "chnroute_maxmind.txt",
@@ -40,10 +40,10 @@
   },
   "chnroute_misakaio": {
     "name": "chnroute_misakaio.txt",
-    "date": "2026-05-20 05:05",
-    "md5": "c4361b1bdfc005bfa16cd6a5ffcbd0b1",
-    "count": "3907",
-    "count_ip": "282767872",
+    "date": "2026-05-21 05:22",
+    "md5": "6cb1438b1a475c7e5d8f9a2c9374b4c7",
+    "count": "3908",
+    "count_ip": "282768128",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
@@ -58,10 +58,10 @@
   },
   "chnroute_apnic": {
     "name": "chnroute_apnic.txt",
-    "date": "2026-05-20 05:06",
-    "md5": "bd18cd888c9ed6f042e309f445586ecb",
-    "count": "8786",
-    "count_ip": "342936320",
+    "date": "2026-05-21 05:22",
+    "md5": "8fd00d4605e89311466c4008f38d92c4",
+    "count": "8784",
+    "count_ip": "342934272",
     "source": "apnic",
     "url": "http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest"
   },
@@ -76,15 +76,15 @@
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2026-05-18 04:29",
-    "md5": "fff57123ec9b2de2a544da1c9f026df3",
-    "count": "113479"
+    "date": "2026-05-21 05:22",
+    "md5": "aaf58ab652acef4438d6737c866fc3c7",
+    "count": "113447"
   },
   "chnlist_txt": {
     "name": "chnlist.txt",
-    "date": "2026-05-18 04:29",
-    "md5": "fff57123ec9b2de2a544da1c9f026df3",
-    "count": "113479",
+    "date": "2026-05-21 05:22",
+    "md5": "aaf58ab652acef4438d6737c866fc3c7",
+    "count": "113447",
     "note": "same as cdn.txt with different name"
   },
   "apple_china": {
