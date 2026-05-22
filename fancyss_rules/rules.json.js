@@ -1,22 +1,22 @@
 {
   "gfwlist": {
     "name": "gfwlist.conf",
-    "date": "2026-05-21 05:22",
-    "md5": "21cf5ab632eab84248eff9898f6e2be1",
-    "count": "6475"
+    "date": "2026-05-23 04:59",
+    "md5": "6cbd8433af394ab76544a53d1d86917f",
+    "count": "6478"
   },
   "gfwlist_txt": {
     "name": "gfwlist.txt",
-    "date": "2026-05-21 05:22",
-    "md5": "ac55b72814a3249ce88a4e7d4fdfc081",
-    "count": "6475"
+    "date": "2026-05-23 04:59",
+    "md5": "abbb9524cbbf26acd7ce236fdaccc9c1",
+    "count": "6478"
   },
   "chnroute_maxmind": {
     "name": "chnroute_maxmind.txt",
-    "date": "2025-03-17 18:49",
-    "md5": "41302df69ece45fe11d3e9ddcad2c47e",
-    "count": "7212",
-    "count_ip": "345532148",
+    "date": "2026-05-23 04:59",
+    "md5": "a8ad3867a3a8d6059916cc9e54bc9c7e",
+    "count": "6765",
+    "count_ip": "346116065",
     "source": "maxmind/geolite2",
     "url": "https://github.com/firehol/blocklist-ipsets/blob/master/geolite2_country/country_cn.netset"
   },
@@ -40,10 +40,10 @@
   },
   "chnroute_misakaio": {
     "name": "chnroute_misakaio.txt",
-    "date": "2026-05-22 05:15",
-    "md5": "b288749dc381d05aa38679b14b3ec012",
-    "count": "3925",
-    "count_ip": "282791936",
+    "date": "2026-05-23 04:59",
+    "md5": "c9503c4c0626fbf14042484d0efb7cc6",
+    "count": "3920",
+    "count_ip": "282790912",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
@@ -58,19 +58,19 @@
   },
   "chnroute_apnic": {
     "name": "chnroute_apnic.txt",
-    "date": "2026-05-21 05:22",
-    "md5": "8fd00d4605e89311466c4008f38d92c4",
-    "count": "8784",
-    "count_ip": "342934272",
+    "date": "2026-05-23 04:59",
+    "md5": "d38a6a9fd3c5452e7e582710879dc2d3",
+    "count": "8785",
+    "count_ip": "342934784",
     "source": "apnic",
     "url": "http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest"
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-05-22 05:15",
-    "md5": "2cf86cf13170c17880684385dfbac449",
-    "count": "8308",
-    "count_ip": "358746684",
+    "date": "2026-05-23 04:59",
+    "md5": "85dbf767648e6555acf8699e8acb8df6",
+    "count": "6894",
+    "count_ip": "357290168",
     "source": "fancyss",
     "url": "https://github.com/hq450/fancyss/tree/3.0/rules"
   },
