@@ -76,15 +76,15 @@
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2026-05-28 05:26",
-    "md5": "79bbe0140276768f12474f90b561e507",
-    "count": "113128"
+    "date": "2026-06-01 04:40",
+    "md5": "0e1e0aa3d60cdd5d4d262f30e69631f2",
+    "count": "113070"
   },
   "chnlist_txt": {
     "name": "chnlist.txt",
-    "date": "2026-05-28 05:26",
-    "md5": "79bbe0140276768f12474f90b561e507",
-    "count": "113128",
+    "date": "2026-06-01 04:40",
+    "md5": "0e1e0aa3d60cdd5d4d262f30e69631f2",
+    "count": "113070",
     "note": "same as cdn.txt with different name"
   },
   "apple_china": {
