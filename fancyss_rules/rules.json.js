@@ -40,8 +40,8 @@
   },
   "chnroute_misakaio": {
     "name": "chnroute_misakaio.txt",
-    "date": "2026-06-14 04:51",
-    "md5": "4ba4c522e39c4a083f2079e4ab801d2c",
+    "date": "2026-06-15 04:50",
+    "md5": "9fe6e38eeda62a3f13ef837e2f69cca9",
     "count": "3916",
     "count_ip": "282198016",
     "source": "misakaio",
