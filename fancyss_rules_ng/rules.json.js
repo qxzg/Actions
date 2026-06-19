@@ -1,15 +1,15 @@
 {
   "gfwlist": {
     "name": "gfwlist.gz",
-    "date": "2026-06-19 05:37",
-    "md5": "35ddf4d72423a160353a54aba7330337",
-    "count": "6488"
+    "date": "2026-06-20 04:54",
+    "md5": "738ff34ef2d01e3f66f360cda06af8c9",
+    "count": "6563"
   },
   "chnlist": {
     "name": "chnlist.gz",
-    "date": "2026-06-19 05:37",
-    "md5": "003bb6e02502723b641a5f60e11fe045",
-    "count": "112297",
+    "date": "2026-06-20 04:54",
+    "md5": "038fda6dec61738a1f146f091d880ca1",
+    "count": "112305",
     "note": "merged from dnsmasq-china-list"
   },
   "chnroute": {
@@ -29,9 +29,9 @@
   },
   "adslist": {
     "name": "adslist.gz",
-    "date": "2026-06-17 06:01",
-    "md5": "107ce1b7ada44c8cac529d608d9703dd",
-    "count": "110217",
+    "date": "2026-06-20 04:54",
+    "md5": "ce3476ff882f1c5ddd23a420bbbf7a14",
+    "count": "110813",
     "source": "anti-ad",
     "url": "https://anti-ad.net/domains.txt"
   },
@@ -67,9 +67,9 @@
   },
   "apple_china": {
     "name": "apple_china.txt",
-    "date": "2026-05-10 04:24",
-    "md5": "0a50843a1a825bce7eb12ed6572bfaa6",
-    "count": "163"
+    "date": "2026-06-20 04:54",
+    "md5": "a6046afbccf15cb60578ffbb5ce399c5",
+    "count": "164"
   },
   "google_china": {
     "name": "google_china.txt",
