@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2026-06-20
+## Last update: 2026-06-21
 
 
 Server=/0.xn--czrs0t/
@@ -13906,6 +13906,7 @@ Server=/b-fairy.com/
 Server=/b-k-automation.com/
 Server=/b-raymedia.com/
 Server=/b.biz/
+Server=/b.c2r.ts.cdn.office.net/
 Server=/b01.net/
 Server=/b02f0d7f3745ba7c.com/
 Server=/b041e427810281.beer/
@@ -33663,6 +33664,7 @@ Server=/f-dou.com/
 Server=/f-insight.com/
 Server=/f-stack.org/
 Server=/f.biz/
+Server=/f.c2r.ts.cdn.office.net/
 Server=/f.cx/
 Server=/f008.com/
 Server=/f015dfc4510292.beer/
@@ -81104,6 +81106,7 @@ Server=/shejiyue.com/
 Server=/sheketiandi.com/
 Server=/shekou.com/
 Server=/shelive.net/
+Server=/shell.cdn.office.net/
 Server=/shellpub.com/
 Server=/shellsec.com/
 Server=/shelter-china.com/
@@ -84924,6 +84927,7 @@ Server=/staticfile.net/
 Server=/staticfile.org/
 Server=/statickksmg.com/
 Server=/statics.cc/
+Server=/statics.teams.cdn.office.net/
 Server=/staticsdd.com/
 Server=/staticsoe.com/
 Server=/staticsoem.com/
@@ -85637,6 +85641,7 @@ Server=/suqun-group.com/
 Server=/surely.cool/
 Server=/surerp.com/
 Server=/surface.download.prss.microsoft.com/
+Server=/surface.downloads.prss.microsoft.com/
 Server=/surfacetreatmentgroup.com/
 Server=/surfacetreatmenttechnology.com/
 Server=/surfcg.com/

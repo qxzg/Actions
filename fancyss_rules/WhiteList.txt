@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
 ## Report an issue: https://github.com/felixonmars/dnsmasq-china-list/issues
-## Last update: 2026-06-20
+## Last update: 2026-06-21
 
 .*\b0\.xn--czrs0t
 .*\b0\.xn--unup4y
@@ -13906,6 +13906,7 @@
 .*\bb-k-automation\.com
 .*\bb-raymedia\.com
 .*\bb\.biz
+.*\bb\.c2r\.ts\.cdn\.office\.net
 .*\bb01\.net
 .*\bb02f0d7f3745ba7c\.com
 .*\bb041e427810281\.beer
@@ -33663,6 +33664,7 @@
 .*\bf-insight\.com
 .*\bf-stack\.org
 .*\bf\.biz
+.*\bf\.c2r\.ts\.cdn\.office\.net
 .*\bf\.cx
 .*\bf008\.com
 .*\bf015dfc4510292\.beer
@@ -81104,6 +81106,7 @@
 .*\bsheketiandi\.com
 .*\bshekou\.com
 .*\bshelive\.net
+.*\bshell\.cdn\.office\.net
 .*\bshellpub\.com
 .*\bshellsec\.com
 .*\bshelter-china\.com
@@ -84924,6 +84927,7 @@
 .*\bstaticfile\.org
 .*\bstatickksmg\.com
 .*\bstatics\.cc
+.*\bstatics\.teams\.cdn\.office\.net
 .*\bstaticsdd\.com
 .*\bstaticsoe\.com
 .*\bstaticsoem\.com
@@ -85637,6 +85641,7 @@
 .*\bsurely\.cool
 .*\bsurerp\.com
 .*\bsurface\.download\.prss\.microsoft\.com
+.*\bsurface\.downloads\.prss\.microsoft\.com
 .*\bsurfacetreatmentgroup\.com
 .*\bsurfacetreatmenttechnology\.com
 .*\bsurfcg\.com
