@@ -1,15 +1,15 @@
 {
   "gfwlist": {
     "name": "gfwlist.conf",
-    "date": "2026-06-27 05:08",
-    "md5": "e13fe7c127342c94839b442573c2a71b",
-    "count": "6569"
+    "date": "2026-06-28 04:41",
+    "md5": "731ec2ce652cc9290d5e1afbb1b500c1",
+    "count": "6582"
   },
   "gfwlist_txt": {
     "name": "gfwlist.txt",
-    "date": "2026-06-27 05:08",
-    "md5": "306ccce1f2778df208728d83f20497a5",
-    "count": "6569"
+    "date": "2026-06-28 04:41",
+    "md5": "210c775fb517b7a07688e9291cf93f22",
+    "count": "6582"
   },
   "chnroute_maxmind": {
     "name": "chnroute_maxmind.txt",
@@ -76,15 +76,15 @@
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2026-06-24 05:19",
-    "md5": "540294bcd5ec2278291ea3824ffa021e",
-    "count": "112145"
+    "date": "2026-06-28 04:41",
+    "md5": "0ab42de95e24189ae9563f164673bc41",
+    "count": "112166"
   },
   "chnlist_txt": {
     "name": "chnlist.txt",
-    "date": "2026-06-24 05:19",
-    "md5": "540294bcd5ec2278291ea3824ffa021e",
-    "count": "112145",
+    "date": "2026-06-28 04:41",
+    "md5": "0ab42de95e24189ae9563f164673bc41",
+    "count": "112166",
     "note": "same as cdn.txt with different name"
   },
   "apple_china": {
