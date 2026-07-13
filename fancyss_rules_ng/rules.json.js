@@ -22,16 +22,16 @@
   },
   "chnroute6": {
     "name": "chnroute6.txt",
-    "date": "2026-06-13 05:19",
-    "md5": "1fdd0159995c63d97b5846deb1f44afa",
-    "count": "2040",
+    "date": "2026-07-14 04:41",
+    "md5": "ce756e9e097462777cba167c574be49b",
+    "count": "2039",
     "source": "apnic"
   },
   "adslist": {
     "name": "adslist.gz",
-    "date": "2026-07-11 04:52",
-    "md5": "bb5d65857c016e5aebcd31f168234482",
-    "count": "106397",
+    "date": "2026-07-14 04:41",
+    "md5": "ea09f761ddfe5b2f18d8694dcf0d6311",
+    "count": "107032",
     "source": "anti-ad",
     "url": "https://anti-ad.net/domains.txt"
   },
