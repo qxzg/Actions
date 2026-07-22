@@ -1,9 +1,9 @@
 {
   "gfwlist": {
     "name": "gfwlist.gz",
-    "date": "2026-07-22 04:47",
-    "md5": "81065dbf7a4ae43681fe6c5a3a48b5ce",
-    "count": "6651"
+    "date": "2026-07-23 04:43",
+    "md5": "37fa28375e3916b776b0dfcc0bb54109",
+    "count": "6653"
   },
   "chnlist": {
     "name": "chnlist.gz",
@@ -14,10 +14,10 @@
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-07-22 04:47",
-    "md5": "146708fa861206399589f64dae0d9b31",
-    "count": "6882",
-    "count_ip": "357125304",
+    "date": "2026-07-23 04:43",
+    "md5": "efb11994f74bec4343800c6c6e7b1ba1",
+    "count": "6883",
+    "count_ip": "357125816",
     "source": "merged"
   },
   "chnroute6": {
@@ -29,9 +29,9 @@
   },
   "adslist": {
     "name": "adslist.gz",
-    "date": "2026-07-21 04:51",
-    "md5": "3f79560d2628365a478321af279e5e7d",
-    "count": "107869",
+    "date": "2026-07-23 04:43",
+    "md5": "47a324ee44115a5973fe796667fbd5b6",
+    "count": "108328",
     "source": "anti-ad",
     "url": "https://anti-ad.net/domains.txt"
   },
