@@ -14,17 +14,17 @@
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-07-23 04:43",
-    "md5": "efb11994f74bec4343800c6c6e7b1ba1",
+    "date": "2026-07-24 04:40",
+    "md5": "66cd6db3ef1ee28e07f48fbaf36710ed",
     "count": "6883",
     "count_ip": "357125816",
     "source": "merged"
   },
   "chnroute6": {
     "name": "chnroute6.txt",
-    "date": "2026-07-14 04:41",
-    "md5": "ce756e9e097462777cba167c574be49b",
-    "count": "2039",
+    "date": "2026-07-24 04:40",
+    "md5": "7e74f86ba502bfeb481b9efc348de5cd",
+    "count": "2040",
     "source": "apnic"
   },
   "adslist": {
