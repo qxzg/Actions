@@ -40,10 +40,10 @@
   },
   "chnroute_misakaio": {
     "name": "chnroute_misakaio.txt",
-    "date": "2026-07-26 04:30",
-    "md5": "26908e554181395384281e132972c7c0",
+    "date": "2026-07-27 04:35",
+    "md5": "680b005d4ac48e0c741ffb4a2cf07427",
     "count": "3892",
-    "count_ip": "282710784",
+    "count_ip": "282711040",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
@@ -67,10 +67,10 @@
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-07-26 04:30",
-    "md5": "c2540e2e62a55ca9f60fc17d919cecbc",
+    "date": "2026-07-27 04:35",
+    "md5": "655f10d217b17882590f433c85480c73",
     "count": "6884",
-    "count_ip": "357126072",
+    "count_ip": "357126328",
     "source": "fancyss",
     "url": "https://github.com/hq450/fancyss/tree/3.0/rules"
   },
