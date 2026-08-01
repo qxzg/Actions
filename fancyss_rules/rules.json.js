@@ -1,15 +1,15 @@
 {
   "gfwlist": {
     "name": "gfwlist.conf",
-    "date": "2026-07-31 04:45",
-    "md5": "72a6c326966e4082160e76d1bc616da9",
-    "count": "6655"
+    "date": "2026-08-02 04:31",
+    "md5": "f1f718d811999f78f31b3ea84eab8812",
+    "count": "6656"
   },
   "gfwlist_txt": {
     "name": "gfwlist.txt",
-    "date": "2026-07-31 04:45",
-    "md5": "53210d32892905403566a2614583c0f7",
-    "count": "6655"
+    "date": "2026-08-02 04:31",
+    "md5": "f89ee89ebccfaca903921f6de1d483e3",
+    "count": "6656"
   },
   "chnroute_maxmind": {
     "name": "chnroute_maxmind.txt",
