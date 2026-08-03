@@ -7,9 +7,9 @@
   },
   "chnlist": {
     "name": "chnlist.gz",
-    "date": "2026-08-01 04:49",
-    "md5": "f53b10d0429d5402f6e03e33a88d530e",
-    "count": "111471",
+    "date": "2026-08-04 04:46",
+    "md5": "69401227fb786fa1e1394c5739ab8b78",
+    "count": "111044",
     "note": "merged from dnsmasq-china-list"
   },
   "chnroute": {
