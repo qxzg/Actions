@@ -45,4 +45,4 @@ jsDelivr 可能存在最长 24 小时缓存，因此规则更新会有延迟。
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=qxzg/Actions&type=Date)](https://star-history.com/#qxzg/Actions&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=qxzg/Actions&type=Date)](https://star-history.dera.page/#qxzg/Actions&Date)
