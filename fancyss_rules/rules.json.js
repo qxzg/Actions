@@ -1,15 +1,15 @@
 {
   "gfwlist": {
     "name": "gfwlist.conf",
-    "date": "2026-08-19 03:55",
-    "md5": "f257ae4e67d90f50a082d457a93dbaec",
-    "count": "6654"
+    "date": "2026-08-21 04:00",
+    "md5": "926f03165cb5454d78a07575d35dc961",
+    "count": "6656"
   },
   "gfwlist_txt": {
     "name": "gfwlist.txt",
-    "date": "2026-08-19 03:55",
-    "md5": "632ec60f413082b9a68a4bec22f9b2d0",
-    "count": "6654"
+    "date": "2026-08-21 04:00",
+    "md5": "f58e3ce3f8ea46e00333cf5e37b7f324",
+    "count": "6656"
   },
   "chnroute_maxmind": {
     "name": "chnroute_maxmind.txt",
@@ -40,10 +40,10 @@
   },
   "chnroute_misakaio": {
     "name": "chnroute_misakaio.txt",
-    "date": "2026-08-19 03:55",
-    "md5": "5394474f080597499f1928498a21a02b",
-    "count": "3910",
-    "count_ip": "282507264",
+    "date": "2026-08-21 04:00",
+    "md5": "ca3e773f3b9aec76002ce5579c7e9c61",
+    "count": "3909",
+    "count_ip": "282511360",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
@@ -58,19 +58,19 @@
   },
   "chnroute_apnic": {
     "name": "chnroute_apnic.txt",
-    "date": "2026-08-11 04:20",
-    "md5": "0d66eabf8d84354aad7a8d5a90744b9a",
-    "count": "8790",
-    "count_ip": "342937344",
+    "date": "2026-08-21 04:00",
+    "md5": "a24593b94bb2785b444250a657577e6d",
+    "count": "8791",
+    "count_ip": "342937856",
     "source": "apnic",
     "url": "http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest"
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-08-19 03:55",
-    "md5": "aaabaa1f0698e810ef6d786992c7356f",
-    "count": "6893",
-    "count_ip": "357130424",
+    "date": "2026-08-21 04:00",
+    "md5": "c38248b89db462e449dff6d53c17c49b",
+    "count": "6895",
+    "count_ip": "357131448",
     "source": "fancyss",
     "url": "https://github.com/hq450/fancyss/tree/3.0/rules"
   },
