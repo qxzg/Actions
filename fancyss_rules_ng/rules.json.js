@@ -7,24 +7,24 @@
   },
   "chnlist": {
     "name": "chnlist.gz",
-    "date": "2026-08-04 04:46",
-    "md5": "69401227fb786fa1e1394c5739ab8b78",
-    "count": "111044",
+    "date": "2026-08-25 04:01",
+    "md5": "26e076cf53c5cdf57d72c358c9c32412",
+    "count": "111110",
     "note": "merged from dnsmasq-china-list"
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-08-22 03:55",
-    "md5": "d0911b14192f8eb1c602f03d16009718",
+    "date": "2026-08-25 04:01",
+    "md5": "ea308bfd2b7534753ea0653fd3fb0104",
     "count": "6897",
     "count_ip": "357132216",
     "source": "merged"
   },
   "chnroute6": {
     "name": "chnroute6.txt",
-    "date": "2026-08-21 04:00",
-    "md5": "672d8d08a746410277011d40740d396c",
-    "count": "2042",
+    "date": "2026-08-25 04:01",
+    "md5": "70b9bb8935737787691c93d843e1df5b",
+    "count": "2041",
     "source": "apnic"
   },
   "adslist": {
