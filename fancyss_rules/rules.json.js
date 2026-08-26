@@ -40,10 +40,10 @@
   },
   "chnroute_misakaio": {
     "name": "chnroute_misakaio.txt",
-    "date": "2026-08-26 03:59",
-    "md5": "3b35be8c15d70d05b3ed69c204b643c7",
-    "count": "3909",
-    "count_ip": "282527744",
+    "date": "2026-08-27 06:30",
+    "md5": "69be35368032a17b70cd42a73474bbdb",
+    "count": "3907",
+    "count_ip": "282516736",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
@@ -76,22 +76,22 @@
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2026-08-25 04:01",
-    "md5": "85ebc56b19a21d48ea2b53fdc186b5f6",
-    "count": "111115"
+    "date": "2026-08-27 06:30",
+    "md5": "5fa5477369dd34143a79ac3251963a41",
+    "count": "111599"
   },
   "chnlist_txt": {
     "name": "chnlist.txt",
-    "date": "2026-08-25 04:01",
-    "md5": "85ebc56b19a21d48ea2b53fdc186b5f6",
-    "count": "111115",
+    "date": "2026-08-27 06:30",
+    "md5": "5fa5477369dd34143a79ac3251963a41",
+    "count": "111599",
     "note": "same as cdn.txt with different name"
   },
   "apple_china": {
     "name": "apple_china.txt",
-    "date": "2026-06-20 04:54",
-    "md5": "a6046afbccf15cb60578ffbb5ce399c5",
-    "count": "164"
+    "date": "2026-08-27 06:30",
+    "md5": "4e4295f1172fca522bb78901aff78264",
+    "count": "165"
   },
   "google_china": {
     "name": "google_china.txt",
@@ -101,8 +101,8 @@
   },
   "cdn_test": {
     "name": "cdn_test.txt",
-    "date": "2026-05-10 04:24",
-    "md5": "1003972714d2265e4b0d3c3e8245519b",
-    "count": "91"
+    "date": "2026-08-27 06:30",
+    "md5": "19fa82eb6a5aaeecc40e0c3227a34ee7",
+    "count": "93"
   }
 }
