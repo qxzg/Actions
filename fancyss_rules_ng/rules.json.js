@@ -7,9 +7,9 @@
   },
   "chnlist": {
     "name": "chnlist.gz",
-    "date": "2026-10-11 06:55",
-    "md5": "5a810c1a773470ce7442486420239f89",
-    "count": "110481",
+    "date": "2026-10-14 07:25",
+    "md5": "8f0df00a657e17029828c3e9079824b2",
+    "count": "110169",
     "note": "merged from dnsmasq-china-list"
   },
   "chnroute": {
@@ -29,9 +29,9 @@
   },
   "adslist": {
     "name": "adslist.gz",
-    "date": "2026-10-11 06:55",
-    "md5": "a6ec6e494968246b28f83108f4917490",
-    "count": "109446",
+    "date": "2026-10-14 07:25",
+    "md5": "f80fa5fa274cd27d1353a73b6a430428",
+    "count": "110164",
     "source": "anti-ad",
     "url": "https://anti-ad.net/domains.txt"
   },
