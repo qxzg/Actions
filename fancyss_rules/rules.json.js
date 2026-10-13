@@ -58,19 +58,19 @@
   },
   "chnroute_apnic": {
     "name": "chnroute_apnic.txt",
-    "date": "2026-10-01 07:11",
-    "md5": "b7801959a4846ab19466534ea2d3f92a",
-    "count": "8793",
-    "count_ip": "342938880",
+    "date": "2026-10-13 09:36",
+    "md5": "6fee1bf65e1d8db84ee8826f2f687f0d",
+    "count": "8794",
+    "count_ip": "342939392",
     "source": "apnic",
     "url": "http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest"
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-10-12 07:09",
-    "md5": "ffe25866f6fac242ec2353dc0e2c7e8e",
-    "count": "6893",
-    "count_ip": "357073592",
+    "date": "2026-10-13 09:36",
+    "md5": "10a828c2dfdb42520f5490478b59f7e3",
+    "count": "6894",
+    "count_ip": "357074104",
     "source": "fancyss",
     "url": "https://github.com/hq450/fancyss/tree/3.0/rules"
   },
