@@ -1,15 +1,15 @@
 {
   "gfwlist": {
     "name": "gfwlist.conf",
-    "date": "2026-10-09 07:57",
-    "md5": "5b43c22031d3aee5e9c357cea129f884",
-    "count": "6682"
+    "date": "2026-10-17 06:11",
+    "md5": "81c4d7bcfc1f7a4d6698ad220ada580f",
+    "count": "6684"
   },
   "gfwlist_txt": {
     "name": "gfwlist.txt",
-    "date": "2026-10-09 07:57",
-    "md5": "d944ddfe0f843e340d7befbeda7204ed",
-    "count": "6682"
+    "date": "2026-10-17 06:11",
+    "md5": "987ee2ee6acf7de7e8034528a020af57",
+    "count": "6684"
   },
   "chnroute_maxmind": {
     "name": "chnroute_maxmind.txt",
@@ -40,10 +40,10 @@
   },
   "chnroute_misakaio": {
     "name": "chnroute_misakaio.txt",
-    "date": "2026-10-16 06:39",
-    "md5": "8bea6d509deb7e2253da6b73f4dc1078",
-    "count": "3870",
-    "count_ip": "282428160",
+    "date": "2026-10-17 06:11",
+    "md5": "53067684b44268a981a7fac5921b5e82",
+    "count": "3879",
+    "count_ip": "282432512",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
@@ -58,33 +58,33 @@
   },
   "chnroute_apnic": {
     "name": "chnroute_apnic.txt",
-    "date": "2026-10-16 06:39",
-    "md5": "26770620049bdfb0c59715e7117bfaaa",
-    "count": "8795",
-    "count_ip": "342939904",
+    "date": "2026-10-17 06:11",
+    "md5": "a6fe27e1c038fac1c68a6dea09c5b9c6",
+    "count": "8796",
+    "count_ip": "342940416",
     "source": "apnic",
     "url": "http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest"
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-10-16 06:39",
-    "md5": "c4234a6847757b30e3bb9aaea5249ce9",
-    "count": "6893",
-    "count_ip": "357073336",
+    "date": "2026-10-17 06:11",
+    "md5": "f7665e03b6c6b22576f1cb5173437e5d",
+    "count": "6894",
+    "count_ip": "357073848",
     "source": "fancyss",
     "url": "https://github.com/hq450/fancyss/tree/3.0/rules"
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2026-10-16 06:39",
-    "md5": "50c8a94fb7cdc243fce20ba83777a2d1",
-    "count": "110120"
+    "date": "2026-10-17 06:11",
+    "md5": "94d0bd3be4382e777b316dc541dcad5c",
+    "count": "110076"
   },
   "chnlist_txt": {
     "name": "chnlist.txt",
-    "date": "2026-10-16 06:39",
-    "md5": "50c8a94fb7cdc243fce20ba83777a2d1",
-    "count": "110120",
+    "date": "2026-10-17 06:11",
+    "md5": "94d0bd3be4382e777b316dc541dcad5c",
+    "count": "110076",
     "note": "same as cdn.txt with different name"
   },
   "apple_china": {
