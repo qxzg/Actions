@@ -14,24 +14,24 @@
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-11-10 10:23",
-    "md5": "fa941e45c21c9cef0949e8e3f59dbb2f",
-    "count": "6903",
-    "count_ip": "357073848",
+    "date": "2026-11-11 08:14",
+    "md5": "9d211bd630d86060fc949570637e02c8",
+    "count": "6901",
+    "count_ip": "357072312",
     "source": "merged"
   },
   "chnroute6": {
     "name": "chnroute6.txt",
-    "date": "2026-10-31 07:13",
-    "md5": "63daeca20dc43aab8beb4835ee70cdc1",
-    "count": "2046",
+    "date": "2026-11-11 08:14",
+    "md5": "b12fe39ac87cd9a1e38242002ab0351f",
+    "count": "2047",
     "source": "apnic"
   },
   "adslist": {
     "name": "adslist.gz",
-    "date": "2026-11-08 06:59",
-    "md5": "caf96d16fc2f22ded496ce5e77fb4aa3",
-    "count": "110670",
+    "date": "2026-11-11 08:13",
+    "md5": "52dda942d2944ec0784afdef9ad7caee",
+    "count": "109239",
     "source": "anti-ad",
     "url": "https://anti-ad.net/domains.txt"
   },
