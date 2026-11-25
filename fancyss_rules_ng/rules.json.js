@@ -22,9 +22,9 @@
   },
   "chnroute6": {
     "name": "chnroute6.txt",
-    "date": "2026-11-24 12:29",
-    "md5": "d742f4dfc971614e862cf26aae1ba773",
-    "count": "2048",
+    "date": "2026-11-25 11:09",
+    "md5": "6e3844ead792fa02bd28106ba0ff4094",
+    "count": "2047",
     "source": "apnic"
   },
   "adslist": {
